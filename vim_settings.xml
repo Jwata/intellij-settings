@@ -23,7 +23,7 @@
         <mark key="." line="58" column="10" />
         <mark key="^" line="58" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1480895420479">
+      <file name="/a.dummy" timestamp="1480908610489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1480901002668">
@@ -33,13 +33,31 @@
         <mark key="." line="49" column="24" />
         <mark key="^" line="49" column="24" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1480908635995">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/src/Lib.hs" timestamp="1480897570179">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/graph_resolutions_menu.scss" timestamp="1480908678158">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1480907697651">
         <mark key="'" line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" timestamp="1480908883155">
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/app/Main.hs" timestamp="1480897592103">
         <mark key="[" line="5" column="0" />
@@ -104,55 +122,58 @@
       <jump line="189" column="10" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="185" column="12" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="100" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="9" column="1" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" />
+      <jump line="84" column="49" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5hY3RpdmVQb2ludHMucHVzaChwcmV2aW91c0dyb3VwW3ByZXZpb3VzR3JvdXAubGVuZ3RoIC0gMV0pCiAgICAgICAgICAgIGluYWN0aXZlUG9pbnRzLnB1c2goZ3JvdXBbMF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>$color-grey</text>
       </register>
       <register name="-" type="4">
-        <text>firstGroup[0]</text>
+        <text>$color-grey</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcmF3SW5hY3RpdmVHcmFwaFw+</text>
+        <text>white</text>
       </register>
       <register name="0" type="4">
-        <text>lastGroup[lastGroup.length - 1]</text>
+        <text>$color-inactive-point</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5hY3RpdmVQb2ludHMucHVzaChwcmV2aW91c0dyb3VwW3ByZXZpb3VzR3JvdXAubGVuZ3RoIC0gMV0pCiAgICAgICAgICAgIGluYWN0aXZlUG9pbnRzLnB1c2goZ3JvdXBbMF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluYWN0aXZlUG9pbnRzLnB1c2goZmlyc3RHcm91cFswXSkK</text>
+        <text encoding="base64">JGNvbG9yLQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluYWN0aXZlUG9pbnRzLnB1c2gobGFzdEdyb3VwW2xhc3RHcm91cC5sZW5ndGggLSAxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5hY3RpdmVQb2ludHMucHVzaChwcmV2aW91c0dyb3VwW3ByZXZpb3VzR3JvdXAubGVuZ3RoIC0gMV0pCiAgICAgICAgICAgIGluYWN0aXZlUG9pbnRzLnB1c2goZ3JvdXBbMF0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGluYWN0aXZlUG9pbnRzLnB1c2goZmlyc3RHcm91cFswXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAK</text>
+        <text encoding="base64">ICAgICAgICAgIGluYWN0aXZlUG9pbnRzLnB1c2gobGFzdEdyb3VwW2xhc3RHcm91cC5sZW5ndGggLSAxXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldmlvdXNHcm91cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgaWYgIXN0YXJ0LnZhbHVlICYmIGVuZC52YWx1ZQojICAgICAgICAgIHN0YXJ0LnZhbHVlID0gZW5kLnZhbHVlCiMgICAgICAgIGVsc2UgaWYgc3RhcnQudmFsdWUgJiYgIWVuZC52YWx1ZQojICAgICAgICAgIGVuZC52YWx1ZSA9IHN0YXJ0LnZhbHVlCiMgICAgICAgIGVsc2UgaWYgIXN0YXJ0LnZhbHVlICYmICFlbmQudmFsdWUKIyAgICAgICAgICBzdGFydC52YWx1ZSA9IGVuZC52YWx1ZSA9IDAuNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAhc3RhcnQudmFsdWUgJiYgZW5kLnZhbHVlCiAgICAgICAgICBzdGFydC52YWx1ZSA9IGVuZC52YWx1ZQogICAgICAgIGVsc2UgaWYgc3RhcnQudmFsdWUgJiYgIWVuZC52YWx1ZQogICAgICAgICAgZW5kLnZhbHVlID0gc3RhcnQudmFsdWUKICAgICAgICBlbHNlIGlmICFzdGFydC52YWx1ZSAmJiAhZW5kLnZhbHVlCiAgICAgICAgICBzdGFydC52YWx1ZSA9IGVuZC52YWx1ZSA9IDAuNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldmlvdXNHcm91cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgaWYgIXN0YXJ0LnZhbHVlICYmIGVuZC52YWx1ZQojICAgICAgICAgIHN0YXJ0LnZhbHVlID0gZW5kLnZhbHVlCiMgICAgICAgIGVsc2UgaWYgc3RhcnQudmFsdWUgJiYgIWVuZC52YWx1ZQojICAgICAgICAgIGVuZC52YWx1ZSA9IHN0YXJ0LnZhbHVlCiMgICAgICAgIGVsc2UgaWYgIXN0YXJ0LnZhbHVlICYmICFlbmQudmFsdWUKIyAgICAgICAgICBzdGFydC52YWx1ZSA9IGVuZC52YWx1ZSA9IDAuNQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcmF3SW5hY3RpdmVHcmFwaFw+</last-search>
+      <last-search>white</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcmF3SW5hY3RpdmVHcmFwaFw+</last-pattern>
+      <last-pattern>white</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -177,6 +198,7 @@
         <entry encoding="base64">XDxpbmFjdGl2ZVRocmVzaG9sZFw+</entry>
         <entry encoding="base64">XDxqb2luZWRHcm91cFw+</entry>
         <entry encoding="base64">XDxkcmF3SW5hY3RpdmVHcmFwaFw+</entry>
+        <entry>white</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
@@ -200,6 +222,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
