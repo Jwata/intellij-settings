@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" timestamp="1480932568219">
+      <file name="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" timestamp="1480932888639">
         <mark key="'" line="24" column="6" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="84" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="24" column="83" />
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_dashboard_graph.html.haml" timestamp="1480918166950">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1480932331886">
+      <file name="/a.dummy" timestamp="1480932898167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1480908635995">
@@ -67,11 +67,10 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/development/haskell-first-project/app/Main.hs" timestamp="1480932495245">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/development/haskell-first-project/app/Main.hs" timestamp="1480932759724">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -178,7 +177,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBnaGMtb3B0aW9uczogICAgICAgICAtdGhyZWFkZWQgLXJ0c29wdHMgLXdpdGgtcnRzb3B0cz0tTgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLCB3YXJwCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -187,34 +186,34 @@
         <text>options</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnaGMtb3B0aW9uczogICAgICAgICAtdGhyZWFkZWQgLXJ0c29wdHMgLXdpdGgtcnRzb3B0cz0tTiAtZndhcm4tbWlzc2luZy1zaWduYXR1cmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLCB3YXJwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnaGMtb3B0aW9uczogICAgICAgICAtdGhyZWFkZWQgLXJ0c29wdHMgLXdpdGgtcnRzb3B0cz0tTgo=</text>
+        <text encoding="base64">aW1wb3J0IE5ldHdvcmsuV2FpLkhhbmRsZXIuV2FycCAocnVuKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">QXBwbGljYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdHVzMjAK</text>
+        <text encoding="base64">ICBnaGMtb3B0aW9uczogICAgICAgICAtdGhyZWFkZWQgLXJ0c29wdHMgLXdpdGgtcnRzb3B0cz0tTgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IE5ldHdvcmsK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">c3RhdHVzMjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Two=</text>
+        <text encoding="base64">aW1wb3J0IE5ldHdvcmsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAsIHdhaQo=</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwIDo6IEFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">Two=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsIHdhaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
