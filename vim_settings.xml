@@ -10,20 +10,6 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1480918733931">
-        <mark key="'" line="108" column="64" />
-        <mark key="[" line="234" column="60" />
-        <mark key="]" line="234" column="66" />
-        <mark key="." line="234" column="60" />
-        <mark key="^" line="228" column="65" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1480906197409">
-        <mark key="'" line="58" column="10" />
-        <mark key="[" line="58" column="6" />
-        <mark key="]" line="58" column="10" />
-        <mark key="." line="58" column="10" />
-        <mark key="^" line="58" column="10" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_dashboard_graph.html.haml" timestamp="1480918166950">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -32,19 +18,26 @@
       <file name="/a.dummy" timestamp="1480908610489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1480901002668">
-        <mark key="'" line="49" column="24" />
-        <mark key="[" line="49" column="24" />
-        <mark key="]" line="49" column="25" />
-        <mark key="." line="49" column="24" />
-        <mark key="^" line="49" column="24" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1480908635995">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" timestamp="1480920452313">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" timestamp="1480920424333">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="71" column="26" />
+        <mark key="]" line="71" column="26" />
+        <mark key="." line="71" column="26" />
+        <mark key="^" line="71" column="26" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/src/Lib.hs" timestamp="1480897570179">
         <mark key="[" line="5" column="0" />
@@ -55,6 +48,30 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1480919583281">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1480906197409">
+        <mark key="'" line="58" column="10" />
+        <mark key="[" line="58" column="6" />
+        <mark key="]" line="58" column="10" />
+        <mark key="." line="58" column="10" />
+        <mark key="^" line="58" column="10" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1480919565184">
+        <mark key="'" line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" timestamp="1480919529668" />
+      <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1480901002668">
+        <mark key="'" line="49" column="24" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="24" />
+        <mark key="^" line="49" column="24" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1480907697651">
         <mark key="'" line="24" column="29" />
@@ -72,9 +89,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="116" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="65" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="125" column="25" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="135" column="26" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="128" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -172,61 +186,63 @@
       <jump line="79" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="115" column="60" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="108" column="64" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="71" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5RnJvbVZhbHVlXD4=</text>
+        <text>archive</text>
       </register>
       <register name="0" type="4">
         <text>bottom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OmNvZmZlZXNjcmlwdAogIHdpbmRvdy5kYXNoYm9hcmRHcmFwaCgpCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmF0dHIoJ2RhdGEtbm8tdHVyYm9saW5rJywgJycpCg==</text>
+        <text encoding="base64">OmNvZmZlZXNjcmlwdAogIHdpbmRvdy5kYXNoYm9hcmRHcmFwaCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLmF0dHIoJ2RhdGEtbm8tdHVyYm9saW5rJywgJycpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">d2luZG93LmRhc2hib2FyZEdyYXBoCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5RnJvbVZhbHVlXD4=</last-search>
+      <last-search>archive</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5RnJvbVZhbHVlXD4=</last-pattern>
+      <last-pattern>archive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZFJlc29sdXRpb25cPg==</entry>
         <entry>deb</entry>
         <entry>hours</entry>
         <entry encoding="base64">XDxpbmFjdGl2ZVRocmVzaG9sZFw+</entry>
@@ -246,6 +262,7 @@
         <entry>y1</entry>
         <entry>debug</entry>
         <entry encoding="base64">XDx5RnJvbVZhbHVlXD4=</entry>
+        <entry>archive</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
@@ -272,6 +289,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
