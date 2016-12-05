@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" timestamp="1480931621679">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="25" />
+      <file name="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" timestamp="1480932487769">
+        <mark key="'" line="35" column="44" />
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="83" />
+        <mark key="." line="24" column="83" />
+        <mark key="^" line="24" column="83" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_dashboard_graph.html.haml" timestamp="1480918166950">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1480908610489">
+      <file name="/a.dummy" timestamp="1480932331886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1480908635995">
@@ -51,7 +51,6 @@
         <mark key="." line="58" column="10" />
         <mark key="^" line="58" column="10" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" timestamp="1480919529668" />
       <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1480901002668">
         <mark key="'" line="49" column="24" />
         <mark key="[" line="49" column="24" />
@@ -68,14 +67,14 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/development/haskell-first-project/app/Main.hs" timestamp="1480931772358">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/development/haskell-first-project/app/Main.hs" timestamp="1480932495245">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="42" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="141" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="146" column="28" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="154" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -175,63 +174,61 @@
       <jump line="98" column="27" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="103" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="25" column="8" filename="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" />
+      <jump line="35" column="44" filename="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXBlbmRzXD4=</text>
+        <text>options</text>
       </register>
       <register name="0" type="4">
         <text>import</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Two=</text>
+        <text encoding="base64">c3RhdHVzMjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAsIHdhaQo=</text>
+        <text encoding="base64">aW1wb3J0IE5ldHdvcmsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwIDo6IEFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Two=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFpbiA9IHJ1biAzMDAwIGFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">ICAsIHdhaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgcG9ydCA9IDMwMDAKICBwdXRTdHJMbiAkICJMaXN0ZW5pbmcgb24gcG9ydCIgKysgc2hvdyBwb3J0CiAgcnVuIHBvcnQgYXBwCg==</text>
+        <text encoding="base64">YXBwIDo6IEFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmICQgcmVzcG9uc2VMQlMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gbWFpbiA6OiBJTyAoKQotLSBtYWluID0gc29tZUZ1bmMKCg==</text>
+        <text encoding="base64">bWFpbiA9IHJ1biAzMDAwIGFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXBlbmRzXD4=</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXBlbmRzXD4=</last-pattern>
+      <last-pattern>options</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqb2luZWRHcm91cFw+</entry>
-        <entry encoding="base64">XDxkcmF3SW5hY3RpdmVHcmFwaFw+</entry>
-        <entry>white</entry>
         <entry encoding="base64">XDxkcmF3R3JhcGhcPg==</entry>
         <entry encoding="base64">XDxyZWRyYXdHcmFwaFw+</entry>
         <entry encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</entry>
@@ -249,6 +246,9 @@
         <entry encoding="base64">XDxzaG91bGRfaGF2ZV9jdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxvdGhlcnNcPg==</entry>
         <entry encoding="base64">XDxkZXBlbmRzXD4=</entry>
+        <entry>fwarn-missing-signatures</entry>
+        <entry>warin</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
