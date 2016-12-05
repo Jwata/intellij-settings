@@ -25,19 +25,19 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" timestamp="1480920452313">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="14" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" timestamp="1480922975007">
+        <mark key="'" line="22" column="121" />
+        <mark key="[" line="22" column="121" />
+        <mark key="]" line="22" column="121" />
+        <mark key="^" line="22" column="121" />
+        <mark key="." line="22" column="121" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" timestamp="1480920424333">
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" timestamp="1480923072168">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="71" column="26" />
-        <mark key="]" line="71" column="26" />
-        <mark key="." line="71" column="26" />
-        <mark key="^" line="71" column="26" />
+        <mark key="[" line="72" column="88" />
+        <mark key="]" line="72" column="89" />
+        <mark key="." line="72" column="89" />
+        <mark key="^" line="72" column="89" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/src/Lib.hs" timestamp="1480897570179">
         <mark key="[" line="5" column="0" />
@@ -89,7 +89,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="25" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="135" column="26" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="128" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="134" column="12" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -189,13 +188,14 @@
       <jump line="71" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" />
+      <jump line="22" column="121" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>[0-9]</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>[0-9]</text>
       </register>
       <register name="/" type="4">
         <text>archive</text>
@@ -204,31 +204,31 @@
         <text>bottom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OmNvZmZlZXNjcmlwdAogIHdpbmRvdy5kYXNoYm9hcmRHcmFwaCgpCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">OmNvZmZlZXNjcmlwdAogIHdpbmRvdy5kYXNoYm9hcmRHcmFwaCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmF0dHIoJ2RhdGEtbm8tdHVyYm9saW5rJywgJycpCg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLmF0dHIoJ2RhdGEtbm8tdHVyYm9saW5rJywgJycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
