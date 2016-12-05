@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" timestamp="1480898124609">
+      <file name="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" timestamp="1480929330031">
         <mark key="'" line="34" column="23" />
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="25" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_dashboard_graph.html.haml" timestamp="1480918166950">
         <mark key="[" line="1" column="0" />
@@ -25,20 +25,13 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" timestamp="1480927029220">
-        <mark key="'" line="104" column="6" />
-        <mark key="[" line="100" column="9" />
-        <mark key="]" line="101" column="16" />
-        <mark key="." line="101" column="16" />
-        <mark key="^" line="101" column="16" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" timestamp="1480923072168">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/development/haskell-first-project/src/Lib.hs" timestamp="1480897570179">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/development/haskell-first-project/src/Lib.hs" timestamp="1480929471617">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/graph_resolutions_menu.scss" timestamp="1480908678158">
         <mark key="[" line="3" column="0" />
@@ -59,11 +52,6 @@
         <mark key="^" line="58" column="10" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" timestamp="1480919529668" />
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" timestamp="1480926885858">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1480901002668">
         <mark key="'" line="49" column="24" />
         <mark key="[" line="49" column="24" />
@@ -80,10 +68,11 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/development/haskell-first-project/app/Main.hs" timestamp="1480897592103">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/development/haskell-first-project/app/Main.hs" timestamp="1480929619616">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -190,10 +179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">aW1vcHIK</text>
       </register>
       <register name="-" type="4">
-        <text>[0-9]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdGhlcnNcPg==</text>
@@ -202,31 +191,31 @@
         <text>bottom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">aW1vcHIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">TmV0d29yawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OmNvZmZlZXNjcmlwdAogIHdpbmRvdy5kYXNoYm9hcmRHcmFwaCgpCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
