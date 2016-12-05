@@ -10,8 +10,22 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1480904821209">
+        <mark key="'" line="156" column="63" />
+        <mark key="[" line="136" column="18" />
+        <mark key="]" line="136" column="45" />
+        <mark key="." line="136" column="45" />
+        <mark key="^" line="136" column="45" />
+      </file>
       <file name="/a.dummy" timestamp="1480895420479">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1480901002668">
+        <mark key="'" line="49" column="24" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="24" />
+        <mark key="^" line="49" column="24" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/src/Lib.hs" timestamp="1480897570179">
         <mark key="[" line="5" column="0" />
@@ -28,43 +42,96 @@
       <jump line="18" column="23" filename="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" />
       <jump line="26" column="23" filename="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" />
       <jump line="34" column="23" filename="$USER_HOME$/development/haskell-first-project/haskell-first-project.cabal" />
+      <jump line="49" column="24" filename="$USER_HOME$/enJapan/vibe/config/environments/development.rb" />
+      <jump line="123" column="21" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="118" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="116" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="65" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="125" column="25" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="135" column="26" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="128" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="134" column="12" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="138" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="100" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="168" column="13" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="153" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="140" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="152" column="42" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="141" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="143" column="13" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="144" column="31" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="146" column="28" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="148" column="32" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="156" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="154" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="155" column="63" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">TkVUV09SSwo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">TkVUV09SSwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>activePointsGroups</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxhY3RpdmVQb2ludHNHcm91cHNcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>activeJoinedGroups</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU8K</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE5ldHdvcmsuV2FpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB3YXJwCg==</text>
+        <text encoding="base64">ICAgICAgZHJhd0FjdGl2ZUdyYXBoKGFjdGl2ZVBvaW50c0dyb3VwcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE5ldHdvcmsK</text>
+        <text encoding="base64">ICAgICAgZGViaWdnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlXD4=</text>
-      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlXD4=</last-search>
+      <last-search encoding="base64">XDxhY3RpdmVQb2ludHNHcm91cHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmVQb2ludHNHcm91cHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxiYXNlXD4=</entry>
+        <entry encoding="base64">XDxsaW5lRnVuY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDx4U2NhbGVcPg==</entry>
+        <entry encoding="base64">XDxjYXJkaW5hbFw+</entry>
+        <entry encoding="base64">XDxncm91cHNcPg==</entry>
+        <entry encoding="base64">XDxncm91cFw+</entry>
+        <entry encoding="base64">XDxkcmF3SW5hY3RpdmVHcmFwaFw+</entry>
+        <entry encoding="base64">XDxhY3RpdmVHcmFwaERhdGFcPg==</entry>
+        <entry encoding="base64">XDxqb2luR3JvdXBzV2l0aEluU2hvcnREaXN0YW5jZVw+</entry>
+        <entry encoding="base64">XDxqb2luZWRHcm91cHNcPg==</entry>
+        <entry encoding="base64">XDxqb2luZWRHcm91cFw+</entry>
+        <entry>tension</entry>
+        <entry encoding="base64">XDxhY3RpdmVQb2ludHNHcm91cHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -73,11 +140,20 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
