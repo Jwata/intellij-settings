@@ -57,8 +57,8 @@
         <mark key="^" line="193" column="5" />
         <mark key="." line="193" column="5" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1480986259512">
-        <mark key="'" line="58" column="10" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1481089107107">
+        <mark key="'" line="106" column="29" />
         <mark key="[" line="55" column="39" />
         <mark key="]" line="56" column="14" />
         <mark key="." line="56" column="14" />
@@ -121,15 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="12" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="78" column="12" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="105" column="15" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="106" column="79" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="109" column="15" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="110" column="39" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai/Internal.hs" />
-      <jump line="118" column="5" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai/Internal.hs" />
-      <jump line="138" column="18" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="132" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
       <jump line="133" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
       <jump line="136" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
       <jump line="71" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
@@ -221,6 +212,15 @@
       <jump line="33" column="20" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="59" column="19" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/tmp/rubycritic/app/controllers/feedback_controller.html" />
+      <jump line="56" column="14" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="72" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="48" column="78" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="68" column="44" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="49" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="59" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="64" column="57" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="101" column="39" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="106" column="29" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -230,7 +230,7 @@
         <text>12</text>
       </register>
       <register name="/" type="4">
-        <text>de</text>
+        <text encoding="base64">XDxnZW5lcmF0ZV9tZXNzYWdlX3V1aWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcG90czogWzEyLmhvdXJzLnRvX2ldCg==</text>
@@ -267,19 +267,14 @@
       </register>
     </registers>
     <search>
-      <last-search>de</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZV9tZXNzYWdlX3V1aWRcPg==</last-search>
       <last-offset />
-      <last-pattern>de</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9tZXNzYWdlX3V1aWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cleanData</entry>
-        <entry encoding="base64">XDxjbGVhbkRhdGFcPg==</entry>
-        <entry>cleanDat</entry>
-        <entry>spotData</entry>
-        <entry>groupsEnter</entry>
         <entry>spot</entry>
         <entry>resolution</entry>
         <entry encoding="base64">XDxtYWtlX3Nwb3RfdGVzdFw+</entry>
@@ -295,6 +290,11 @@
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxidWZmZXJcPg==</entry>
         <entry>de</entry>
+        <entry>updte_</entry>
+        <entry>update_anal</entry>
+        <entry encoding="base64">XDxwdWxsX2hpc3Rvcnlfc3RhcnRfdGltZVw+</entry>
+        <entry encoding="base64">XDxhbmFseXNlX21lc3NhZ2VzXD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9tZXNzYWdlX3V1aWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
