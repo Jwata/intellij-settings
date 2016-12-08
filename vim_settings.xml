@@ -22,7 +22,6 @@
         <mark key="]" line="112" column="11" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" timestamp="1481162104847">
-        <mark key="'" line="51" column="6" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -75,8 +74,8 @@
         <mark key="^" line="193" column="5" />
         <mark key="." line="193" column="5" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1481155933841">
-        <mark key="'" line="52" column="45" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1481177276502">
+        <mark key="'" line="55" column="11" />
         <mark key="[" line="55" column="39" />
         <mark key="]" line="56" column="14" />
         <mark key="." line="56" column="14" />
@@ -155,11 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="2" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" />
-      <jump line="336" column="2" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" />
-      <jump line="337" column="17" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" />
-      <jump line="340" column="14" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" />
-      <jump line="341" column="30" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" />
       <jump line="91" column="49" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
       <jump line="135" column="31" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
       <jump line="0" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy.hs" />
@@ -236,7 +230,6 @@
       <jump line="16" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
       <jump line="17" column="22" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
       <jump line="42" column="38" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
-      <jump line="52" column="45" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
       <jump line="7" column="6" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
       <jump line="41" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
       <jump line="46" column="6" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
@@ -255,6 +248,12 @@
       <jump line="72" column="10" filename="$USER_HOME$/enJapan/vibe/app/services/watson.rb" />
       <jump line="46" column="48" filename="$USER_HOME$/enJapan/vibe/spec/services/watson_spec.rb" />
       <jump line="101" column="35" filename="$USER_HOME$/enJapan/vibe/app/services/watson.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="52" column="22" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="73" column="7" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="76" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="47" column="7" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="55" column="11" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +263,7 @@
         <text>unsupported-text-language</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXRyaWV2ZVw+</text>
+        <text encoding="base64">XDxkZWZhdWx0X2FuYWx5emVfbWVzc2FnZV9mcm9tXD4=</text>
       </register>
       <register name="0" type="4">
         <text>cannot-retrieve</text>
@@ -301,17 +300,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXRyaWV2ZVw+</last-search>
+      <last-search encoding="base64">XDxkZWZhdWx0X2FuYWx5emVfbWVzc2FnZV9mcm9tXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXRyaWV2ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZhdWx0X2FuYWx5emVfbWVzc2FnZV9mcm9tXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
-        <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
-        <entry encoding="base64">XDxncm91cHNFbnRlclw+</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxidWZmZXJcPg==</entry>
         <entry>de</entry>
@@ -329,6 +325,9 @@
         <entry encoding="base64">XDxjYW5ub3RcPg==</entry>
         <entry encoding="base64">XDxrZXl3b3JkXD4=</entry>
         <entry encoding="base64">XDxyZXRyaWV2ZVw+</entry>
+        <entry>last_</entry>
+        <entry encoding="base64">XDxsYXN0X2FuYWx5c2VkX2F0XD4=</entry>
+        <entry encoding="base64">XDxkZWZhdWx0X2FuYWx5emVfbWVzc2FnZV9mcm9tXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
