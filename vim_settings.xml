@@ -15,6 +15,12 @@
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="11" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" timestamp="1481157154306">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" timestamp="1480983135871">
         <mark key="'" line="135" column="31" />
         <mark key="[" line="91" column="0" />
@@ -28,7 +34,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1481111158540">
+      <file name="/a.dummy" timestamp="1481156677724">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="12" />
       </file>
@@ -50,6 +56,12 @@
         <mark key="[" line="122" column="6" />
         <mark key="]" line="122" column="16" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" timestamp="1481154786686">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Internal.hs" timestamp="1480983213471">
         <mark key="'" line="34" column="10" />
         <mark key="[" line="193" column="0" />
@@ -57,8 +69,8 @@
         <mark key="^" line="193" column="5" />
         <mark key="." line="193" column="5" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1481089107107">
-        <mark key="'" line="106" column="29" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1481155933841">
+        <mark key="'" line="52" column="45" />
         <mark key="[" line="55" column="39" />
         <mark key="]" line="56" column="14" />
         <mark key="." line="56" column="14" />
@@ -87,6 +99,13 @@
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy.hs" timestamp="1480983215375">
         <mark key="'" line="223" column="43" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" timestamp="1481156822687">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="55" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http2-1.6.2/Network/HPACK/Types.hs" timestamp="1480933882426">
         <mark key="'" line="0" column="0" />
@@ -125,20 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="15" column="0" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="17" column="32" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="16" column="0" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="39" column="50" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="41" column="10" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="127" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="126" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="40" column="19" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="104" column="25" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="107" column="17" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Lazy/Internal.hs" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Internal.hs" />
-      <jump line="176" column="25" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Internal.hs" />
       <jump line="91" column="24" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http-types-0.9.1/Network/HTTP/Types/Header.hs" />
       <jump line="93" column="10" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http-types-0.9.1/Network/HTTP/Types/Header.hs" />
       <jump line="1" column="26" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http-types-0.9.1/Network/HTTP/Types/Header.hs" />
@@ -225,64 +230,74 @@
       <jump line="112" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http-types-0.9.1/Network/HTTP/Types/Header.hs" />
       <jump line="25" column="2" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http-types-0.9.1/Network/HTTP/Types/Header.hs" />
       <jump line="95" column="230" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http-types-0.9.1/Network/HTTP/Types/Header.hs" />
+      <jump line="7" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="9" column="9" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="15" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="4" column="10" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
+      <jump line="6" column="0" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
+      <jump line="8" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="10" column="9" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="16" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="17" column="22" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="42" column="38" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
+      <jump line="52" column="45" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="7" column="6" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
+      <jump line="41" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
+      <jump line="46" column="6" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>12</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoQ29udGVudFR5cGVcPg==</text>
+        <text encoding="base64">XDxwcm9jZXNzX21lc3NhZ2VzX3RleHRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcG90czogWzEyLmhvdXJzLnRvX2ldCg==</text>
+      <register name="0" type="4">
+        <text>text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IHByb2plY3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhY2sgZXhlYyBoYXNrZWxsLWZpcnN0LXByb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICAmJiBtWzp0ZXh0XS5hc2NpaV9vbmx5Pwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdzdWIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ey0jIE9QVElPTlNfR0hDIC1mbm8td2Fybi1kZXByZWNhdGlvbnMgIy19Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TEMucGFjawoK</text>
+        <text encoding="base64">ICAgICAgZGVmIHRvX2FzY2lpCiAgICAgICAgVU5JQ09ERV9BU0NJSV9NQVBQSU5HUy5pbmplY3QKICAgICAgICBzZWxmLmdzdWIoL1vigJjigJldLywgIiciKQogICAgICAgIHNlbGYuZ3N1YigvW+KAmOKAmV0vLCAiJyIpCiAgICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ey0jIExBTkdVQUdFIFRlbXBsYXRlSGFza2VsbCAjLX0KCg==</text>
+        <text encoding="base64">ICAgICAgZGVmIGhvZ2UKICAgICAgICBhYQogICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QXBwbGljYXRpbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoQ29udGVudFR5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX21lc3NhZ2VzX3RleHRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoQ29udGVudFR5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX21lc3NhZ2VzX3RleHRzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resolution</entry>
-        <entry encoding="base64">XDxtYWtlX3Nwb3RfdGVzdFw+</entry>
-        <entry encoding="base64">XDxzcG90c1w+</entry>
-        <entry encoding="base64">XDxzcG90c19hdFw+</entry>
         <entry encoding="base64">XDxncmFwaF9kYXRhXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
@@ -299,6 +314,10 @@
         <entry encoding="base64">XDxhbmFseXNlX21lc3NhZ2VzXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9tZXNzYWdlX3V1aWRcPg==</entry>
         <entry encoding="base64">XDxoQ29udGVudFR5cGVcPg==</entry>
+        <entry encoding="base64">XDxjbGVhbl90ZXh0XD4=</entry>
+        <entry encoding="base64">XDxwdXRfZW1vamlzX2luX2JyYWNrZXRzXD4=</entry>
+        <entry encoding="base64">XDxVTklDT0RFX0FTQ0lJX01BUFBJTkdTXD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX21lc3NhZ2VzX3RleHRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
