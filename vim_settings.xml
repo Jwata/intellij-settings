@@ -10,6 +10,12 @@
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="32" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/lib/slack/messages/text_spec.rb" timestamp="1481158721058">
+        <mark key="[" line="81" column="39" />
+        <mark key="]" line="81" column="67" />
+        <mark key="." line="81" column="39" />
+        <mark key="^" line="77" column="27" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http-types-0.9.1/Network/HTTP/Types/Header.hs" timestamp="1481110535245">
         <mark key="'" line="95" column="230" />
         <mark key="[" line="112" column="0" />
@@ -246,17 +252,17 @@
       <jump line="46" column="6" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>replace_emojis_with_unicode</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>replace_emojis_with_unicode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzX21lc3NhZ2VzX3RleHRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>text</text>
+        <text>replace_unicode_with_unicode</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
