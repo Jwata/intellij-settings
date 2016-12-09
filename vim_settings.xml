@@ -105,22 +105,21 @@
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http2-1.6.2/Network/HPACK/Types.hs" timestamp="1480933882426">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" timestamp="1481265309579">
-        <mark key="'" line="29" column="6" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" timestamp="1481268197555">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="11" />
         <mark key="o" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http2-1.6.2/Network/HPACK.hs" timestamp="1480933841485">
         <mark key="'" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" timestamp="1481265497331">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="8" column="1" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" timestamp="1481265657070">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1480901002668">
         <mark key="'" line="49" column="24" />
@@ -157,8 +156,19 @@
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" timestamp="1480923072168">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" timestamp="1481268592930">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" timestamp="1481267104116">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/text-1.2.2.1/Data/Text/Internal.hs" timestamp="1481191590220">
         <mark key="'" line="172" column="20" />
@@ -169,18 +179,37 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/factories/morale.rb" timestamp="1481266700326">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Char8.hs" timestamp="1480934111688">
         <mark key="'" line="203" column="8" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1481264494308">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/development/haskell-first-project/README.md" timestamp="1481111267904">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1481008384160">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1481268182184">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/utils/logger_utility.rb" timestamp="1481180137606">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/message_spec.rb" timestamp="1481266845415">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/warp-3.2.9/Network/Wai/Handler/Warp/Run.hs" timestamp="1480933246157">
         <mark key="'" line="7" column="0" />
@@ -213,32 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
-      <jump line="76" column="0" filename="$USER_HOME$/enJapan/vibe/spec/lib/slack/messages/text_spec.rb" />
-      <jump line="61" column="2" filename="$USER_HOME$/enJapan/vibe/spec/lib/slack/messages/text_spec.rb" />
-      <jump line="80" column="42" filename="$USER_HOME$/enJapan/vibe/spec/lib/slack/messages/text_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/base-4.9.0.0/System/IO.hs" />
-      <jump line="137" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="107" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="70" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="106" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="49" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="53" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="274" column="26" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="5" column="34" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="69" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="22" column="0" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="34" column="0" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="17" column="15" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="21" column="15" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="27" column="0" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="28" column="0" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="13" column="4" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="12" column="4" filename="$USER_HOME$/development/haskell-first-project/app/Main.hs" />
-      <jump line="264" column="5" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="54" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="279" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/wai-3.2.1.1/Network/Wai.hs" />
-      <jump line="25" column="0" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/text-1.2.2.1/Data/Text/Internal.hs" />
       <jump line="26" column="12" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/text-1.2.2.1/Data/Text/Internal.hs" />
       <jump line="30" column="6" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/text-1.2.2.1/Data/Text/Internal.hs" />
       <jump line="46" column="10" filename="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/text-1.2.2.1/Data/Text/Internal.hs" />
@@ -271,11 +274,8 @@
       <jump line="35" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="4" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="36" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
-      <jump line="37" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="42" column="59" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="44" column="39" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
-      <jump line="34" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
-      <jump line="28" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="29" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="20" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
       <jump line="36" column="37" filename="$USER_HOME$/enJapan/vibe/app/services/chat_analyser.rb" />
@@ -307,76 +307,95 @@
       <jump line="202" column="68" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
       <jump line="19" column="25" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="25" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
-      <jump line="27" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="25" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
       <jump line="5" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
       <jump line="25" column="60" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
       <jump line="0" column="21" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
       <jump line="26" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
+      <jump line="75" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="31" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="37" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="43" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="49" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="53" column="7" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="25" column="22" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="39" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="12" column="25" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="30" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="28" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="34" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="27" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/message_spec.rb" />
+      <jump line="40" column="6" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="3" column="7" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="35" column="8" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="42" column="1" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="38" column="15" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="47" column="8" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="49" column="17" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="51" column="15" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="7" column="44" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="11" column="81" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="30" column="43" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="34" column="8" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="36" column="17" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="77" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
+      <jump line="6" column="15" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DEFAULT_MORALE</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>DEFAULT_MORALE</text>
       </register>
       <register name="/" type="4">
-        <text>be</text>
+        <text encoding="base64">XDxtb3JhbGVfaGFzaFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmFpbHNfaGVscGVyJwoKUlNwZWMuZGVzY3JpYmUgQ2hhbm5lbCwgdHlwZTogOm1vZGVsIGRvCiAgbGV0KDp0ZWFtKSB7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6dGVhbSwgOndpdGhfY2hhbm5lbHMsIHRyYWNrZWQ6IDEsIG1lc3NhZ2VzOiB0cnVlKSB9CiAgbGV0KDpjaGFubmVsKSB7IHRlYW0uY2hhbm5lbHMuZmlyc3QgfQoKICBkZXNjcmliZSAnYW5hbHlzZV9tZXNzYWdlcycgZG8KCiAgICBpdCAnZG9lcyBub3QgZmFpbCBvbiBlbXB0eSBhcnJheScgZG8KICAgICAgZXhwZWN0IHsgY2hhbm5lbC5hbmFseXNlX21lc3NhZ2VzKFtdKSB9Lm5vdF90byBjaGFuZ2UgeyBjaGFubmVsLm1lc3NhZ2VzLmNvdW50IH0KICAgIGVuZAogICAgaXQgJ2RvZXMgbm90IGZhaWwgb24gbmlsIHBhcmFtJyBkbwogICAgICBleHBlY3QgeyBjaGFubmVsLmFuYWx5c2VfbWVzc2FnZXMobmlsKSB9Lm5vdF90byBjaGFuZ2UgeyBjaGFubmVsLm1lc3NhZ2VzLmNvdW50IH0KICAgIGVuZAogICAgaXQgJ2NyZWF0ZXMgbWVzc2FnZXMgYW5kIHNjb3JlcycgZG8KICAgICAgYWxsb3coV2F0c29uKS50byByZWNlaXZlKDplbW90aW9ucykgeyBGYWtlcjo6V2F0c29uLmVtb3Rpb25zIH0KICAgICAgYWxsb3coV2F0c29uKS50byByZWNlaXZlKDpzZW50aW1lbnQpIHsgRmFrZXI6OldhdHNvbi5zZW50aW1lbnQgfQogICAgICBtc2d6ID0gQXJyYXkubmV3KDEwKSB7CiAgICAgICAgewogICAgICAgICAgICB0eXBlOiAnbWVzc2FnZScsCiAgICAgICAgICAgIHRzOiBGYWtlcjo6VGltZS5iYWNrd2FyZC50b19mLnJvdW5kKDYpLnRvX3MsCiAgICAgICAgICAgIHVzZXI6IGNoYW5uZWwubWVtYmVycy5tYXAoJjpzbGFja19pZCkuc2FtcGxlLAogICAgICAgICAgICB0ZXh0OiBGYWtlcjo6TG9yZW0uc2VudGVuY2UKICAgICAgICB9CiAgICAgIH0KICAgICAgZXhwZWN0IHsgY2hhbm5lbC5hbmFseXNlX21lc3NhZ2VzKG1zZ3opIH0udG8gY2hhbmdlIHsgY2hhbm5lbC5tZXNzYWdlcy5jb3VudCB9CiAgICBlbmQKCiAgZW5kCgogIGRlc2NyaWJlICd1cGRhdGVfbWVtYmVyc19saXN0JyBkbwogICAgaXQgJ2RvZXMgbm90IGZhaWwgb24gZW1wdHkgYXJyYXknIGRvCiAgICAgIGV4cGVjdCB7IGNoYW5uZWwudXBkYXRlX21lbWJlcnNfbGlzdChbXSkgfS5ub3RfdG8gY2hhbmdlIHsgY2hhbm5lbC5tZW1iZXJzLmNvdW50IH0KICAgIGVuZAoKICAgIGl0ICdkb2VzIG5vdCBmYWlsIG9uIG5pbCBwYXJhbScgZG8KICAgICAgZXhwZWN0IHsgY2hhbm5lbC51cGRhdGVfbWVtYmVyc19saXN0KG5pbCkgfS5ub3RfdG8gY2hhbmdlIHsgY2hhbm5lbC5tZW1iZXJzLmNvdW50IH0KICAgIGVuZAoKICAgIGl0ICdhZGRzIHRoZSBtZW1iZXJzIHRvIHRoZSBjaGFubmVsIGFuZCB0aGUgdGVhbScgZG8KICAgICAgbWVtYmVyc19pZHMgPSBBcnJheS5uZXcoMTApIHsgJ1UnICsgU2VjdXJlUmFuZG9tLmhleCg4KS51cGNhc2UgfQogICAgICBleHBlY3QgeyBjaGFubmVsLnVwZGF0ZV9tZW1iZXJzX2xpc3QobWVtYmVyc19pZHMpIH0udG8gY2hhbmdlIHsgY2hhbm5lbC5tZW1iZXJzLmNvdW50IH0uYnkoMTApLmFuZCBjaGFuZ2UgeyBjaGFubmVsLnRlYW0ubWVtYmVycy5jb3VudCB9LmJ5KDEwKQogICAgZW5kCgogICAgaXQgJ2FkZHMgdGhlIG1lbWJlcnMgdG8gdGhlIGNoYW5uZWwgYW5kIHRoZSB0ZWFtIGV2ZW4gaWYgc29tZSBhcmUgbmlsJyBkbwoKICAgICAgbWVtYmVyc19pZHMgPSBBcnJheS5uZXcoMTApIHsgJ1UnICsgU2VjdXJlUmFuZG9tLmhleCg4KS51cGNhc2UgfQogICAgICBtZW1iZXJzX2lkcyA8PCBuaWwKICAgICAgbWVtYmVyc19pZHMgPDwgJycKICAgICAgbWVtYmVyc19pZHMgPDwgJyAgICAnCgogICAgICBtZW1iZXJzX2lkcy5zaHVmZmxlCiAgICAgIGV4cGVjdCB7IGNoYW5uZWwudXBkYXRlX21lbWJlcnNfbGlzdChtZW1iZXJzX2lkcykgfS50byBjaGFuZ2UgeyBjaGFubmVsLm1lbWJlcnMuY291bnQgfS5ieSgxMCkuYW5kIGNoYW5nZSB7IGNoYW5uZWwudGVhbS5tZW1iZXJzLmNvdW50IH0uYnkoMTApCiAgICBlbmQKCiAgICBpdCAnZG9lcyBub3QgY3JlYXRlIGR1cGxpY2F0ZSBtZW1iZXJzIHdpdGggc2FtZSBzbGFjayBpZCwgd2hlbiBhZGRpbmcgdG8gY2hhbm5lbCcgZG8KICAgICAgcGVuZGluZygnUGxlYXNlIGZpeCB0aGlzIHRlc3QnKQoKICAgICAgemhhbm5lbCA9IHRlYW0uY2hhbm5lbHMuZmlyc3QKICAgICAgbWVtYmVyc19pZHMgPSB0ZWFtLm1lbWJlcnMucGx1Y2soOnNsYWNrX2lkKQoKICAgICAgZXhwZWN0KG1lbWJlcnNfaWRzKS5ub3RfdG8gYmVfZW1wdHkKCiAgICAgIGV4cGVjdCB7IHpoYW5uZWwudXBkYXRlX21lbWJlcnNfbGlzdChtZW1iZXJzX2lkcykgfS50byBjaGFuZ2UgeyB6aGFubmVsLm1lbWJlcnMuY291bnQgfS5ieShtZW1iZXJzX2lkcy5jb3VudCkuYW5kIG5vdF9jaGFuZ2UgeyB0ZWFtLm1lbWJlcnMuY291bnQgfQogICAgZW5kCgogIGVuZAoKICBkZXNjcmliZSAnI3NsYWNrX2NoYW5uZWwnIGRvCiAgICBsZXQoOnRlYW0pIHsgRmFjdG9yeUdpcmwuY3JlYXRlKDp0ZWFtLCA6d2l0aF9hZG1pbl90b2tlbikgfQogICAgbGV0KDpjaGFubmVsKSB7IHRlYW0uY2hhbm5lbHMuZmlyc3QgfQogICAgaXQgJ3JldHVybnMgc2xhY2sgY2hhbm5lbCBmcm9tIHNsYWNrIGFwaScsIDp2Y3IgZG8KICAgICAgY2hhbm5lbF9pbmZvID0gY2hhbm5lbC5zbGFja19jaGFubmVsCiAgICAgIGV4cGVjdChjaGFubmVsX2luZm8pLm5vdF90byBiZV9lbXB0eQogICAgZW5kCgogICAgaXQgJ2NhY2hlcyBzbGFjayBhcGkgcmVzcG9uc2UgYW5kIHJldXNlIGl0JywgOnZjciBkbwogICAgICBjaGFubmVsX2luZm8gPSBjaGFubmVsLnNsYWNrX2NoYW5uZWwKICAgICAgZXhwZWN0KGNoYW5uZWwpLm5vdF90byByZWNlaXZlKDpzbGFja19hcGlfY2xpZW50KQogICAgICBleHBlY3QoY2hhbm5lbC5zbGFja19jaGFubmVsKS50byBiZSBjaGFubmVsX2luZm8KICAgIGVuZAogIGVuZAoKICBkZXNjcmliZSAnI2xhdGVzdF9zbGFja19tZXNzYWdlX2F0JyBkbwogICAgbGV0KDp0ZWFtKSB7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6dGVhbSwgOndpdGhfYWRtaW5fdG9rZW4pIH0KICAgIGxldCg6Y2hhbm5lbCkgeyB0ZWFtLmNoYW5uZWxzLmZpcnN0IH0KICAgIGl0ICdyZXR1cm5zIHBvc3RlZCB0aW1lIG9mIGxhdGVzdCBzbGFjayBtZXNzYWdlJywgOnZjciBkbwogICAgICBleHBlY3QoY2hhbm5lbC5sYXRlc3Rfc2xhY2tfbWVzc2FnZV9hdCkudG8gYmVfYShUaW1lKQogICAgZW5kCiAgZW5kCmVuZAo=</text>
+      <register name="0" type="4">
+        <text>DEFAULT_MORALE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0ICdkb2VzIG5vdCBmYWlsIG9uIG5pbCBwYXJhbScgZG8KICAgICAgZXhwZWN0IHsgY2hhbm5lbC5hbmFseXNlX21lc3NhZ2VzKG5pbCkgfS5ub3RfdG8gY2hhbmdlIHsgY2hhbm5lbC5tZXNzYWdlcy5jb3VudCB9CiAgICBlbmQKICAgIGl0ICdjcmVhdGVzIG1lc3NhZ2VzIGFuZCBzY29yZXMnIGRvCiAgICAgIGFsbG93KFdhdHNvbikudG8gcmVjZWl2ZSg6ZW1vdGlvbnMpIHsgRmFrZXI6OldhdHNvbi5lbW90aW9ucyB9CiAgICAgIGFsbG93KFdhdHNvbikudG8gcmVjZWl2ZSg6c2VudGltZW50KSB7IEZha2VyOjpXYXRzb24uc2VudGltZW50IH0KICAgICAgbXNneiA9IEFycmF5Lm5ldygxMCkgewogICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ21lc3NhZ2UnLAogICAgICAgICAgICB0czogRmFrZXI6OlRpbWUuYmFja3dhcmQudG9fZi5yb3VuZCg2KS50b19zLAogICAgICAgICAgICB1c2VyOiBjaGFubmVsLm1lbWJlcnMubWFwKCY6c2xhY2tfaWQpLnNhbXBsZSwKICAgICAgICAgICAgdGV4dDogRmFrZXI6OkxvcmVtLnNlbnRlbmNlCiAgICAgICAgfQogICAgICB9CiAgICAgIGV4cGVjdCB7IGNoYW5uZWwuYW5hbHlzZV9tZXNzYWdlcyhtc2d6KSB9LnRvIGNoYW5nZSB7IGNoYW5uZWwubWVzc2FnZXMuY291bnQgfQogICAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgICBERUZBVUxUX01PUkFMRSA9IHsKICAgICAgICAgICAgaXJyaXRhdGlvbjogMC4wLAogICAgICAgICAgICBkaXNhcHByb3ZhbDogMC4wLAogICAgICAgICAgICBzdHJlc3M6IDAuMCwKICAgICAgICAgICAgaGFwcGluZXNzOiAwLjAsCiAgICAgICAgICAgIGRpc2FwcG9pbnRtZW50OiAwLjAsCiAgICAgICAgICAgIGVuZ2FnZW1lbnQ6IDAuMCwKICAgICAgICAgICAgbW9yYWxlOiBuaWwKICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVzY3JpYmUgJ3VwZGF0ZV9tZW1iZXJzX2xpc3QnIGRvCiAgICBpdCAnZG9lcyBub3QgZmFpbCBvbiBlbXB0eSBhcnJheScgZG8KICAgICAgZXhwZWN0IHsgY2hhbm5lbC51cGRhdGVfbWVtYmVyc19saXN0KFtdKSB9Lm5vdF90byBjaGFuZ2UgeyBjaGFubmVsLm1lbWJlcnMuY291bnQgfQogICAgZW5kCgogICAgaXQgJ2RvZXMgbm90IGZhaWwgb24gbmlsIHBhcmFtJyBkbwogICAgICBleHBlY3QgeyBjaGFubmVsLnVwZGF0ZV9tZW1iZXJzX2xpc3QobmlsKSB9Lm5vdF90byBjaGFuZ2UgeyBjaGFubmVsLm1lbWJlcnMuY291bnQgfQogICAgZW5kCgogICAgaXQgJ2FkZHMgdGhlIG1lbWJlcnMgdG8gdGhlIGNoYW5uZWwgYW5kIHRoZSB0ZWFtJyBkbwogICAgICBtZW1iZXJzX2lkcyA9IEFycmF5Lm5ldygxMCkgeyAnVScgKyBTZWN1cmVSYW5kb20uaGV4KDgpLnVwY2FzZSB9CiAgICAgIGV4cGVjdCB7IGNoYW5uZWwudXBkYXRlX21lbWJlcnNfbGlzdChtZW1iZXJzX2lkcykgfS50byBjaGFuZ2UgeyBjaGFubmVsLm1lbWJlcnMuY291bnQgfS5ieSgxMCkuYW5kIGNoYW5nZSB7IGNoYW5uZWwudGVhbS5tZW1iZXJzLmNvdW50IH0uYnkoMTApCiAgICBlbmQKCiAgICBpdCAnYWRkcyB0aGUgbWVtYmVycyB0byB0aGUgY2hhbm5lbCBhbmQgdGhlIHRlYW0gZXZlbiBpZiBzb21lIGFyZSBuaWwnIGRvCgogICAgICBtZW1iZXJzX2lkcyA9IEFycmF5Lm5ldygxMCkgeyAnVScgKyBTZWN1cmVSYW5kb20uaGV4KDgpLnVwY2FzZSB9CiAgICAgIG1lbWJlcnNfaWRzIDw8IG5pbAogICAgICBtZW1iZXJzX2lkcyA8PCAnJwogICAgICBtZW1iZXJzX2lkcyA8PCAnICAgICcKCiAgICAgIG1lbWJlcnNfaWRzLnNodWZmbGUKICAgICAgZXhwZWN0IHsgY2hhbm5lbC51cGRhdGVfbWVtYmVyc19saXN0KG1lbWJlcnNfaWRzKSB9LnRvIGNoYW5nZSB7IGNoYW5uZWwubWVtYmVycy5jb3VudCB9LmJ5KDEwKS5hbmQgY2hhbmdlIHsgY2hhbm5lbC50ZWFtLm1lbWJlcnMuY291bnQgfS5ieSgxMCkKICAgIGVuZAoKICAgIGl0ICdkb2VzIG5vdCBjcmVhdGUgZHVwbGljYXRlIG1lbWJlcnMgd2l0aCBzYW1lIHNsYWNrIGlkLCB3aGVuIGFkZGluZyB0byBjaGFubmVsJyBkbwogICAgICBwZW5kaW5nKCdQbGVhc2UgZml4IHRoaXMgdGVzdCcpCgogICAgICB6aGFubmVsID0gdGVhbS5jaGFubmVscy5maXJzdAogICAgICBtZW1iZXJzX2lkcyA9IHRlYW0ubWVtYmVycy5wbHVjayg6c2xhY2tfaWQpCgogICAgICBleHBlY3QobWVtYmVyc19pZHMpLm5vdF90byBiZV9lbXB0eQoKICAgICAgZXhwZWN0IHsgemhhbm5lbC51cGRhdGVfbWVtYmVyc19saXN0KG1lbWJlcnNfaWRzKSB9LnRvIGNoYW5nZSB7IHpoYW5uZWwubWVtYmVycy5jb3VudCB9LmJ5KG1lbWJlcnNfaWRzLmNvdW50KS5hbmQgbm90X2NoYW5nZSB7IHRlYW0ubWVtYmVycy5jb3VudCB9CiAgICBlbmQKCiAgZW5kCgogIGRlc2NyaWJlICcjc2xhY2tfY2hhbm5lbCcgZG8KICAgIGxldCg6dGVhbSkgeyBGYWN0b3J5R2lybC5jcmVhdGUoOnRlYW0sIDp3aXRoX2FkbWluX3Rva2VuKSB9CiAgICBsZXQoOmNoYW5uZWwpIHsgdGVhbS5jaGFubmVscy5maXJzdCB9CiAgICBpdCAncmV0dXJucyBzbGFjayBjaGFubmVsIGZyb20gc2xhY2sgYXBpJywgOnZjciBkbwogICAgICBjaGFubmVsX2luZm8gPSBjaGFubmVsLnNsYWNrX2NoYW5uZWwKICAgICAgZXhwZWN0KGNoYW5uZWxfaW5mbykubm90X3RvIGJlX2VtcHR5CiAgICBlbmQKCiAgICBpdCAnY2FjaGVzIHNsYWNrIGFwaSByZXNwb25zZSBhbmQgcmV1c2UgaXQnLCA6dmNyIGRvCiAgICAgIGNoYW5uZWxfaW5mbyA9IGNoYW5uZWwuc2xhY2tfY2hhbm5lbAogICAgICBleHBlY3QoY2hhbm5lbCkubm90X3RvIHJlY2VpdmUoOnNsYWNrX2FwaV9jbGllbnQpCiAgICAgIGV4cGVjdChjaGFubmVsLnNsYWNrX2NoYW5uZWwpLnRvIGJlIGNoYW5uZWxfaW5mbwogICAgZW5kCiAgZW5kCgogIGRlc2NyaWJlICcjbGF0ZXN0X3NsYWNrX21lc3NhZ2VfYXQnIGRvCiAgICBsZXQoOnRlYW0pIHsgRmFjdG9yeUdpcmwuY3JlYXRlKDp0ZWFtLCA6d2l0aF9hZG1pbl90b2tlbikgfQogICAgbGV0KDpjaGFubmVsKSB7IHRlYW0uY2hhbm5lbHMuZmlyc3QgfQogICAgaXQgJ3JldHVybnMgcG9zdGVkIHRpbWUgb2YgbGF0ZXN0IHNsYWNrIG1lc3NhZ2UnLCA6dmNyIGRvCiAgICAgIGV4cGVjdChjaGFubmVsLmxhdGVzdF9zbGFja19tZXNzYWdlX2F0KS50byBiZV9hKFRpbWUpCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICAgIERFRkFVTFRfTU9SQUxFID0gewogICAgICBpcnJpdGF0aW9uOiAwLjAsCiAgICAgIGRpc2FwcHJvdmFsOiAwLjAsCiAgICAgIHN0cmVzczogMC4wLAogICAgICBoYXBwaW5lc3M6IDAuMCwKICAgICAgZGlzYXBwb2ludG1lbnQ6IDAuMCwKICAgICAgZW5nYWdlbWVudDogMC4wLAogICAgICBtb3JhbGU6IG5pbAogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQoOnRlYW0pIHsgRmFjdG9yeUdpcmwuY3JlYXRlKDp0ZWFtLCA6d2l0aF9jaGFubmVscywgdHJhY2tlZDogMSwgbWVzc2FnZXM6IHRydWUpIH0KICBsZXQoOmNoYW5uZWwpIHsgdGVhbS5jaGFubmVscy5maXJzdCB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdC5qc29uYiA6c2NvcmVzX2pzb25iLCBudWxsOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoYXNfbWFueSA6bWVtYmVycywgZGVwZW5kZW50OiA6ZGVzdHJveQo=</text>
+        <text encoding="base64">ICBhZnRlcl9pbml0aWFsaXplCiAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICwgbmFtZTogImluZGV4X2NvbnZlcnNhdGlvbnNfb25fdmVyc2lvbl9hbmRfY2hhbm5lbF9pZF9hbmRfc3RhcnRlZF9hdCIsIHVuaXF1ZTogdHJ1ZSwgdXNpbmc6IDpidHJlZQo=</text>
+        <text encoding="base64">ICBhZnRlcl9pbml0aWFsaXplCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZnRlcl9pbml0aWFsaXplCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>be</last-search>
+      <last-search encoding="base64">XDxtb3JhbGVfaGFzaFw+</last-search>
       <last-offset />
-      <last-pattern>be</last-pattern>
+      <last-pattern encoding="base64">XDxtb3JhbGVfaGFzaFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXSU5ET1dTX1dJRFRIXD4=</entry>
-        <entry encoding="base64">XDxtZXNzYWdlX3Njb3Jlc1w+</entry>
-        <entry encoding="base64">XDx0aW1lc1w+</entry>
-        <entry encoding="base64">XDxwcmVwcm9jZXNzX21lc3NhZ2VzXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVfYW5hbHlzaXNcPg==</entry>
-        <entry encoding="base64">XDxjYWxjdWxhdGVfbW9yYWxlXD4=</entry>
-        <entry encoding="base64">XDx0aW1lXD4=</entry>
-        <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
-        <entry encoding="base64">XDxjYWxjdWxhdGVfbW9yYWxlX2hhc2hcPg==</entry>
-        <entry encoding="base64">XDxPUkRFUkVEX0VNT1RJT05TXD4=</entry>
         <entry encoding="base64">XDx2aWJlXD4=</entry>
         <entry>channel_id</entry>
         <entry>watson</entry>
@@ -387,6 +406,16 @@
         <entry>messages</entry>
         <entry>has_many</entry>
         <entry>be</entry>
+        <entry>return</entry>
+        <entry>receive</entry>
+        <entry encoding="base64">XDxjYWxjdWxhdGVfbW9yYWxlX2hhc2hcPg==</entry>
+        <entry>bin</entry>
+        <entry>change</entry>
+        <entry>time</entry>
+        <entry encoding="base64">XDxtb3JhbGVfa2V5c1w+</entry>
+        <entry>morale</entry>
+        <entry>fa</entry>
+        <entry encoding="base64">XDxtb3JhbGVfaGFzaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
