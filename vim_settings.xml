@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/connection_adapters/abstract/schema_definitions.rb" timestamp="1481264181765">
         <mark key="'" line="255" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1481765865697">
+      <file name="/a.dummy" timestamp="1482199823553">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="12" />
       </file>
@@ -85,11 +85,8 @@
         <mark key="." line="193" column="5" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1481264481902">
-        <mark key="'" line="5" column="2" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="17" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Char8.hs" timestamp="1480934111688">
         <mark key="'" line="203" column="8" />
@@ -99,11 +96,22 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" timestamp="1482199724911">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="12" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" timestamp="1480982986211">
         <mark key="'" line="341" column="30" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/base-4.9.0.0/Data/List.hs" timestamp="1481678124123">
         <mark key="'" line="155" column="7" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" timestamp="1482199857522">
+        <mark key="'" line="331" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/readme.csv" timestamp="1481610643765">
         <mark key="'" line="803" column="0" />
@@ -134,8 +142,8 @@
         <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/message.rb" timestamp="1481693327402">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="46" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1481693368702">
         <mark key="[" line="27" column="0" />
@@ -170,8 +178,7 @@
         <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" timestamp="1481690315501">
-        <mark key="'" line="75" column="0" />
-        <mark key="^" line="47" column="11" />
+        <mark key="'" line="72" column="0" />
         <mark key="o" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/stack.yaml" timestamp="1481193381784">
@@ -227,18 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="799" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="800" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="801" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="802" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="99" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="133" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="134" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="135" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="247" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="248" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="249" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="250" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
       <jump line="251" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
       <jump line="252" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
       <jump line="253" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
@@ -327,16 +322,28 @@
       <jump line="176" column="9" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/store.rb" />
       <jump line="185" column="9" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/store.rb" />
       <jump line="15" column="17" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
+      <jump line="1" column="10" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="310" column="48" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="785" column="22" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="819" column="22" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="958" column="22" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="959" column="22" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="1006" column="8" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="970" column="26" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="311" column="41" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="319" column="22" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="320" column="22" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
+      <jump line="331" column="22" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcG90czogWzAsIDYuaG91cnMudG9faSwgMTIuaG91cnMudG9faSwgMTguaG91cnMudG9faSwgMjQuaG91cnMudG9faV0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>hash[value] if hash</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yZV9hdHRyaWJ1dGVcPg==</text>
+        <text encoding="base64">XDxjb25jYXRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>CustomHashSerializer</text>
@@ -373,17 +380,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9yZV9hdHRyaWJ1dGVcPg==</last-search>
+      <last-search encoding="base64">XDxjb25jYXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yZV9hdHRyaWJ1dGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25jYXRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb3JhbGVfaGFzaFw+</entry>
-        <entry encoding="base64">XDx0b3BBcmVhXD4=</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxpbmRleFBhdGhcPg==</entry>
         <entry>click</entry>
         <entry encoding="base64">XDxjbGlja1w+</entry>
@@ -401,6 +405,9 @@
         <entry>seri</entry>
         <entry encoding="base64">XDxjb2Rlclw+</entry>
         <entry encoding="base64">XDxzdG9yZV9hdHRyaWJ1dGVcPg==</entry>
+        <entry encoding="base64">PDw=</entry>
+        <entry encoding="base64">XDxwcm94eV9hc3NvY2lhdGlvblw+</entry>
+        <entry encoding="base64">XDxjb25jYXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
