@@ -31,9 +31,11 @@
         <mark key="." line="157" column="13" />
         <mark key="^" line="157" column="13" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" timestamp="1482729705933">
-        <mark key="'" line="27" column="8" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" timestamp="1482730955191">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1482726845202">
         <mark key="'" line="85" column="6" />
@@ -45,10 +47,11 @@
         <mark key="'" line="17" column="9" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" timestamp="1482719993263" />
-      <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activerecord-4.2.6/lib/active_record/associations/collection_proxy.rb" timestamp="1482199857522">
-        <mark key="'" line="331" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" timestamp="1482731047531">
+        <mark key="'" line="28" column="17" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" timestamp="1482729869951">
         <mark key="'" line="68" column="0" />
@@ -192,18 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="131" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="132" column="9" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="1" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="2" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="3" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="4" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="5" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="6" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="7" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
-      <jump line="8" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
       <jump line="9" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
       <jump line="10" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
       <jump line="11" column="12" filename="$USER_HOME$/enJapan/vibe/readme.csv" />
@@ -292,65 +283,72 @@
       <jump line="27" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" />
       <jump line="9" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
       <jump line="68" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
+      <jump line="15" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="69" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="70" column="17" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="20" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="36" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="40" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="44" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="48" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="31" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="6" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="22" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
+      <jump line="28" column="17" filename="$USER_HOME$/enJapan/vibe/app/controllers/home_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGlzXD4=</text>
+        <text encoding="base64">XDxtYWtlX2dyYXBoX2RhdGFcPg==</text>
       </register>
       <register name="0" type="4">
         <text>RefreshTeamMembersDetailsJob</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgYm5kaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNwZWNpYWwgbWVzc2FnZXMgbmV2ZXIgdGltZSBvdXQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbGlhc19tZXRob2QgOmNoYW5uZWxfaW5mbywgOnNsYWNrX2NoYW5uZWwKCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNwZWNpYWwgbWVzc2FnZXMgbmV2ZXIgdGltZSBvdXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgbGF0ZXN0X3NsYWNrX21lc3NhZ2VfYXQKICAgIFRpbWUuem9uZS5hdChzbGFja19jaGFubmVsWzpsYXRlc3RdWzp0c10udG9fZikgaWYgc2xhY2tfY2hhbm5lbFs6bGF0ZXN0XSAmJiBzbGFja19jaGFubmVsWzpsYXRlc3RdWzp0c10KICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgcHVsbF9oaXN0b3J5X3N0YXJ0X3RpbWUKICAgIGlmIGxhc3RfYW5hbHlzZWRfYXQubmlsPyB8fCBjb252ZXJzYXRpb25zLmVtcHR5PwogICAgICAzNi5ob3Vycy5hZ28KICAgIGVsc2UKICAgICAgbGFzdF9hbmFseXNlZF9hdCAtIDEuaG91cgogICAgZW5kLnRvX2Yucm91bmQoNikKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoYXNfYW5kX2JlbG9uZ3NfdG9fbWFueSA6bWVtYmVycwo=</text>
+        <text encoding="base64">ICBhbGlhc19tZXRob2QgOmNoYW5uZWxfaW5mbywgOnNsYWNrX2NoYW5uZWwKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
+      <last-search encoding="base64">XDxtYWtlX2dyYXBoX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlX2dyYXBoX2RhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50X2NoYW5uZWxcPg==</entry>
-        <entry>active?</entry>
-        <entry>mem</entry>
-        <entry encoding="base64">XDxtZW1iZXJzXD4=</entry>
-        <entry encoding="base64">XDxmaW5kX29yX2NyZWF0ZV9jaGFubmVsX21lbWJlclw+</entry>
         <entry encoding="base64">XDx1cGRhdGVfbWVtYmVyc19saXN0XD4=</entry>
         <entry>update_</entry>
         <entry encoding="base64">XDxwdWxsX2hpc3Rvcnlfc3RhcnRfdGltZVw+</entry>
@@ -366,6 +364,11 @@
         <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25zXD4=</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry encoding="base64">XDxzd2l0Y2hfbm90aWZpY2F0aW9uc19vZmZcPg==</entry>
+        <entry>add_fact</entry>
+        <entry>graph_data</entry>
+        <entry>make_graph_data</entry>
+        <entry encoding="base64">XDxtYWtlX2dyYXBoX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w:w</entry>
