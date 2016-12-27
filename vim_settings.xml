@@ -125,11 +125,11 @@
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.html.haml" timestamp="1482729282571">
         <mark key="'" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/user.rb" timestamp="1482809723158">
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="55" />
-        <mark key="^" line="28" column="55" />
-        <mark key="." line="28" column="55" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/user.rb" timestamp="1482810622658">
+        <mark key="[" line="51" column="24" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" timestamp="1482308219790">
         <mark key="'" line="11" column="15" />
@@ -149,17 +149,23 @@
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http2-1.6.2/Network/HPACK/Types.hs" timestamp="1480933882426">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/cache.rb" timestamp="1482810788768">
+        <mark key="'" line="33" column="2" />
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/warp-3.2.9/Network/Wai/Handler/Warp/Run.hs" timestamp="1480933246157">
         <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/http2-1.6.2/Network/HPACK.hs" timestamp="1480933841485">
         <mark key="'" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" timestamp="1482809304574">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" timestamp="1482810085586">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="4" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" timestamp="1481693401877">
@@ -194,10 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="7" filename="$USER_HOME$/enJapan/vibe/index.html" />
-      <jump line="26" column="7" filename="$USER_HOME$/enJapan/vibe/index.html" />
-      <jump line="30" column="7" filename="$USER_HOME$/enJapan/vibe/index.html" />
-      <jump line="34" column="7" filename="$USER_HOME$/enJapan/vibe/index.html" />
       <jump line="35" column="7" filename="$USER_HOME$/enJapan/vibe/index.html" />
       <jump line="24" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="11" column="45" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
@@ -294,62 +296,66 @@
       <jump line="17" column="60" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="19" column="5" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="11" column="7" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="11" column="27" filename="$USER_HOME$/enJapan/vibe/app/models/cache.rb" />
+      <jump line="7" column="26" filename="$USER_HOME$/enJapan/vibe/app/models/cache.rb" />
+      <jump line="3" column="27" filename="$USER_HOME$/enJapan/vibe/app/models/cache.rb" />
+      <jump line="33" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/cache.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, period: non</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>, period: non</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsXD4=</text>
+        <text>unpack</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAjICAgaWQ6ICcyMDE2MTIwMV9sZWFybl9wcmVtaXVtX2ZlYXR1cmUnLAo=</text>
+      <register name="0" type="4">
+        <text>banner_message_ids</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjICAgdHlwZSwgcGVyaW9kIH0K</text>
+        <text encoding="base64">ICAgIGNhY2hlKCJ1c2Vyc19iYW5uZXJfbWVzc2FnZXMiLCAiIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjICAgdHlwZSwgcGVyaW9kIH0KICBkZWYgY3VycmVudF9iYW5uZXJfbWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICJCYW5uZXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjICAgaWQ6ICcyMDE2MTIwMTAxX2xlYXJuX3ByZW1pdW1fZmVhdHVyZScsCiAgIyAgIGlkOiAnMjAxNjEyMDEwMl9wcmVtaXVtX2ZlYXR1cmVfcHJpY2UnLAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVzZXJCYW5uZXJNZXNzYWdlLmdldCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBpZiBAY3VycmVudF91c2VyLmN1cnJlCg==</text>
+        <text encoding="base64">ICAgIGVuY1YK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhbm5lcl9tZXNzYWdlcyA9IAo=</text>
+      <register name="6" type="8">
+        <text>id
+id
+id</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGNhc2UgVGltZS56b25lLm5vdwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLnNlc3Npb24K</text>
+      <register name="8" type="8">
+        <text encoding="base64">c3RhcnRfYXQ6IApzdGFydF9hdDog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAjICAgeyBpZDogJzIwMTYxMjAxMDJfbGVhcm5fcHJlbWl1bV9mZWF0dXJlJywgdHlwZTogJ2J1dHRvbicsIHRleHQ6ICdsZWFybiBhYm91dCBwcmVtaXVtIGZlYXR1cmUnLCBidXR0b25fdGV4dDogJ2xlYW4gbW9yZScsIHVybDogJy4vaG9nZSd9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsXD4=</last-search>
+      <last-search>unpack</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsXD4=</last-pattern>
+      <last-pattern>unpack</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXRlc3Rfc2xhY2tfbWVzc2FnZV9hdFw+</entry>
-        <entry encoding="base64">XDxjaGFubmVsX2luZm9cPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVfbWVtYmVyc1w+</entry>
         <entry encoding="base64">XDxzcGVjaWFsXD4=</entry>
         <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
@@ -368,12 +374,14 @@
         <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxrZXl3b3JkXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
+        <entry>pack</entry>
+        <entry>unpack</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry>Lw</entry>
         <entry encoding="base64">dnNwIA==</entry>
         <entry>q</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
