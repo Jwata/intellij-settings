@@ -126,6 +126,11 @@
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.html.haml" timestamp="1482729282571">
         <mark key="'" line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/user.rb" timestamp="1482808929546">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" timestamp="1482308219790">
         <mark key="'" line="11" column="15" />
         <mark key="[" line="26" column="0" />
@@ -156,10 +161,6 @@
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" timestamp="1482733770108">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" timestamp="1481693401877">
         <mark key="'" line="3" column="45" />
@@ -295,11 +296,11 @@
       <jump line="11" column="7" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2hhbm5lbC5uaWw/IHx8IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJhaWxzLnNlc3Npb24K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2hhbm5lbC5uaWw/IHx8IA==</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsXD4=</text>
@@ -308,31 +309,31 @@
         <text>channel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIFJhaWxzLnNlc3Npb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBlbHNpZiBjdXJyZW50X3VzZXIuc2hvdWxkX3Nob3dfc3VydmV5PyAjIG9ubHkgc2hvdyBzdXJ2ZXkgaWYgY2hhbm5lbCB3YXMgYWN0aXZlLCBvdGhlcndpc2UgcmVzcG9uc2UgbGlrZWx5IG5lZ2F0aXZlCiAgICAgIGZsYXNoWzpzcGVjaWFsXSA9IHRydWUKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmxhc2hbOmFsZXJ0XSA9IHQoJ2hvbWUuaW5kZXgud2FybmluZ3Mubm9fYWN0aXZpdHknKQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGN1cnJlbnRfY2hhbm5lbC5uaWw/IHx8ICFjdXJyZW50X2NoYW5uZWwuYWN0aXZlPwo=</text>
+        <text encoding="base64">CiAgICBlbHNpZiBjdXJyZW50X3VzZXIuc2hvdWxkX3Nob3dfc3VydmV5PyAjIG9ubHkgc2hvdyBzdXJ2ZXkgaWYgY2hhbm5lbCB3YXMgYWN0aXZlLCBvdGhlcndpc2UgcmVzcG9uc2UgbGlrZWx5IG5lZ2F0aXZlCiAgICAgIGZsYXNoWzpzcGVjaWFsXSA9IHRydWUKICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgZmxhc2hbOmFsZXJ0XSA9IHQoJ2hvbWUuaW5kZXgud2FybmluZ3Mubm9fYWN0aXZpdHknKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYm5kaW5nCg==</text>
+        <text encoding="base64">ICAgIGlmIGN1cnJlbnRfY2hhbm5lbC5uaWw/IHx8ICFjdXJyZW50X2NoYW5uZWwuYWN0aXZlPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgYm5kaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
