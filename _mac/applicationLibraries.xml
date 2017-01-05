@@ -301,6 +301,26 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.10.1/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.11.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.11.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.11.0/.yard" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.11.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.11.0/.yard" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.8.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.8.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.9.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/capybara-2.9.2/lib" />
@@ -1606,6 +1626,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/poltergeist-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="poltergeist (v1.12.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/poltergeist-1.12.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/poltergeist-1.12.0/lib" />
       </SOURCES>
     </library>
     <library name="pragmatic_tokenizer (v3.0.4, ruby-2.2.3-p173) [gem]">
