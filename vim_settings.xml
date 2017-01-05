@@ -49,6 +49,9 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="64" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" timestamp="1483577142669">
+        <mark key="'" line="21" column="26" />
+      </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" timestamp="1480982986211">
         <mark key="'" line="341" column="30" />
       </file>
@@ -166,7 +169,6 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/rspec-rails-3.5.1/lib/rspec/rails/matchers/have_http_status.rb" timestamp="1482903298819" />
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_corpus.rb" timestamp="1482720677375">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="41" />
@@ -265,11 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="53" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
-      <jump line="72" column="53" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
-      <jump line="42" column="53" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
-      <jump line="12" column="24" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
-      <jump line="11" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
       <jump line="16" column="26" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
       <jump line="31" column="102" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
       <jump line="22" column="61" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
@@ -365,6 +362,11 @@
       <jump line="0" column="1" filename="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" />
       <jump line="1" column="3" filename="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" />
       <jump line="16" column="5" filename="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" />
+      <jump line="9" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" />
+      <jump line="3" column="34" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" />
+      <jump line="4" column="28" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" />
+      <jump line="5" column="72" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" />
+      <jump line="21" column="26" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -374,7 +376,7 @@
         <text>:upgrade_plan</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZmljYXRpb25cPg==</text>
+        <text>started_at</text>
       </register>
       <register name="0" type="4">
         <text>@current_user.current_banner_key</text>
@@ -411,16 +413,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-search>
+      <last-search>started_at</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25cPg==</last-pattern>
+      <last-pattern>started_at</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wbGV0ZWRfYmFubmVyXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW5fYmFubmVyXD4=</entry>
         <entry encoding="base64">XDxzdWJqZWN0XD4=</entry>
         <entry encoding="base64">XDxkaXNtaXNzX2Jhbm5lclw+</entry>
         <entry encoding="base64">XDxiZWZvcmVcPg==</entry>
@@ -439,6 +439,8 @@
         <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50X2Jhbm5lcl9rZXlcPg==</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25cPg==</entry>
+        <entry>created_at</entry>
+        <entry>started_at</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
