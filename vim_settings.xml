@@ -49,8 +49,12 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="64" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" timestamp="1483577142669">
-        <mark key="'" line="21" column="26" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" timestamp="1483593724688">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="4" column="103" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString.hs" timestamp="1480982986211">
         <mark key="'" line="341" column="30" />
@@ -369,8 +373,8 @@
       <jump line="21" column="26" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:upgrade_plan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
       </register>
       <register name="-" type="4">
         <text>:upgrade_plan</text>
@@ -382,28 +386,28 @@
         <text>@current_user.current_banner_key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICYmIEBjdXJyZW50X3VzZXIuY3VycmVudF9iYW5uZXJfa2V5Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBoYXZlX2tleSg6a2V5KSB9Cg==</text>
+        <text encoding="base64">ICYmIEBjdXJyZW50X3VzZXIuY3VycmVudF9iYW5uZXJfa2V5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOmN1cnJlbnRfYmFubmVyX2tleSkgeyB1c2VyLmN1cnJlbnRfYmFubmVyX2tleSB9Cg==</text>
+        <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBoYXZlX2tleSg6a2V5KSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChzdWJqZWN0WzprZXldKS5ub3RfdG8gCiAgICAgICAgICBiZSBjdXJyZW50X2Jhbm5lcls6a2V5XQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOmN1cnJlbnRfYmFubmVyX2tleSkgeyB1c2VyLmN1cnJlbnRfYmFubmVyX2tleSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOmN1cnJlbnRfYmFubmVyKSB7IHVzZXIuY3VycmVudF9iYW5uZXIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChzdWJqZWN0WzprZXldKS5ub3RfdG8gCiAgICAgICAgICBiZSBjdXJyZW50X2Jhbm5lcls6a2V5XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9LmZpcnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOmN1cnJlbnRfYmFubmVyKSB7IHVzZXIuY3VycmVudF9iYW5uZXIgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodXNlcikudG8gcmVjZWl2ZSg6ZGlzbWlzc19iYW5uZXIhKS53aXRoKGJhbm5lcl9rZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9LmZpcnN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIGhhdmVfaHR0cF9zdGF0dXMoOm9rKQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodXNlcikudG8gcmVjZWl2ZSg6ZGlzbWlzc19iYW5uZXIhKS53aXRoKGJhbm5lcl9rZXkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIGhhdmVfaHR0cF9zdGF0dXMoOm9rKQo=</text>
