@@ -284,6 +284,9 @@
       <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/capybara-2.10.1/lib/capybara/rspec/matchers.rb" timestamp="1483665615075">
         <mark key="'" line="252" column="8" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1483690074955">
+        <mark key="'" line="22" column="253" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1481610750550">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="42" column="0" />
@@ -351,10 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="19" filename="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" />
-      <jump line="16" column="55" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="43" column="55" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="15" column="38" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
       <jump line="21" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
       <jump line="28" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
       <jump line="41" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
@@ -451,6 +450,10 @@
       <jump line="17" column="32" filename="$USER_HOME$/enJapan/vibe/db/migrate/20161227073445_drop_nps_survey_colmns.rb" />
       <jump line="18" column="9" filename="$USER_HOME$/enJapan/vibe/db/migrate/20161227073445_drop_nps_survey_colmns.rb" />
       <jump line="21" column="13" filename="$USER_HOME$/enJapan/vibe/db/migrate/20161227073445_drop_nps_survey_colmns.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="20" column="11" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="21" column="26" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="22" column="253" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -460,7 +463,7 @@
         <text>banner_cache</text>
       </register>
       <register name="/" type="4">
-        <text>bann</text>
+        <text>phantom</text>
       </register>
       <register name="0" type="4">
         <text>cache</text>
@@ -497,9 +500,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bann</last-search>
+      <last-search>phantom</last-search>
       <last-offset />
-      <last-pattern>bann</last-pattern>
+      <last-pattern>phantom</last-pattern>
       <last-replace>key</last-replace>
       <last-substitute>banner_key</last-substitute>
       <last-dir>1</last-dir>
@@ -507,7 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50X2Jhbm5lcl9ub3RpZmljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxiYW5uZXJfbm90aWZpY2F0aW9uc1w+</entry>
         <entry encoding="base64">XDxzaG91bGRfc2hvd19iYW5uZXJfbm90aWZpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxiYW5uZXJfa2V5XD4=</entry>
@@ -527,6 +529,7 @@
         <entry>banner</entry>
         <entry encoding="base64">XDxiYW5uZXJfY2FjaGVcPg==</entry>
         <entry>bann</entry>
+        <entry>phantom</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
