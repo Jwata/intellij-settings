@@ -100,6 +100,9 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/rails-erd-1.5.0/test/test_helper.rb" timestamp="1483749581491">
+        <mark key="'" line="153" column="43" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1483671466812">
         <mark key="'" line="86" column="9" />
         <mark key="[" line="82" column="93" />
@@ -195,7 +198,8 @@
         <mark key="." line="13" column="9" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/refresh_team_members_details_job.rb" timestamp="1482720388285">
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/refresh_team_members_details_job.rb" timestamp="1483750138085">
+        <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -234,12 +238,6 @@
       </file>
       <file name="$USER_HOME$/development/haskell-first-project/ideaHaskellLib/bytestring-0.10.8.1/Data/ByteString/Char8.hs" timestamp="1480934111688">
         <mark key="'" line="203" column="8" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1482304809314">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="75" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="24" column="72" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/controllers/feedback_controller_spec.rb" timestamp="1483682194245">
         <mark key="[" line="34" column="25" />
@@ -280,15 +278,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/banner_controller.rb" timestamp="1483680010564" />
       <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/capybara-2.10.1/lib/capybara/rspec/matchers.rb" timestamp="1483665615075">
         <mark key="'" line="252" column="8" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1483690882865">
-        <mark key="'" line="28" column="3" />
-        <mark key="[" line="40" column="2" />
-        <mark key="]" line="40" column="2" />
-        <mark key="." line="40" column="2" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="2" />
+        <mark key="." line="20" column="2" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1481610750550">
         <mark key="'" line="24" column="0" />
@@ -339,6 +335,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/db/migrate/20170107003905_drop_messages_table.rb" timestamp="1483749631149">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/features/support/slack_wrapper_mock.rb" timestamp="1483604498093">
         <mark key="'" line="6" column="6" />
       </file>
@@ -357,11 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="41" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="46" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="63" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="68" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
       <jump line="56" column="33" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
       <jump line="60" column="33" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
       <jump line="67" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
@@ -457,55 +454,60 @@
       <jump line="21" column="26" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
       <jump line="22" column="253" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
       <jump line="28" column="3" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="80" column="6" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/rails-erd-1.5.0/test/test_helper.rb" />
+      <jump line="153" column="43" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/rails-erd-1.5.0/test/test_helper.rb" />
+      <jump line="5" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/refresh_team_members_details_job.rb" />
+      <jump line="9" column="36" filename="$USER_HOME$/enJapan/vibe/app/jobs/refresh_team_members_details_job.rb" />
+      <jump line="0" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/refresh_team_members_details_job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KHRlc3QgLWQgdG1wL2NhcHliYXJhICkgJiYg</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHRlc3QgLWQgdG1wL2NhcHliYXJhICkgJiYg</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDxSZWZyZXNoVGVhbU1lbWJlcnNEZXRhaWxzSm9iXD4=</text>
       </register>
       <register name="0" type="4">
         <text>cache</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZF9jb2x1bW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAodGVzdCAtZCB0bXAvY2FweWJhcmEgKSAmJiBhd3MgczMgc3luYyB0bXAvY2FweWJhcmEgczM6Ly92aWJlLWNhcHliYXJhLXNjcmVlbnNob3RzLyR7VFJBVklTX0NPTU1JVH0vCg==</text>
+        <text encoding="base64">ICAgIHJlbW92ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoOm5wc19zdXJ2ZXkpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgaWRmX3Njb3JlNCh0ZXJtKQogICAgICB0b2tlbnMgPSBUb2tlbml6ZXIudG9rZW5zKHRlcm0pCiAgICAgIGNhc2UgdG9rZW5zLmNvdW50CiAgICAgIHdoZW4gMCB0aGVuCiAgICAgICAgMC4wCiAgICAgIHdoZW4gMSB0aGVuCiAgICAgICAgY2hhbm5lbC5jb3JwdXMuaWRmKHRlcm0pIHx8IDEuMAogICAgICB3aGVuIDIgdGhlbgogICAgICAgIGNoYW5uZWwuY29ycHVzLmlkZl9ieV9mcmVxdWVuY3koMikKICAgICAgd2hlbiAzIHRoZW4KICAgICAgICBjaGFubmVsLmNvcnB1cy5pZGZfYnlfZnJlcXVlbmN5KDEpCiAgICAgIGVsc2UKICAgICAgICAxLjAKICAgICAgZW5kCiAgICBlbmQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBpZGZfc2NvcmUxKHRlcm0pCiAgICAgIHRva2VucyA9IFRva2VuaXplci50b2tlbnModGVybSkKICAgICAgcmV0dXJuIDAuMCBpZiB0b2tlbnMuZW1wdHk/CiAgICAgIHRva2Vucy5yZWR1Y2UoMS4wKSBkbyB8aWRmX3Njb3JlLCB0b2tlbnwKICAgICAgICAoY2hhbm5lbC5jb3JwdXMuaWRmKHRva2VuKSB8fCAxLjApICogaWRmX3Njb3JlCiAgICAgIGVuZAogICAgZW5kCgogICAgZGVmIGlkZl9zY29yZTIodGVybSkKICAgICAgdG9rZW5zID0gVG9rZW5pemVyLnRva2Vucyh0ZXJtKQogICAgICByZXR1cm4gMC4wIGlmIHRva2Vucy5lbXB0eT8KICAgICAgdG9rZW5zLnJlZHVjZSgwLjApIGRvIHxpZGZfc2NvcmUsIHRva2VufAogICAgICAgIChjaGFubmVsLmNvcnB1cy5pZGYodG9rZW4pIHx8IDEuMCkgKyBpZGZfc2NvcmUKICAgICAgZW5kCiAgICBlbmQKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRhbmNlMTogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlMSh0ZXJtKSwKICAgICAgICBpbXBvcnRhbmNlMjogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlMih0ZXJtKSwKICAgICAgICBpbXBvcnRhbmNlMzogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlMyh0ZXJtKSwKICAgICAgICBpbXBvcnRhbmNlNDogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlNCh0ZXJtKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0IHsgZXhwZWN0IHsgc3ViamVjdCB9LnRvIGNoYW5nZSB7IG9iamVjdC5jb21wbGV0ZWQ/IH0uZnJvbShmYWxzZSkudG8odHJ1ZSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRhbmNlMTogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlMSh0ZXJtKSwKICAgICAgICBpbXBvcnRhbmNlMjogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlMih0ZXJtKSwKICAgICAgICBpbXBvcnRhbmNlMzogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlMyh0ZXJtKSwKICAgICAgICBpbXBvcnRhbmNlNDogaW1wb3J0YW5jZSAqIHdhdHNvbl9rZXl3b3JkWydyZWxldmFuY2UnXS50b19mICogaWRmX3Njb3JlNCh0ZXJtKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0IHsgZXhwZWN0IHsgc3ViamVjdCB9Lm5vdF90byByYWlzZV9lcnJvciB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LSAodGVzdCAtZCB0bXAvY2FweWJhcmEgKSAmJiBhd3MgczMgc3luYyB0bXAvY2FweWJhcmEgczM6Ly92aWJlLWNhcHliYXJhLXNjcmVlbnNob3RzLyR7VFJBVklTX0NPTU1JVH0vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCg6a2V5KSB7IHZhbGlkX2tleSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAoOm5wc19zdXJ2ZXkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDxSZWZyZXNoVGVhbU1lbWJlcnNEZXRhaWxzSm9iXD4=</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern encoding="base64">XDxSZWZyZXNoVGVhbU1lbWJlcnNEZXRhaWxzSm9iXD4=</last-pattern>
       <last-replace>key</last-replace>
       <last-substitute>banner_key</last-substitute>
       <last-dir>1</last-dir>
@@ -513,10 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91bGRfc2hvd19iYW5uZXJfbm90aWZpY2F0aW9uXD4=</entry>
-        <entry encoding="base64">XDxiYW5uZXJfa2V5XD4=</entry>
-        <entry>banner_key</entry>
-        <entry>user</entry>
         <entry encoding="base64">XDxiYW5uZXJfbm90aWZpY2F0aW9uc19jb21wbGV0ZV9wYXRoXD4=</entry>
         <entry encoding="base64">XDxjYWNoZV9rZXlcPg==</entry>
         <entry>HasBannerNotification</entry>
@@ -533,6 +531,10 @@
         <entry>bann</entry>
         <entry>phantom</entry>
         <entry>test</entry>
+        <entry>drop</entry>
+        <entry>table</entry>
+        <entry>real_name</entry>
+        <entry encoding="base64">XDxSZWZyZXNoVGVhbU1lbWJlcnNEZXRhaWxzSm9iXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
