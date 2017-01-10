@@ -3,6 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/all_corpuses_update_job.rb" timestamp="1483779917195">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_auth.rb" timestamp="1483766154629">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/application.yml" timestamp="1483766916577">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/users.rb" timestamp="1483768253746">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="16" column="40" />
@@ -28,166 +46,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/features/channels.feature" timestamp="1483606945688">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" timestamp="1483770870025">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_request_spec.rb" timestamp="1483679509936">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/factories/watson.rb" timestamp="1483777238318">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="38" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" timestamp="1483776677465">
-        <mark key="'" line="0" column="21" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="2" />
-        <mark key="." line="24" column="58" />
-        <mark key="^" line="24" column="58" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/factories/teams.rb" timestamp="1483778176570">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="73" column="24" />
-        <mark key="." line="67" column="110" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" timestamp="1482308219790">
-        <mark key="'" line="11" column="15" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/feed_spec.rb" timestamp="1483773591251">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_spec.rb" timestamp="1483768141029">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="8" column="70" />
-        <mark key="^" line="8" column="70" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" timestamp="1483681795233">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="56" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/services/watson_dummy_spec.rb" timestamp="1483777368964">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/notification_controller.rb" timestamp="1483759183433">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/users/account/index.html.haml" timestamp="1483774636584">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="41" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1483778805542">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="32" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/controllers/feedback_controller_spec.rb" timestamp="1483682194245">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="51" />
-        <mark key="^" line="34" column="51" />
-        <mark key="." line="34" column="51" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1483685328392">
-        <mark key="[" line="25" column="10" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/serializers/json_with_indifferent_access.rb" timestamp="1482304783129">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/support/request_macros.rb" timestamp="1483768992979">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1481610750550">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1482304845636">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="70" />
-        <mark key="." line="13" column="70" />
-        <mark key="^" line="13" column="70" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/home_request_spec.rb" timestamp="1483755805502">
-        <mark key="'" line="21" column="10" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="61" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/show.html.haml" timestamp="1483769319037">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1483768070840">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1481766730171">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="46" column="57" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/all_corpuses_update_job.rb" timestamp="1483779917195">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_auth.rb" timestamp="1483766154629">
-        <mark key="'" line="36" column="8" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/application.yml" timestamp="1483766916577">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/teams_spec.rb" timestamp="1483770434593">
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/teams_spec.rb" timestamp="1484013206841">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/error.rb" timestamp="1483756647906">
         <mark key="'" line="71" column="10" />
@@ -207,6 +71,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/features/channels.feature" timestamp="1483606945688">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1483663093062">
         <mark key="'" line="26" column="2" />
         <mark key="[" line="27" column="0" />
@@ -219,6 +88,12 @@
         <mark key="]" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" timestamp="1483770870025">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/channel_analysis_job.rb" timestamp="1483780153303">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="26" />
@@ -228,11 +103,34 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_request_spec.rb" timestamp="1483679509936">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/factories/watson.rb" timestamp="1483777238318">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" timestamp="1484013053520">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="15" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" timestamp="1481253554442">
         <mark key="[" line="31" column="40" />
         <mark key="]" line="31" column="39" />
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/factories/teams.rb" timestamp="1483778176570">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="73" column="11" />
+        <mark key="]" line="73" column="24" />
+        <mark key="." line="67" column="110" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1483778865123">
         <mark key="'" line="0" column="0" />
@@ -240,15 +138,40 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/notification_request_spec.rb" timestamp="1483759313357">
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/notification_request_spec.rb" timestamp="1484013270196">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="33" column="2" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" timestamp="1482308219790">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/feed_spec.rb" timestamp="1484013256533">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/channels_controller.rb" timestamp="1483769965914">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/stats_spec.rb" timestamp="1484013229848">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_spec.rb" timestamp="1484013320781">
+        <mark key="'" line="36" column="36" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="35" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/users/sessions_controller.rb" timestamp="1483772724405">
         <mark key="'" line="9" column="7" />
@@ -256,7 +179,19 @@
         <mark key="]" line="5" column="62" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/factories/faker/watson.rb" timestamp="1483777065771" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.haml" timestamp="1483681795233">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/services/watson_dummy_spec.rb" timestamp="1483777368964">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" timestamp="1481693401877">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="51" column="0" />
@@ -268,11 +203,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/sessions_spec.rb" timestamp="1483773182208">
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/sessions_spec.rb" timestamp="1484013380303">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/client.rb" timestamp="1483756415570">
         <mark key="'" line="110" column="10" />
@@ -280,10 +216,10 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/channels_spec.rb" timestamp="1483770139275">
-        <mark key="[" line="9" column="93" />
-        <mark key="]" line="9" column="96" />
-        <mark key="." line="9" column="96" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/channels_spec.rb" timestamp="1484013164067">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
         <mark key="^" line="9" column="96" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" timestamp="1483673045847">
@@ -292,7 +228,17 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rspec-rails-3.5.1/lib/rspec/rails/matchers/have_rendered.rb" timestamp="1483773348059" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/notification_controller.rb" timestamp="1483759183433">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/conversations_spec.rb" timestamp="1484013176138">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/rails_helper.rb" timestamp="1483767052788">
         <mark key="'" line="60" column="24" />
         <mark key="[" line="110" column="2" />
@@ -319,16 +265,42 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" timestamp="1483757835820">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="21" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/users/account/index.html.haml" timestamp="1483774636584">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" timestamp="1484013250921">
+        <mark key="'" line="6" column="22" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1483778805542">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="32" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/controllers/feedback_controller_spec.rb" timestamp="1483682194245">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="51" />
+        <mark key="^" line="34" column="51" />
+        <mark key="." line="34" column="51" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/channel_corpus_update_job.rb" timestamp="1483779239307">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1483685328392">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/serializers/json_with_indifferent_access.rb" timestamp="1482304783129">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/readme.csv" timestamp="1481610643765">
         <mark key="'" line="803" column="0" />
@@ -336,10 +308,21 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/support/request_macros.rb" timestamp="1483768992979">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1483690882865">
         <mark key="[" line="20" column="2" />
         <mark key="]" line="20" column="2" />
         <mark key="." line="20" column="2" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1481610750550">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
         <mark key="'" line="62" column="25" />
@@ -359,11 +342,28 @@
         <mark key="]" line="7" column="31" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/version_spec.rb" timestamp="1483772065996">
+      <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1482304845636">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="70" />
+        <mark key="." line="13" column="70" />
+        <mark key="^" line="13" column="70" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/home_request_spec.rb" timestamp="1483755805502">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="61" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/version_spec.rb" timestamp="1484013353018">
         <mark key="'" line="8" column="13" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/show.html.haml" timestamp="1483769319037">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1484003923525">
         <mark key="[" line="0" column="0" />
@@ -394,17 +394,29 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/keywords_spec.rb" timestamp="1483770495496">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1483768070840">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/keywords_spec.rb" timestamp="1484013187780">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/db/migrate/20170107003905_drop_messages_table.rb" timestamp="1483749631149">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1481766730171">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="46" column="57" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/services/watson_dummy.rb" timestamp="1483776872804">
         <mark key="[" line="17" column="11" />
@@ -427,20 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="5" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
-      <jump line="32" column="9" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
-      <jump line="46" column="75" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
-      <jump line="75" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
-      <jump line="76" column="5" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
-      <jump line="80" column="56" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
-      <jump line="29" column="0" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
-      <jump line="11" column="50" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
-      <jump line="9" column="90" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
-      <jump line="28" column="57" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
-      <jump line="38" column="42" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
-      <jump line="5" column="76" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
-      <jump line="8" column="18" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
-      <jump line="7" column="18" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
       <jump line="42" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
       <jump line="4" column="34" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_requests_spec.rb" />
       <jump line="44" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" />
@@ -527,16 +525,30 @@
       <jump line="79" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="68" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="41" column="63" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="11" column="6" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="17" column="18" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="19" column="42" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="21" column="26" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="28" column="26" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="30" column="10" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="32" column="28" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="40" column="55" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="42" column="10" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="44" column="28" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="5" column="17" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="10" column="6" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="6" column="22" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
+      <jump line="36" column="36" filename="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bW9kdWxlIENoYW5uZWxzSGVscGVyCiAgZGVmIGNoYW5uZWxfY2hhbmdlcl9uYW1lCiAgICBjaGFuZ2VyID0gY3VycmVudF90ZWFtLmNoYW5uZWxzLnRyYWNrZWQuZmlyc3Quc2VsZWN0ZWRfYnkKICAgIGlmIGNoYW5nZXIKICAgICAgY2hhbmdlci5uYW1lCiAgICBlbHNlCiAgICAgIHQoJ2NoYW5uZWxzLnNlbGVjdC5ub19tb3JlLnNvbWVvbmVfaW5feW91cl90ZWFtJykKICAgIGVuZAogIGVuZAplbmQK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBkYXRlIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNfcmVjZW50X21lc3NhZ2VzXD4=</text>
+        <text encoding="base64">XDxjaGFubmVsc1w+</text>
       </register>
       <register name="0" type="4">
         <text>update_analysis</text>
@@ -573,9 +585,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNfcmVjZW50X21lc3NhZ2VzXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFubmVsc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNfcmVjZW50X21lc3NhZ2VzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFubmVsc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +595,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9kdWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxSYWlsc1w+</entry>
         <entry>feed</entry>
         <entry>bind</entry>
@@ -603,6 +614,7 @@
         <entry>active?</entry>
         <entry encoding="base64">XDxoYXNfY2hhbm5lbHNcPg==</entry>
         <entry encoding="base64">XDxoYXNfcmVjZW50X21lc3NhZ2VzXD4=</entry>
+        <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
