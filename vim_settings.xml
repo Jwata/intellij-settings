@@ -110,6 +110,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/locales/banner.en.yml" timestamp="1484035102554">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="3" column="51" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" timestamp="1484016930146">
         <mark key="'" line="395" column="0" />
         <mark key="[" line="398" column="47" />
@@ -576,53 +582,53 @@
       <jump line="27" column="11" filename="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>notify_to_slack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGV4dDogJ1NlZSBob3cgdGhlIG1vc3QgaW1wb3J0YW50IHRvcGljcyBhbmQgdGhlaXIgaW1wYWN0IG9uIHlvdXIgdGVhbScK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>See how the most important topics and their impact on your team</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZnlfdG9fc2xhY2tcPg==</text>
+        <text>See what topics impact your team morale</text>
       </register>
-      <register name="0" type="4">
-        <text>notify_to_slack</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGV4dDogJ1NlZSB3aGF0IHRvcGljcyBpbXBhY3QgeW91ciB0ZWFtIG1vcmFsZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXNlci5zd2l0Y2hfbm90aWZpY2F0aW9uX29uCg==</text>
+        <text encoding="base64">ICAgICAgdGV4dDogJ1NlZSBob3cgdGhlIG1vc3QgaW1wb3J0YW50IHRvcGljcyBhbmQgdGhlaXIgaW1wYWN0IG9uIHlvdXIgdGVhbScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgdXNlci5zd2l0Y2hfbm90aWZpY2F0aW9uX29uCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzY3VlID0+IGUKICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgcmVzY3VlID0+IGUKICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmkK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RpZnlfdG9fc2xhY2tcPg==</last-search>
+      <last-search>See what topics impact your team morale</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZnlfdG9fc2xhY2tcPg==</last-pattern>
+      <last-pattern>See what topics impact your team morale</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -630,7 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZV9tZXNzYWdlX3V1aWRcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzaW5nXD4=</entry>
         <entry encoding="base64">XDxhY3RpdmVcPg==</entry>
         <entry>team</entry>
@@ -650,6 +655,7 @@
         <entry>idf</entry>
         <entry encoding="base64">XDxpZGZfc2NvcmVcPg==</entry>
         <entry encoding="base64">XDxub3RpZnlfdG9fc2xhY2tcPg==</entry>
+        <entry>See what topics impact your team morale</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
