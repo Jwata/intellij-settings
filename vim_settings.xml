@@ -95,6 +95,9 @@
         <mark key="]" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/environments/production.rb" timestamp="1484194900926">
+        <mark key="'" line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/stats_controller.rb" timestamp="1483770870025">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="27" column="0" />
@@ -244,6 +247,9 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1484194965021">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/client.rb" timestamp="1484055040682">
         <mark key="'" line="86" column="28" />
         <mark key="[" line="113" column="8" />
@@ -270,7 +276,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/user_banner_notification.rb" timestamp="1484190286717" />
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/conversations_spec.rb" timestamp="1484013176138">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="21" />
@@ -451,7 +456,6 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" timestamp="1484186447060" />
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1484127378872">
         <mark key="'" line="53" column="27" />
         <mark key="[" line="60" column="17" />
@@ -468,8 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="92" filename="$USER_HOME$/enJapan/vibe/config/initializers/20_devise.rb" />
-      <jump line="40" column="55" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
       <jump line="84" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="77" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -568,6 +570,8 @@
       <jump line="71" column="44" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="53" column="27" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="33" column="13" filename="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" />
+      <jump line="56" column="0" filename="$USER_HOME$/enJapan/vibe/config/environments/production.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/environments/development.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -577,7 +581,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0X2RhdGVcPg==</text>
+        <text>cache</text>
       </register>
       <register name="0" type="4">
         <text>%Y-%m-%d %H:%M</text>
@@ -614,9 +618,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0X2RhdGVcPg==</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0X2RhdGVcPg==</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -624,10 +628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>impacts</entry>
-        <entry encoding="base64">XDxkcmF3R3JhcGhcPg==</entry>
-        <entry>date</entry>
-        <entry>ate</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry encoding="base64">XDxzb3J0X2J5XD4=</entry>
         <entry>spot</entry>
@@ -644,6 +644,10 @@
         <entry>value</entry>
         <entry encoding="base64">XDxtb3JhbGVcPg==</entry>
         <entry encoding="base64">XDxsYXN0X2RhdGVcPg==</entry>
+        <entry>acche</entry>
+        <entry>ache</entry>
+        <entry>session</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
