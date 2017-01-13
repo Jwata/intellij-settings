@@ -65,8 +65,8 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1484275302244">
-        <mark key="'" line="62" column="2" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1484276687223">
+        <mark key="'" line="40" column="53" />
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="42" />
         <mark key="." line="3" column="35" />
@@ -492,12 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="69" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
-      <jump line="14" column="59" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
-      <jump line="15" column="61" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
-      <jump line="38" column="108" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
-      <jump line="13" column="58" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
-      <jump line="59" column="28" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="42" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="51" column="12" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="56" column="45" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
@@ -587,11 +581,17 @@
       <jump line="8" column="10" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="229" column="27" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="203" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="62" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
       <jump line="59" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="25" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="27" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="58" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="35" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="62" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="29" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="46" column="53" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="4" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="56" column="59" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="40" column="53" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -601,7 +601,7 @@
         <text>36.hours</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfa2V5d29yZHNcPg==</text>
+        <text encoding="base64">XDxERUZBVUxUX0FOQUxZU0VfRU1PVElPTlNfU1RBUlRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>1.month</text>
@@ -638,9 +638,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfa2V5d29yZHNcPg==</last-search>
+      <last-search encoding="base64">XDxERUZBVUxUX0FOQUxZU0VfRU1PVElPTlNfU1RBUlRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfa2V5d29yZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxERUZBVUxUX0FOQUxZU0VfRU1PVElPTlNfU1RBUlRcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -648,10 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmVudF9zdHJlYW1cPg==</entry>
-        <entry encoding="base64">XDxoYXNfbW9yYWxlc19mb3JcPg==</entry>
-        <entry encoding="base64">XDxtb3JhbGVcPg==</entry>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfbW9yYWxlXD4=</entry>
         <entry encoding="base64">XDxLRVlfTUFQUElOR1w+</entry>
         <entry encoding="base64">XDx2aWJlXD4=</entry>
@@ -662,12 +658,16 @@
         <entry>if</entry>
         <entry>inactive</entry>
         <entry>timecop</entry>
-        <entry encoding="base64">XDxlbmRcPg==</entry>
         <entry encoding="base64">XDx0aW1lX3RyYXZlbF9mb3JfcmVxdWVzdFw+</entry>
         <entry encoding="base64">XDx0aW1lX3RyYXZlbFw+</entry>
         <entry encoding="base64">XDxUaW1lVHJhdmVsRmlsdGVyc1w+</entry>
         <entry encoding="base64">XDxqb2luR3JvdXBzV2l0aEluU2hvcnREaXN0YW5jZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVfa2V5d29yZHNcPg==</entry>
+        <entry>update_conversations_keywords</entry>
+        <entry encoding="base64">XDx1cGRhdGVfY29udmVyc2F0aW9uc19rZXl3b3Jkc1w+</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0FOQUxZU0VfS0VZV09SRFNfU1RBUlRcPg==</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0FOQUxZU0VfRU1PVElPTlNfU1RBUlRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
