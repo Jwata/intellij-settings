@@ -347,11 +347,11 @@
       <file name="/usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib/active_support/rescuable.rb" timestamp="1484053500581">
         <mark key="'" line="113" column="61" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1484285438546">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1484286082543">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/lib/vibe/serializers/json_with_indifferent_access.rb" timestamp="1482304783129">
         <mark key="[" line="2" column="0" />
@@ -592,8 +592,8 @@
       <jump line="58" column="8" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_expected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>is_expected</text>
@@ -601,35 +601,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVfcmVzcG9uc2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmFpbHNfaGVscGVyJwo=</text>
+      <register name="0" type="4">
+        <text>FactoryGirl.create(:user)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gYmVfdHJ1dGh5IH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgIiIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0ICIiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0ICIiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgInNvbWV0aGluZyIgZG8KICAgICAgc3ViamVjdCgpCiAgICAgIAogICAgZW5kCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAiQHVwZGF0ZSIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbGV0KDp1c2VyKSB7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6dXNlcikgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCiAgICAgICAgCiAgICAgIGVuZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gYmVfdHJ1dGh5IH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQoOikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN1YmplY3QgIiIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0ICIiCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdGlhbGl6ZShjaGFubmVsKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0ICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
