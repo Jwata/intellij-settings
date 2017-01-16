@@ -1236,6 +1236,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-tablesorter-1.21.4/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-timepicker-rails (v1.11.4, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-timepicker-rails-1.11.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-timepicker-rails-1.11.4/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-timepicker-rails-1.11.4/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-timepicker-rails-1.11.4/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-turbolinks (v0.2.1, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-0.2.1/lib" />
@@ -1247,6 +1258,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-0.2.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-0.2.1/src" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-turbolinks-0.2.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-ui-rails (v6.0.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-ui-rails-6.0.1/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-ui-rails-6.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-ui-rails-6.0.1/app" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-ui-rails-6.0.1/lib" />
       </SOURCES>
     </library>
     <library name="js_cookie_rails (v1.0.1, ruby-2.2.3-p173) [gem]">
