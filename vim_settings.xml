@@ -503,6 +503,9 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" timestamp="1484710373770">
+        <mark key="'" line="3" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1484616568751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -578,9 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="10" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
-      <jump line="61" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="62" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="66" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="11" column="5" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
@@ -678,6 +678,9 @@
       <jump line="40" column="66" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
       <jump line="56" column="59" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
       <jump line="65" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="66" column="7" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="74" column="7" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="3" column="2" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -687,7 +690,7 @@
         <text>analyse_emotions_start_time</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</text>
+        <text encoding="base64">XDxJR05PUkVEX0VSUk9SU1w+</text>
       </register>
       <register name="0" type="4">
         <text>morale.try(:unknown?)</text>
@@ -724,9 +727,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</last-search>
+      <last-search encoding="base64">XDxJR05PUkVEX0VSUk9SU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJR05PUkVEX0VSUk9SU1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -734,7 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJfdXNlcl9tZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxzbGFja19tZXNzYWdlc1w+</entry>
         <entry>text</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
@@ -754,6 +756,7 @@
         <entry>refresh</entry>
         <entry encoding="base64">XDxyZWZyZXNoR3JhcGhcPg==</entry>
         <entry encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</entry>
+        <entry encoding="base64">XDxJR05PUkVEX0VSUk9SU1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
