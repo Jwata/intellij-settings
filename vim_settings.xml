@@ -251,13 +251,6 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1484700707695">
-        <mark key="'" line="39" column="49" />
-        <mark key="[" line="50" column="67" />
-        <mark key="]" line="50" column="67" />
-        <mark key="^" line="50" column="67" />
-        <mark key="." line="50" column="67" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_auth.rb" timestamp="1483766154629">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="1" column="11" />
@@ -301,12 +294,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1484702239531">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="64" column="1" />
-        <mark key="." line="64" column="1" />
-        <mark key="^" line="64" column="1" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1484704348615">
+        <mark key="'" line="65" column="6" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_notifications_request_spec.rb" timestamp="1483684764816">
         <mark key="'" line="17" column="6" />
@@ -543,7 +535,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1484702085322">
+      <file name="/a.regexp" timestamp="1484704354699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -589,11 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="73" filename="/usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib/active_support/message_verifier.rb" />
-      <jump line="29" column="19" filename="/usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib/active_support/message_verifier.rb" />
-      <jump line="31" column="16" filename="/usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib/active_support/message_verifier.rb" />
-      <jump line="66" column="10" filename="/usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib/active_support/message_verifier.rb" />
-      <jump line="19" column="10" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
       <jump line="11" column="10" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="61" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
@@ -689,55 +676,60 @@
       <jump line="335" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="339" column="2" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="344" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="48" column="20" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
+      <jump line="66" column="1" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="40" column="66" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="56" column="59" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="65" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5zY3JvbGxUbygwLGRvY3VtZW50LmJvZHkuc2Nyb2xsSGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgIHx8IHNlbGYubGFzdF9hbmFseXNlZF9hdCA+IFRpbWUuem9uZS5ub3cgLSAK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>analyse_emotions_start_time</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZyZXNoR3JhcGhcPg==</text>
+        <text encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZC52YWx1ZT8K</text>
+      <register name="0" type="4">
+        <text>morale.try(:unknown?)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5zY3JvbGxUbygwLGRvY3VtZW50LmJvZHkuc2Nyb2xsSGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgIHx8IHNlbGYubGFzdF9hbmFseXNlZF9hdCA+IFRpbWUuem9uZS5ub3cgLSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5zY3JvbGxUbygwLGRvY3VtZW50LmJvZHkuc2Nyb2xsSGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgdGltZSwgbW9yYWxlLnRyeSg6dW5rbm93bj8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgbW9yYWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VkQK</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5zY3JvbGxUbygwLGRvY3VtZW50LmJvZHkuc2Nyb2xsSGVpZ2h0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5zY3JvbGxUbygwLGRvY3VtZW50LmJvZHkuc2Nyb2xsSGVpZ2h0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICE9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmUgPSBzd2l0Y2ggc2VsZWN0ZWRSZXNvbHV0aW9uCiAgICAgICAgICB3aGVuICdkYXknCiAgICAgICAgICAgIGQuYWN0aXZlCiAgICAgICAgICB3aGVuICd3ZWVrJwogICAgICAgICAgICBkLnZhbHVlPwogICAgICAgICAgd2hlbiAnbW9udGgnCiAgICAgICAgICAgIGQudmFsdWU/Cg==</text>
+        <text encoding="base64">VkQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmU6IGxhc3QuYWN0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGl2ZTogZC5hY3RpdmUK</text>
+        <text encoding="base64">ICAgICAgICAgICE9IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZyZXNoR3JhcGhcPg==</last-search>
+      <last-search encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZyZXNoR3JhcGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -745,7 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2Zvcm1fbWVzc2FnZXNcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJfdXNlcl9tZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxzbGFja19tZXNzYWdlc1w+</entry>
         <entry>text</entry>
@@ -765,6 +756,7 @@
         <entry>selec</entry>
         <entry>refresh</entry>
         <entry encoding="base64">XDxyZWZyZXNoR3JhcGhcPg==</entry>
+        <entry encoding="base64">XDxhbmFseXNlX2Vtb3Rpb25zX3N0YXJ0X3RpbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
