@@ -263,10 +263,10 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/morale_swing_detection_job_spec.rb" timestamp="1484790613553">
-        <mark key="[" line="35" column="58" />
-        <mark key="]" line="35" column="62" />
-        <mark key="." line="35" column="62" />
-        <mark key="^" line="35" column="62" />
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="24" column="62" />
+        <mark key="." line="24" column="62" />
+        <mark key="^" line="24" column="62" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/services/engine.rb" timestamp="1484212625255">
         <mark key="'" line="10" column="61" />
@@ -338,6 +338,11 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/user_banner_notification.rb" timestamp="1484792929722">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/rails_helper.rb" timestamp="1484788549534">
         <mark key="'" line="5" column="0" />
@@ -553,8 +558,8 @@
       <jump line="7" column="79" filename="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>30</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogd2FpdGluZyBmb3IgUUEK</text>
       </register>
       <register name="-" type="4">
         <text>30</text>
@@ -566,31 +571,31 @@
         <text>30</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dCAnJwo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogd2FpdGluZyBmb3IgUUEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dCAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
