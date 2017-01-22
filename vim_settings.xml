@@ -309,6 +309,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-rails-metrics.config" timestamp="1485128408279">
+        <mark key="'" line="71" column="16" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_corpus.rb" timestamp="1482720677375">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="41" />
@@ -500,8 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="41" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="65" column="34" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="31" column="10" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="30" column="16" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="4" column="36" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
@@ -600,55 +604,57 @@
       <jump line="95" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-eb-metrics.config" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-eb-metrics.config" />
       <jump line="50" column="22" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-eb-metrics.config" />
+      <jump line="76" column="16" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-rails-metrics.config" />
+      <jump line="71" column="16" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-rails-metrics.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdHJlYW1fbmFtZSA9IHtpbnN0YW5jZV9pZH0vc2lkZWtpcS5sb2cK</text>
       </register>
       <register name="-" type="4">
-        <text>.with_indifferent_access</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBFQkxvZ0dyb3VwXD4=</text>
+        <text encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>.with_indifferent_access</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdHJlYW1fbmFtZSA9IHtpbnN0YW5jZV9pZH0vc2lkZWtpcS5sb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdHJlYW1fbmFtZSA9IHtpbnN0YW5jZV9pZH0vc2lkZWtpcS5sb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCg6dXNlcl90aW1lc3RhbXBfZGF0YSkgeyAyNS50aW1lcy5tYXAgeyB7dHM6IEZha2VyOjpTbGFjay50cyhmcm9tOiBmcm9tLCB0bzogdG8pLnRvX2ksIHVzZXI6IHVzZXJzLnNhbXBsZX0gfSB9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXQgJ2RvZXMgbm90IGNoYW5nZSB3aXRoIG9yZGVyIG9mIGlucHV0IGRhdGEnIGRvCiAgICAgICAgZXhwZWN0KGVuZ2luZS5lbmdhZ2VtZW50KHVzZXJzLnNpemUsIGNvcnJlY3RfZGF0YSkpLnRvIGVxdWFsKGVuZ2luZS5lbmdhZ2VtZW50KHVzZXJzLnNpemUsIGNvcnJlY3RfZGF0YS5zaHVmZmxlKSkKICAgICAgICBleHBlY3QoZW5naW5lLmVuZ2FnZW1lbnQodXNlcnMuc2l6ZSwgbWl4ZWRfZGF0YSkpLnRvIGVxdWFsKGVuZ2luZS5lbmdhZ2VtZW50KHVzZXJzLnNpemUsIG1peGVkX2RhdGEuc2h1ZmZsZSkpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGxldCg6dXNlcl90aW1lc3RhbXBfZGF0YSkgeyAyNS50aW1lcy5tYXAgeyB7dHM6IEZha2VyOjpTbGFjay50cyhmcm9tOiBmcm9tLCB0bzogdG8pLnRvX2ksIHVzZXI6IHVzZXJzLnNhbXBsZX0gfSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBFQkxvZ0dyb3VwXD4=</last-search>
+      <last-search encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBFQkxvZ0dyb3VwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</last-pattern>
       <last-replace encoding="base64">ID0+IA==</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -656,7 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>register_engine</entry>
         <entry>side</entry>
         <entry encoding="base64">XDxTSURFS0lRX0VOQUJMRURcPg==</entry>
@@ -676,6 +681,7 @@
         <entry encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBDRk5Mb2dHcm91cFw+</entry>
         <entry>securi</entry>
         <entry encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBFQkxvZ0dyb3VwXD4=</entry>
+        <entry encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
