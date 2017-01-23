@@ -41,8 +41,8 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" timestamp="1485127707545">
-        <mark key="'" line="41" column="22" />
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" timestamp="1485129984074">
+        <mark key="'" line="71" column="45" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/routes.rb" timestamp="1484809566984">
         <mark key="'" line="0" column="0" />
@@ -309,7 +309,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-rails-metrics.config" timestamp="1485128408279">
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-rails-metrics.config" timestamp="1485129192878">
         <mark key="'" line="71" column="16" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -506,9 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="10" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="30" column="16" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="4" column="36" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="28" column="36" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="58" column="38" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="3" column="38" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
@@ -595,8 +592,6 @@
       <jump line="86" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
       <jump line="81" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
       <jump line="76" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
-      <jump line="71" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
-      <jump line="66" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
       <jump line="44" column="2" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
       <jump line="41" column="22" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
       <jump line="100" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-eb-metrics.config" />
@@ -606,6 +601,11 @@
       <jump line="50" column="22" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-eb-metrics.config" />
       <jump line="76" column="16" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-rails-metrics.config" />
       <jump line="71" column="16" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-rails-metrics.config" />
+      <jump line="68" column="64" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
+      <jump line="65" column="53" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
+      <jump line="22" column="4" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
+      <jump line="66" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
+      <jump line="71" column="45" filename="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -615,7 +615,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</text>
+        <text encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBDRk5Mb2dHcm91cFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdHJlYW1fbmFtZSA9IHtpbnN0YW5jZV9pZH0vc2lkZWtpcS5sb2cK</text>
@@ -652,9 +652,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</last-search>
+      <last-search encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBDRk5Mb2dHcm91cFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBDRk5Mb2dHcm91cFw+</last-pattern>
       <last-replace encoding="base64">ID0+IA==</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>register_engine</entry>
         <entry>side</entry>
         <entry encoding="base64">XDxTSURFS0lRX0VOQUJMRURcPg==</entry>
         <entry>que</entry>
@@ -678,10 +677,11 @@
         <entry encoding="base64">OiA=</entry>
         <entry>bind</entry>
         <entry>d</entry>
-        <entry encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBDRk5Mb2dHcm91cFw+</entry>
         <entry>securi</entry>
         <entry encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBFQkxvZ0dyb3VwXD4=</entry>
         <entry encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</entry>
+        <entry encoding="base64">XDxDbG91ZEluaXRMb2dHcm91cFw+</entry>
+        <entry encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBDRk5Mb2dHcm91cFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
