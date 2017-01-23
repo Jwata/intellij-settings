@@ -277,11 +277,11 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" timestamp="1485147128213">
-        <mark key="[" line="102" column="49" />
-        <mark key="]" line="102" column="55" />
-        <mark key="." line="102" column="55" />
-        <mark key="^" line="102" column="55" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" timestamp="1485150886595">
+        <mark key="'" line="109" column="17" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/keywords/index.html.haml" timestamp="1484184418201">
         <mark key="[" line="18" column="0" />
@@ -531,15 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/environments/development.rb" />
-      <jump line="4" column="12" filename="$USER_HOME$/enJapan/vibe/config/environments/development.rb" />
-      <jump line="12" column="24" filename="$USER_HOME$/enJapan/vibe/config/environments/development.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/environments/staging.rb" />
-      <jump line="10" column="13" filename="$USER_HOME$/enJapan/vibe/spec/jobs/calculate_morales_job_spec.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/calculate_morales_job_spec.rb" />
-      <jump line="7" column="15" filename="$USER_HOME$/enJapan/vibe/spec/jobs/calculate_morales_job_spec.rb" />
-      <jump line="13" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/calculate_morales_job_spec.rb" />
-      <jump line="21" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/calculate_morales_job_spec.rb" />
       <jump line="8" column="10" filename="$USER_HOME$/enJapan/vibe/spec/jobs/calculate_morales_job_spec.rb" />
       <jump line="44" column="18" filename="$USER_HOME$/enJapan/vibe/app/services/engine.rb" />
       <jump line="19" column="45" filename="$USER_HOME$/enJapan/vibe/spec/services/engine_spec.rb" />
@@ -601,19 +592,14 @@
       <jump line="7" column="44" filename="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" />
       <jump line="0" column="34" filename="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" />
       <jump line="65" column="9" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="105" column="28" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="103" column="13" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="97" column="63" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="96" column="34" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="95" column="35" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="81" column="63" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="71" column="63" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="80" column="65" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="79" column="38" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="92" column="73" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="70" column="34" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
-      <jump line="12" column="4" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="73" column="12" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculation.rb" />
       <jump line="90" column="4" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
@@ -631,55 +617,69 @@
       <jump line="4" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/force_caluculate_morales.rb" />
       <jump line="2" column="28" filename="$USER_HOME$/enJapan/vibe/spec/jobs/force_calculate_morales_job_spec.rb" />
       <jump line="101" column="48" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="102" column="55" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="137" column="23" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="99" column="13" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="114" column="13" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="80" column="28" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="95" column="6" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="4" column="2" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="78" column="1" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="96" column="43" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="12" column="2" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="151" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="104" column="66" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="105" column="35" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
+      <jump line="110" column="17" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculation_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGZyb20gJiYgZnJvbSA+IDAKICAgICAgY2hhbm5lbC5jYWxjdWxhdGVfbW9yYWxlcyEoZnJvbTogVGltZS56b25lLmF0KGZyb20pLCBmb3JjZTogZm9yY2UpCiAgICBlbHNlCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICMgZXhwZWN0KGNoYW5uZWwpLnRvIHJlY2VpdmUoOmNhbGN1bGF0ZV9tb3JhbGUhKS5leGFjdGx5KHBvaW50cy5jb3VudCAtIDEpLnRpbWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>force: force</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>flag</text>
+        <text encoding="base64">XDxjYWxjdWxhdGVkX3BvaW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>with_conversations</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNoYW5uZWwuY2FsY3VsYXRlX21vcmFsZSEoY2FsY3VsYXRlZF9wb2ludCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGZyb20gJiYgZnJvbSA+IDAKICAgICAgY2hhbm5lbC5jYWxjdWxhdGVfbW9yYWxlcyEoZnJvbTogVGltZS56b25lLmF0KGZyb20pLCBmb3JjZTogZm9yY2UpCiAgICBlbHNlCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICMgZXhwZWN0KGNoYW5uZWwpLnRvIHJlY2VpdmUoOmNhbGN1bGF0ZV9tb3JhbGUhKS5leGFjdGx5KHBvaW50cy5jb3VudCAtIDEpLnRpbWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2hhbm5lbC5jYWxjdWxhdGVfbW9yYWxlcyEoZm9yY2U6IGZvcmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0IHsgY2hhbm5lbC5jYWxjdWxhdGVfbW9yYWxlcyEgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoYW5uZWwuY2FsY3VsYXRlX21vcmFsZSEoY2FsY3VsZXRkX3BvaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBlbmRpbmcgIkRvZXNuJ3QgcGFzcyBvbiBUcmF2aXMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNWCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNWCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNWCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgJ3doZW4gZm9yY2UgZmxhZyBpcyBmYWxzZScgZG8KICAgICAgbGV0KDpjaGFubmVsKSB7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6Y2hhbm5lbCwgbGFzdF9hbmFseXNlZF9hdDogVGltZS56b25lLm5vdykgfQogICAgICBsZXQoOmNhbGN1bGV0ZF9wb2ludCkgeyBwb2ludHMuZmlyc3QgfQogICAgICBzdWJqZWN0IHsgY2hhbm5lbC5jYWxjdWxhdGVfbW9yYWxlcyEgfQoKICAgICAgaXQgJ2NhbGN1bGF0ZSBtb3JhbGVzIGV4Y2x1ZGluZyBjYWxjdWxhdGVkIHBvaW50cycgZG8KICAgICAgICBleHBlY3QoY2hhbm5lbCkudG8gcmVjZWl2ZSg6cG9pbnRzKS53aXRoKENoYW5uZWw6OkRFRkFVTFRfQU5BTFlTRV9FTU9USU9OU19TVEFSVC5hZ28pLmFuZF9yZXR1cm4ocG9pbnRzKQogICAgICAgIGNoYW5uZWwuY2FsY3VsYXRlX21vcmFsZSEoY2FsY3VsZXRkX3BvaW50KQogICAgICAgIGV4cGVjdChjaGFubmVsKS5ub3RfdG8gcmVjZWl2ZSg6Y2FsY3VsYXRlX21vcmFsZSEpLndpdGgoY2FsY3VsZXRkX3BvaW50KQogICAgICAgIHBvaW50cy5yZWplY3QgeyB8cHwgcCA9PSBjYWxjdWxldGRfcG9pbnQgfS5lYWNoIGRvIHxwb2ludHwKICAgICAgICAgIGV4cGVjdChjaGFubmVsKS50byByZWNlaXZlKDpjYWxjdWxhdGVfbW9yYWxlISkud2l0aChwb2ludCkKICAgICAgICBlbmQKICAgICAgICBzdWJqZWN0CiAgICAgIGVuZAogICAgZW5kCgogICAgY29udGV4dCAnd2hlbiBmb3JjZSBmbGFnIGlzIHRydWUnIGRvCiAgICAgIGxldCg6Y2hhbm5lbCkgeyBGYWN0b3J5R2lybC5jcmVhdGUoOmNoYW5uZWwsIGxhc3RfYW5hbHlzZWRfYXQ6IFRpbWUuem9uZS5ub3cpIH0KICAgICAgbGV0KDpjYWxjdWxldGRfcG9pbnQpIHsgcG9pbnRzLmZpcnN0IH0KICAgICAgc3ViamVjdCB7IGNoYW5uZWwuY2FsY3VsYXRlX21vcmFsZXMhKGZvcmNlOiB0cnVlKSB9CgogICAgICBpdCAnY2FsY3VsYXRlIG1vcmFsZXMgaW5jbHVkaW5nIGNhbGN1bGF0ZWQgcG9pbnRzJyBkbwogICAgICAgIGV4cGVjdChjaGFubmVsKS50byByZWNlaXZlKDpwb2ludHMpLndpdGgoQ2hhbm5lbDo6REVGQVVMVF9BTkFMWVNFX0VNT1RJT05TX1NUQVJULmFnbykuYW5kX3JldHVybihwb2ludHMpCiAgICAgICAgY2hhbm5lbC5jYWxjdWxhdGVfbW9yYWxlIShjYWxjdWxldGRfcG9pbnQpCiAgICAgICAgcG9pbnRzLmVhY2ggZG8gfHBvaW50fAogICAgICAgICAgZXhwZWN0KGNoYW5uZWwpLnRvIHJlY2VpdmUoOmNhbGN1bGF0ZV9tb3JhbGUhKS53aXRoKHBvaW50KQogICAgICAgIGVuZAogICAgICAgIHN1YmplY3QKICAgICAgZW5kCiAgICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIHsgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNoYW5uZWwuY2FsY3VsYXRlX21vcmFsZSEoY2FsY3VsYXRlZF9wb2ludCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbGFzczogRm9yY2VDYWxjdWxhdGVNb3JhbGVzSm9iCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2ludHMuZWFjaCBkbyB8cG9pbnR8CiAgICAgICAgICBleHBlY3QoY2hhbm5lbCkudG8gcmVjZWl2ZSg6Y2FsY3VsYXRlX21vcmFsZSEpLndpdGgocG9pbnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flag</last-search>
+      <last-search encoding="base64">XDxjYWxjdWxhdGVkX3BvaW50XD4=</last-search>
       <last-offset />
-      <last-pattern>flag</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjdWxhdGVkX3BvaW50XD4=</last-pattern>
       <last-replace encoding="base64">ID0+IA==</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -687,12 +687,6 @@
     </search>
     <history>
       <history-search>
-        <entry>securi</entry>
-        <entry encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBFQkxvZ0dyb3VwXD4=</entry>
-        <entry encoding="base64">XDxsb2dfZ3JvdXBfbmFtZVw+</entry>
-        <entry encoding="base64">XDxDbG91ZEluaXRMb2dHcm91cFw+</entry>
-        <entry encoding="base64">XDxBV1NFQkNsb3VkV2F0Y2hMb2dzODgzMmM4ZDNmMWE1NGMyMzhhNDBlMzZmMzFlZjU1YTBDRk5Mb2dHcm91cFw+</entry>
-        <entry>defa</entry>
         <entry>instance-</entry>
         <entry>instance</entry>
         <entry>log_stre</entry>
@@ -707,6 +701,12 @@
         <entry>active</entry>
         <entry encoding="base64">XDxGb3JjZUNhbGN1bGF0ZU1vcmFsZXNKb2JcPg==</entry>
         <entry>flag</entry>
+        <entry encoding="base64">XDxub3RfdG9cPg==</entry>
+        <entry>before</entry>
+        <entry encoding="base64">XDxiZWZvcmVcPg==</entry>
+        <entry>befo</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxjYWxjdWxhdGVkX3BvaW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
