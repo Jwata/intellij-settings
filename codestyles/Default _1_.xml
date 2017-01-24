@@ -1,4 +1,14 @@
 <code_scheme name="Default (1)">
+  <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="INDENT_WHEN_CASES" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
