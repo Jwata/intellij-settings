@@ -295,6 +295,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/development/AwesomeProject/app/constants/ActionTypes.js" timestamp="1485261022966">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" timestamp="1485159661569">
         <mark key="[" line="34" column="37" />
         <mark key="]" line="34" column="37" />
@@ -311,7 +316,13 @@
         <mark key="." line="73" column="21" />
         <mark key="^" line="73" column="21" />
       </file>
-      <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485258975393" />
+      <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485260776560">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/channel_analysis_job.rb" timestamp="1485141669504">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="46" />
@@ -455,10 +466,10 @@
         <mark key="." line="77" column="68" />
         <mark key="^" line="77" column="68" />
       </file>
-      <file name="$USER_HOME$/development/AwesomeProject/app/navAction.js" timestamp="1485259504919">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/development/AwesomeProject/app/navAction.js" timestamp="1485261049081">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_corpus.rb" timestamp="1482720677375">
         <mark key="[" line="15" column="42" />
@@ -564,6 +575,7 @@
         <mark key="." line="16" column="93" />
         <mark key="^" line="16" column="93" />
       </file>
+      <file name="$USER_HOME$/development/AwesomeProject/app/actions/navActions.js" timestamp="1485261040627" />
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/all_corpuses_update_job_spec.rb" timestamp="1483780093041">
         <mark key="'" line="10" column="45" />
         <mark key="[" line="3" column="0" />
@@ -593,9 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="6" column="68" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
-      <jump line="22" column="95" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
       <jump line="31" column="74" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
       <jump line="5" column="2" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
       <jump line="19" column="49" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
@@ -693,16 +702,19 @@
       <jump line="85" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="97" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="57" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
+      <jump line="0" column="2" filename="$USER_HOME$/development/AwesomeProject/index.ios.js" />
+      <jump line="3" column="40" filename="$USER_HOME$/development/AwesomeProject/index.ios.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/development/AwesomeProject/index.ios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>emotions</text>
+        <text>AwesomeProjectRedux</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</text>
+        <text encoding="base64">XDxzdG9yZVw+</text>
       </register>
       <register name="0" type="4">
         <text>morale_equation</text>
@@ -711,37 +723,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CkFwcFJlZ2lzdHJ5LAogIFN0eWxlU2hlZXQsCiAgVGV4dCwKICBWaWV3Cn0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCg==</text>
+        <text encoding="base64">LyoqCiAqIFNhbXBsZSBSZWFjdCBOYXRpdmUgQXBwCiAqIGh0dHBzOi8vZ2l0aHViLmNvbS9mYWNlYm9vay9yZWFjdC1uYXRpdmUKICogQGZsb3cKICovCgppbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwppbXBvcnQgewogIEFwcFJlZ2lzdHJ5LAogIFN0eWxlU2hlZXQsCiAgVGV4dCwKICBWaWV3Cn0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCmV4cG9ydCBkZWZhdWx0IGNsYXNzIEF3ZXNvbWVQcm9qZWN0IGV4dGVuZHMgQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLmNvbnRhaW5lcn0+CiAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy53ZWxjb21lfT4KICAgICAgICAgIEhvZ2UgV2VsY29tZSB0byBSZWFjdCBOYXRpdmUhCiAgICAgICAgPC9UZXh0PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT4KICAgICAgICAgIFRvIGdldCBzdGFydGVkLCBlZGl0IGluZGV4Lmlvcy5qcwogICAgICAgIDwvVGV4dD4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmluc3RydWN0aW9uc30+CiAgICAgICAgICBQcmVzcyBDbWQrUiB0byByZWxvYWQseydcbid9CiAgICAgICAgICBDbWQrRCBvciBzaGFrZSBmb3IgZGV2IG1lbnUKICAgICAgICA8L1RleHQ+CiAgICAgIDwvVmlldz4KICAgICk7CiAgfQp9Cgpjb25zdCBzdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgY29udGFpbmVyOiB7CiAgICBmbGV4OiAxLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJywKICB9LAogIHdlbGNvbWU6IHsKICAgIGZvbnRTaXplOiAyMCwKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBtYXJnaW46IDEwLAogIH0sCiAgaW5zdHJ1Y3Rpb25zOiB7CiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgY29sb3I6ICcjMzMzMzMzJywKICAgIG1hcmdpbkJvdHRvbTogNSwKICB9LAp9KTsKCkFwcFJlZ2lzdHJ5LnJlZ2lzdGVyQ29tcG9uZW50KCdBd2Vzb21lUHJvamVjdCcsICgpID0+IEF3ZXNvbWVQcm9qZWN0KTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">CkFwcFJlZ2lzdHJ5LAogIFN0eWxlU2hlZXQsCiAgVGV4dCwKICBWaWV3Cn0gZnJvbSAncmVhY3QtbmF0aXZlJzsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCg6YWN0aXZlX21lbWJlcnMpIHt0aW1lcy5tYXAgeyBGYWtlcjo6U2xhY2sudXNlcl9pZCB9LnVuaXEgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOmFjdGl2ZV9tZW1iZXJzX2NvdW50KSB7IGFjdGl2ZV9tZW1iZXJzLnNpemUgfQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOmFjdGl2ZV9tZW1iZXJzX2NvdW50KSB7IGFjdGl2ZV9tZW1iZXJzLnNpemUgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCg6YWN0aXZlX21lbWJlcnMpIHt0aW1lcy5tYXAgeyBGYWtlcjo6U2xhY2sudXNlcl9pZCB9LnVuaXEgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQoOmFjdGl2ZV9tZW1iZXJzX2NvdW50KSB7IDAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOmFjdGl2ZV9tZW1iZXJzX2NvdW50KSB7IGFjdGl2ZV9tZW1iZXJzLnNpemUgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCg6YWN0aXZlX21lbWJlcnNfY291bnQpIHsgYWN0aXZlX21lbWJlcnMuc2l6ZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOmFjdGl2ZV9tZW1iZXJzX2NvdW50KSB7IGFjdGl2ZV9tZW1iZXJzLnNpemUgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</last-search>
+      <last-search encoding="base64">XDxzdG9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yZVw+</last-pattern>
       <last-replace encoding="base64">ID0+IA==</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -749,8 +761,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbW90aW9uc19sYXN0X2FuYWx5c2VkX2F0XD4=</entry>
-        <entry>watson</entry>
         <entry>vcr</entry>
         <entry encoding="base64">XDxvbl9lcnJvclw+</entry>
         <entry encoding="base64">XDxoYW5kbGVfcmVzcG9uc2VfYm9keVw+</entry>
@@ -769,6 +779,8 @@
         <entry encoding="base64">XDxhY3RpdmVfbWVtYmVyc1w+</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxjb25maWd1cmVTdG9yZVw+</entry>
+        <entry encoding="base64">XDxzdG9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">dnNwIA==</entry>
@@ -785,12 +797,12 @@
         <entry>we</entry>
         <entry>:w</entry>
         <entry>w:w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zLzogLz0+IC9n</entry>
         <entry encoding="base64">JzwsJz5zLzogLyA9PiAvZw==</entry>
         <entry>Lw</entry>
         <entry>&quot;w</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
