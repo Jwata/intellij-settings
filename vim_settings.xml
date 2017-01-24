@@ -61,9 +61,6 @@
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" timestamp="1485235926036">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="37" column="60" />
-        <mark key="]" line="37" column="60" />
-        <mark key="." line="37" column="60" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/teams_spec.rb" timestamp="1484013206841">
         <mark key="'" line="5" column="0" />
@@ -84,6 +81,13 @@
         <mark key="]" line="34" column="37" />
         <mark key="^" line="34" column="37" />
         <mark key="." line="34" column="37" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculations_spec.rb" timestamp="1485240888375">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="33" />
+        <mark key="]" line="85" column="16" />
+        <mark key="^" line="85" column="16" />
+        <mark key="." line="85" column="16" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1485235895773" />
       <file name="$USER_HOME$/enJapan/vibe/features/channels.feature" timestamp="1484015679325">
@@ -186,6 +190,7 @@
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" timestamp="1485241278354" />
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/index.html.haml" timestamp="1484290307330">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -555,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="7" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="68" column="24" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="73" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="105" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
@@ -655,6 +659,7 @@
       <jump line="26" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
       <jump line="79" column="7" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
       <jump line="3" column="2" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculations_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
