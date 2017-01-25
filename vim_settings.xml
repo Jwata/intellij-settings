@@ -166,11 +166,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/suggest_channel.rb" timestamp="1485310560719">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="5" column="108" />
+      <file name="$USER_HOME$/enJapan/vibe/suggest_channel.rb" timestamp="1485312370713">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="48" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="23" column="48" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/initializers/mime_types.rb" timestamp="1484897827674">
         <mark key="[" line="5" column="11" />
@@ -615,7 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="34" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="5" column="6" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="15" column="13" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="126" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
@@ -715,19 +715,20 @@
       <jump line="4" column="0" filename="$USER_HOME$/enJapan/vibe/suggest_channel.rb" />
       <jump line="18" column="21" filename="$USER_HOME$/enJapan/vibe/suggest_channel.rb" />
       <jump line="19" column="6" filename="$USER_HOME$/enJapan/vibe/suggest_channel.rb" />
+      <jump line="16" column="4" filename="$USER_HOME$/enJapan/vibe/suggest_channel.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>== 0</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>== 0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudW1fbWVzc2FnZXNcPg==</text>
+        <text encoding="base64">XDxsYXN0X21lc3NhZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>num_threads</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC5yZWplY3QgeyB8Y3wgY1s6bnVtX21lc3NhZ2VzXSA9PSAwIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgY2FuZGlkYXRlcy5tYXAgZG8gfGN8CiAgZW5kCg==</text>
@@ -761,9 +762,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudW1fbWVzc2FnZXNcPg==</last-search>
+      <last-search encoding="base64">XDxsYXN0X21lc3NhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudW1fbWVzc2FnZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsYXN0X21lc3NhZ2VcPg==</last-pattern>
       <last-replace encoding="base64">ID0+IA==</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -771,7 +772,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVfcmVzcG9uc2VfYm9keVw+</entry>
         <entry encoding="base64">XDxJR05PUkVEX0VSUk9SU1w+</entry>
         <entry>log_evel</entry>
         <entry encoding="base64">XDx2Y3JcPg==</entry>
@@ -791,6 +791,7 @@
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxjaGFubmVsX3N1Z2dlc3Rpb25zXD4=</entry>
         <entry encoding="base64">XDxudW1fbWVzc2FnZXNcPg==</entry>
+        <entry encoding="base64">XDxsYXN0X21lc3NhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ok</entry>
