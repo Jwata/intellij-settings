@@ -499,7 +499,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>last_</text>
+        <text>by</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBbCiAgICAgICAgICAgICA6bGVhcm5fcHJlbWl1bV9mZWF0dXJlLAogICAgICAgICAgICAgOnVwZ3JhZGVfcGxhbiwKICAgICAgICAgICAgIDpucHNfc3VydmV5LAogICAgICAgICAgIF0K</text>
@@ -536,9 +536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>last_</last-search>
+      <last-search>by</last-search>
       <last-offset />
-      <last-pattern>last_</last-pattern>
+      <last-pattern>by</last-pattern>
       <last-replace encoding="base64">ID0+IA==</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>warning</entry>
         <entry>b</entry>
         <entry>link</entry>
         <entry encoding="base64">XDxJbnZhbGlkQXV0aEVycm9yXD4=</entry>
@@ -566,6 +565,7 @@
         <entry>key</entry>
         <entry>current_channel</entry>
         <entry>last_</entry>
+        <entry>by</entry>
       </history-search>
       <history-cmd>
         <entry>ok</entry>
