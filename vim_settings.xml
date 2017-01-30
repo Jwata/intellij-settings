@@ -111,6 +111,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/cacheable.rb" timestamp="1485765681987">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/index.html.haml" timestamp="1484290307330">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -848,44 +853,44 @@
       <jump line="3" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/user_banner_notification.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>upgrade_plan</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgeyAKICAgICMgICBjYWNoZTogdHJ1ZQogICAgIyAgIHJlc3VsdDogWwogICAgIyAgICAgIAogICAgIyAgXQogICAgIyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>unless</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLRVlTXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>upgrade_plan</text>
+        <text>#</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgeyAKICAgICMgICBjYWNoZTogdHJ1ZQogICAgIyAgIHJlc3VsdDogWwogICAgIyAgICAgIAogICAgIyAgXQogICAgIyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfHN0YW5kYXJkfGNvbXBsZXRlZHxsZWFybiBwcmVtaXVtIGZlYXR1cmV8bnBzIHN1cnZleXwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfGZyZWV8ZGlzbWlzc2VkfGxlYXJuIHByZW1pdW0gZmVhdHVyZSx1cGdyYWRlIHBsYW58bnBzIHN1cnZleXwK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbnN1cmVfb24gcm9vdF9wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZ2UucmVzZXQhCg==</text>
+        <text encoding="base64">ICAgICAgQ2FjaGUuc2V0KG5hbWVzcGFjZSwga2V5LCB5aWVsZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGVwICdJIHZpc2l0IHRoZSBkYXNoYm9hcmQgcGFnZScK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGVwICdJIHZpc2l0IHRoZSBkYXNoYm9hcmQgcGFnZScKICBlbnN1cmVfb24gcm9vdF9wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
