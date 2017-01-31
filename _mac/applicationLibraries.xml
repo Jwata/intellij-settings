@@ -63,6 +63,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/activesupport-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.4.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/addressable-2.4.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/addressable-2.4.0/data" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/addressable-2.4.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/addressable-2.4.0/data" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.5.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/addressable-2.5.0/lib" />
@@ -154,6 +167,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/axiom-types-0.1.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/axiom-types-0.1.1/config" />
+      </SOURCES>
+    </library>
+    <library name="backports (v3.6.8, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/backports-3.6.8/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/backports-3.6.8/set_version" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/backports-3.6.8/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/backports-3.6.8/set_version" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.11, ruby-2.2.3-p173) [gem]">
@@ -639,6 +663,35 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elastic-beanstalk-1.1.13/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v5.0.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-5.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v5.0.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-api-5.0.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-api-5.0.1/utils" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-api-5.0.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-api-5.0.1/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v5.0.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-transport-5.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/elasticsearch-transport-5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="equalizer (v0.0.11, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/equalizer-0.0.11/lib" />
@@ -665,6 +718,17 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/contrib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/doc-api" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="ethon (v0.10.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ethon-0.10.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ethon-0.10.1/profile" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ethon-0.10.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ethon-0.10.1/profile" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.0.1, ruby-2.2.3-p173) [gem]">
@@ -859,6 +923,15 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gemoji-2.1.0/images" />
       </SOURCES>
     </library>
+    <library name="gh (v0.15.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gh-0.15.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gh-0.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gherkin (v2.12.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/gherkin/2.12.2" />
@@ -946,6 +1019,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/hashie-3.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.7.8, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/highline-1.7.8/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/highline-1.7.8/site" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/highline-1.7.8/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/highline-1.7.8/site" />
       </SOURCES>
     </library>
     <library name="html2haml (v2.0.0, ruby-2.2.3-p173) [gem]">
@@ -1463,6 +1547,26 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ncypher-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="net-http-persistent (v2.9.4, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/net-http-persistent-2.9.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/net-http-persistent-2.9.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-http-pipeline (v1.0.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/net-http-pipeline-1.0.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/net-http-pipeline-1.0.1/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/net-http-pipeline-1.0.1/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/net-http-pipeline-1.0.1/sample" />
+      </SOURCES>
+    </library>
     <library name="netrc (v0.11.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/netrc-0.11.0/lib" />
@@ -1680,6 +1784,17 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/public_suffix-2.0.4/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/public_suffix-2.0.4/data" />
+      </SOURCES>
+    </library>
+    <library name="pusher-client (v0.6.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pusher-client-0.6.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pusher-client-0.6.2/certs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pusher-client-0.6.2/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pusher-client-0.6.2/certs" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.5, ruby-2.2.3-p173) [gem]">
@@ -2482,6 +2597,19 @@
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/tins-1.12.0/tests" />
       </SOURCES>
     </library>
+    <library name="travis (v1.8.6, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/travis-1.8.6/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/travis-1.8.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/travis-1.8.6/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/travis-1.8.6/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/travis-1.8.6/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/travis-1.8.6/assets" />
+      </SOURCES>
+    </library>
     <library name="turbolinks (v5.0.1, ruby-2.2.3-p173) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/turbolinks-5.0.1/lib" />
@@ -2498,6 +2626,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/turbolinks-source-5.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="typhoeus (v0.8.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/typhoeus-0.8.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/typhoeus-0.8.0/perf" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/typhoeus-0.8.0/lib" />
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/typhoeus-0.8.0/perf" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, ruby-2.2.3-p173) [gem]">
@@ -2633,6 +2772,15 @@
       <SOURCES>
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/webmock-1.21.0/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/webmock-1.21.0/minitest" />
+      </SOURCES>
+    </library>
+    <library name="websocket (v1.2.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-1.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.6.4, ruby-2.2.3-p173) [gem]">
