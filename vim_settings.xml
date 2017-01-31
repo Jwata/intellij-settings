@@ -68,6 +68,11 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/scripts/check_watson_billing.rb" timestamp="1485852171757">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/features/banner_notifications.feature" timestamp="1485510638210">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -370,10 +375,6 @@
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1485844600662">
         <mark key="'" line="22" column="47" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="13" />
       </file>
       <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485260776560">
         <mark key="'" line="4" column="6" />
@@ -678,6 +679,9 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/faraday-0.9.2/lib/faraday.rb" timestamp="1485850479916">
+        <mark key="'" line="66" column="23" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" timestamp="1485513961750">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="7" column="13" />
@@ -694,8 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="24" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="91" column="30" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="92" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="94" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="95" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -794,34 +796,36 @@
       <jump line="99" column="20" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/cf-uaa-lib-3.8.0/lib/uaa/token_issuer.rb" />
       <jump line="107" column="25" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/cf-uaa-lib-3.8.0/lib/uaa/token_issuer.rb" />
       <jump line="108" column="50" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/cf-uaa-lib-3.8.0/lib/uaa/token_issuer.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/enJapan/vibe/scripts/check_watson_billing.rb" />
+      <jump line="66" column="23" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/faraday-0.9.2/lib/faraday.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>require 'slack'</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRfaWRcPg==</text>
+        <text encoding="base64">XDxvcHRpb25zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
+      <register name="0" type="4">
+        <text>retrieve_unit_billing</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBza2lwX2JlZm9yZV9hY3Rpb246IAo=</text>
+        <text encoding="base64">ICBwdXRzIGJpbGxpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WzJdIHByeShtYWluKT4gCg==</text>
+        <text encoding="base64">ICAgIGNrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAnY2xvdWRmb3VuZHJ5JwpyZXF1aXJlICdjbG91ZGZvdW5kcnkvY29uc3RhbnRzJwpyZXF1aXJlICdjbG91ZGZvdW5kcnkvZXhjZXB0aW9uJwoKY2ZfY2xpZW50ID0gQ2xvdWRGb3VuZHJ5OjpDbGllbnQK</text>
+        <text encoding="base64">ZGVmIGNmKwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgeyAKICAgICMgICBjYWNoZTogdHJ1ZQogICAgIyAgIHJlc3VsdDogWwogICAgIyAgICAgIAogICAgIyAgXQogICAgIyB9Cg==</text>
+        <text encoding="base64">ZGVmIHJldHJpZXZlX3VuaXRfYmlsbGluZyh0b3RhbF9iaWxsaW5nLCBvcmdfbmFtZTogJ1ZpYmUnLCBzcGFjZTogJ3Byb2R1Y3Rpb24nLCBzZXJ2aWNlOiAnYWxjaGVteV9hcGknLCBpbnN0YW5jZTogJ0FsY2hlbXlBUEktNzcnLCB1bml0X2lkOiAnVFJBTlNBQ1RJT05TX1BFUl9NT05USCcpCiAgdG90YWxfYmlsbGluZ1snb3JnYW5pemF0aW9ucyddCiAgICAuZmluZCB7fG98IG9bJ25hbWUnXSA9PSBvcmdfbmFtZSB9WydiaWxsYWJsZV91c2FnZSddWydzcGFjZXMnXQogICAgLmZpbmQgeyB8c3wgc1snbmFtZSddID09IHNwYWNlIH1bJ3NlcnZpY2VzJ10KICAgIC5maW5kIHt8c3wgc1snbmFtZSddID09IHNlcnZpY2UgfVsnaW5zdGFuY2VzJ10KICAgIC5maW5kIHt8aXwgaVsnbmFtZSddID09IGluc3RhbmNlfVsndXNhZ2UnXQogICAgLmZpbmQgeyB8dXwgdVsndW5pdElkJ10gPT0gdW5pdF9pZH0KZW5kCgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -830,19 +834,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Y2ZfY29uZmlnID0gSlNPTi5wYXJzZShGaWxlLnJlYWQoIiN7RU5WWydIT01FJ119Ly5jZi9jb25maWcuanNvbiIpKQpvYXV0aF90b2tlbiA9IGNmX2NvbmZpZ1snQWNjZXNzVG9rZW4nXQpvcmdfaWQgPSBjZl9jb25maWdbJ09yZ2FuaXphdGlvbkZpZWxkcyddWydHVUlEJ10KcmVxdWVzdF91cmw9Imh0dHBzOi8vcmF0ZWQtdXNhZ2UubmcuYmx1ZW1peC5uZXQvdjIvbWV0ZXJpbmcvb3JnYW5pemF0aW9ucy91cy1zb3V0aDoje29yZ19pZH0vdXNhZ2UvI3tUaW1lLm5vdy5zdHJmdGltZSgiJVktJW0iKX0iCgpyZXF1ZXN0X2hlYWRlcnMgPSB7IEF1dGhvcml6YXRpb246IG9hdXRoX3Rva2VuIH0KY29ubiA9IEZhcmFkYXkubmV3KHVybDogcmVxdWVzdF91cmwsIGhlYWRlcnM6IHJlcXVlc3RfaGVhZGVycykKdG90YWxfYmlsbGluZyA9IEpTT04ucGFyc2UoY29ubi5nZXQuYm9keSkKYmlsbGluZyA9IHJldHJpZXZlX3VuaXRfYmlsbGluZyh0b3RhbF9iaWxsaW5nKQoKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRfaWRcPg==</last-search>
+      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRfaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
       <last-replace encoding="base64">ID0+IA==</last-replace>
       <last-substitute encoding="base64">OiA=</last-substitute>
       <last-dir>1</last-dir>
@@ -850,8 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formats</entry>
-        <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
         <entry encoding="base64">XDxhdmVyYWdlX3RjX2J5X21lbWJlclw+</entry>
         <entry>tc</entry>
         <entry encoding="base64">XDxhY3Rpdml0eVw+</entry>
@@ -870,6 +872,8 @@
         <entry encoding="base64">XDxLRVlTXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRfaWRcPg==</entry>
+        <entry encoding="base64">XDxjZl9jb25maWdfcGF0aFw+</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ok</entry>
@@ -881,17 +885,17 @@
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyIgPT4vOi9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>q</entry>
         <entry>we</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zLzogLz0+IC9n</entry>
         <entry encoding="base64">JzwsJz5zLzogLyA9PiAvZw==</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>w:w</entry>
         <entry>Lw</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
