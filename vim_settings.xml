@@ -68,12 +68,11 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/scripts/check_watson_billing.rb" timestamp="1485853158580">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="37" column="75" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
+      <file name="$USER_HOME$/enJapan/vibe/scripts/check_watson_billing.rb" timestamp="1485931013385">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="57" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/features/banner_notifications.feature" timestamp="1485510638210">
         <mark key="[" line="28" column="0" />
@@ -803,7 +802,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlICdwcnknCiAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;WEBHOOK_URL&quot;</text>
@@ -815,34 +814,34 @@
         <text>retrieve_unit_billing</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlICdwcnknCiAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25uID0gRmFyYWRheS5uZXcodXJsOiBzbGFja191cmwpCiAgY29ubi5wb3N0IGRvIHxyZXF1ZXN0fAogICAgcmVxdWVzdC5ib2R5ID0gYmlsbGluZwogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHJ5JwoK</text>
+        <text encoding="base64">ICBjb25uID0gRmFyYWRheS5uZXcodXJsOiBzbGFja191cmwpCiAgY29ubi5wb3N0IGRvIHxyZXF1ZXN0fAogICAgcmVxdWVzdC5ib2R5ID0gYmlsbGluZwogIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25uCg==</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5JwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdXRzIGJpbGxpbmcK</text>
+        <text encoding="base64">ICBjb25uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNrCg==</text>
+        <text encoding="base64">ICBwdXRzIGJpbGxpbmcK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -896,8 +895,8 @@
         <entry>w:w</entry>
         <entry>Lw</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
