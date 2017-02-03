@@ -506,12 +506,6 @@
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" timestamp="1486025999250">
         <mark key="'" line="111" column="23" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1486007118689">
-        <mark key="'" line="108" column="76" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/cta-notification.coffee" timestamp="1485406169291">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="15" column="113" />
@@ -680,7 +674,9 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" timestamp="1485747720810" />
+      <file name="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" timestamp="1486111238528">
+        <mark key="'" line="93" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1484811658937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -793,12 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="51" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
-      <jump line="37" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="35" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
-      <jump line="45" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/admin/conversations/index.html.haml" />
       <jump line="16" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" />
       <jump line="8" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" />
       <jump line="21" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" />
@@ -893,6 +883,12 @@
       <jump line="404" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
       <jump line="420" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
       <jump line="258" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
+      <jump line="77" column="24" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="92" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="107" column="27" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="102" column="29" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="101" column="6" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
+      <jump line="93" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -902,7 +898,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text encoding="base64">XDxsb2dnaW5nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>most_important</text>
@@ -939,9 +935,9 @@
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search encoding="base64">XDxsb2dnaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnaW5nXD4=</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -949,7 +945,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb2NfZnJlcV90aHJlc2hvbGRcPg==</entry>
         <entry encoding="base64">XDxsYXN0X2NvcnB1c190aW1lc3RhbXBcPg==</entry>
         <entry encoding="base64">XDxzdGF0aXN0aWNzXD4=</entry>
         <entry encoding="base64">XDxpZGZfaW1wbFw+</entry>
@@ -969,6 +964,7 @@
         <entry>regarding</entry>
         <entry encoding="base64">XDxyZXNlYXJjaFw+</entry>
         <entry>name</entry>
+        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
