@@ -129,12 +129,12 @@
         <mark key="." line="9" column="92" />
         <mark key="^" line="9" column="92" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.html.haml" timestamp="1486454160679">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="13" column="76" />
-        <mark key="]" line="13" column="82" />
-        <mark key="." line="13" column="82" />
-        <mark key="^" line="13" column="82" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.html.haml" timestamp="1486455116770">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="15" column="82" />
+        <mark key="." line="15" column="82" />
+        <mark key="^" line="15" column="82" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/keywords_controller.rb" timestamp="1486113283666">
         <mark key="[" line="8" column="47" />
@@ -384,7 +384,8 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" timestamp="1486454055444">
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" timestamp="1486455742016">
+        <mark key="'" line="34" column="42" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="86" />
         <mark key="^" line="34" column="37" />
@@ -745,8 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
-      <jump line="30" column="63" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="55" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="49" column="73" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
       <jump line="28" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_corpus.rb" />
@@ -845,6 +844,8 @@
       <jump line="10" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="22" column="36" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="50" column="80" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="9" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" />
+      <jump line="34" column="42" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -854,7 +855,7 @@
         <text>value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2N1bWVudF9pZFw+</text>
+        <text>notification</text>
       </register>
       <register name="0" type="4">
         <text>morale_to_graph_point</text>
@@ -891,9 +892,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2N1bWVudF9pZFw+</last-search>
+      <last-search>notification</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2N1bWVudF9pZFw+</last-pattern>
+      <last-pattern>notification</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -901,8 +902,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmdhZ2VtZW50XD4=</entry>
-        <entry encoding="base64">XDxleHBlY3RfZW1vdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</entry>
         <entry>pghero</entry>
         <entry>emotions</entry>
@@ -921,6 +920,8 @@
         <entry>corpus</entry>
         <entry encoding="base64">XDxfX3dyaXRlX3Rlcm1fdmVjdG9yX19cPg==</entry>
         <entry encoding="base64">XDxkb2N1bWVudF9pZFw+</entry>
+        <entry encoding="base64">XDxmbGFzaEhhbmRsZXJcPg==</entry>
+        <entry>notification</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
