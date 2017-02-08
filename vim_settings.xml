@@ -325,8 +325,11 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1486522940300">
-        <mark key="'" line="5" column="6" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" timestamp="1486524729462">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_auth.rb" timestamp="1483766154629">
         <mark key="'" line="36" column="8" />
@@ -848,56 +851,56 @@
       <jump line="11" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
       <jump line="26" column="24" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
       <jump line="11" column="8" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
-      <jump line="5" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
+      <jump line="5" column="17" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb3JhbGUudHJ5KDp0aW1lc3RhbXApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>morale.timestamp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFwaF9wb2ludHNcPg==</text>
+        <text>time_points</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
+      <register name="0" type="4">
+        <text>time</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb3JhbGUudHJ5KDp0aW1lc3RhbXApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25maWcuYXNzZXRzLmNvbXBpbGUgPSBmYWxzZQoK</text>
+        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICBjb25maWcuYXNzZXRzLmNvbXBpbGUgPSBmYWxzZQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25maWcuYXNzZXRzLmNvbXBpbGUgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuYXNzZXRzLmNvbXBpbGUgPSBmYWxzZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyB3aGVuZXZlciB1c2VyIGxvZ3MgaW4sIHVwZGF0ZSB0ZWFtIG1lbWJlcnMKICAgICAgUmVmcmVzaFRlYW1NZW1iZXJzRGV0YWlsc0pvYi5wZXJmb3JtX2xhdGVyKEB0ZWFtKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ3JhcGhfcG9pbnRzKGZyb20sIHRvLCByZXNvbHV0aW9uLCBsYWJlbHNfYXQsIHZhbHVlKQogICAgICAgIC5wdXNoKGN1cnJlbnRfZ3JhcGhfcG9pbnQodmFsdWUpKQo=</text>
+        <text encoding="base64">ICAgICAgIyB3aGVuZXZlciB1c2VyIGxvZ3MgaW4sIHVwZGF0ZSB0ZWFtIG1lbWJlcnMKICAgICAgUmVmcmVzaFRlYW1NZW1iZXJzRGV0YWlsc0pvYi5wZXJmb3JtX2xhdGVyKEB0ZWFtKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZ3JhcGhfcG9pbnRzKGZyb20sIHRvLCByZXNvbHV0aW9uLCBsYWJlbHNfYXQsIHZhbHVlKQogICAgICAgIC5wdXNoKGN1cnJlbnRfZ3JhcGhfcG9pbnQodmFsdWUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFwaF9wb2ludHNcPg==</last-search>
+      <last-search>time_points</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFwaF9wb2ludHNcPg==</last-pattern>
+      <last-pattern>time_points</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -905,7 +908,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emotion</entry>
         <entry encoding="base64">XDxtb3JhbGVzXD4=</entry>
         <entry>scope</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfbW9yYWxlc1w+</entry>
@@ -925,6 +927,7 @@
         <entry>boot</entry>
         <entry encoding="base64">XDxERUZBVUxUX0FOQUxZU0VfRU1PVElPTlNfU1RBUlRcPg==</entry>
         <entry encoding="base64">XDxncmFwaF9wb2ludHNcPg==</entry>
+        <entry>time_points</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
