@@ -9,7 +9,6 @@
         <mark key="." line="36" column="83" />
         <mark key="^" line="36" column="83" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/refresh_all_members_details_job.rb" timestamp="1486450822820" />
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-eb-metrics.config" timestamp="1485136732281">
         <mark key="'" line="67" column="12" />
         <mark key="[" line="111" column="34" />
@@ -200,8 +199,6 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/index.scss" timestamp="1486520240194" />
-      <file name="/usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/cloudfoundry-client-0.3.0/lib/cloudfoundry/constants.rb" timestamp="1485767564902" />
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/conversations_spec.rb" timestamp="1484013176138">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="21" />
@@ -266,12 +263,12 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1486537191143">
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1486537917618">
         <mark key="'" line="275" column="0" />
-        <mark key="[" line="285" column="43" />
-        <mark key="]" line="285" column="42" />
-        <mark key="." line="285" column="42" />
-        <mark key="^" line="285" column="42" />
+        <mark key="[" line="274" column="65" />
+        <mark key="]" line="274" column="65" />
+        <mark key="." line="274" column="65" />
+        <mark key="^" line="274" column="108" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-webaccess-metrics.config" timestamp="1485136775851">
         <mark key="[" line="56" column="34" />
@@ -317,7 +314,6 @@
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1486450755662" />
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" timestamp="1484806704672">
         <mark key="'" line="11" column="56" />
         <mark key="[" line="46" column="7" />
@@ -412,8 +408,6 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/notification.coffee" timestamp="1486453654143" />
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" timestamp="1486453896774" />
       <file name="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" timestamp="1486369863352">
         <mark key="'" line="50" column="80" />
         <mark key="[" line="40" column="36" />
@@ -550,14 +544,12 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/initializers/10_okcomputer.rb" timestamp="1486022260195" />
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/base_controller.rb" timestamp="1485332118199">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/initializers/stopwords.rb" timestamp="1486109624072" />
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/keywords/index.html.haml" timestamp="1486338677486">
         <mark key="'" line="16" column="18" />
         <mark key="[" line="5" column="43" />
@@ -743,8 +735,8 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1485497943492">
-        <mark key="'" line="26" column="6" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1486537743115">
+        <mark key="'" line="34" column="20" />
         <mark key="[" line="44" column="40" />
         <mark key="]" line="44" column="45" />
         <mark key="." line="44" column="45" />
@@ -752,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="82" column="54" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="84" column="24" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="63" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -852,16 +843,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="294" column="16" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="275" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="34" column="20" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xFromDate</text>
+        <text encoding="base64">ICYmIChpdGVtLmltcGFjdCA+IDAuNiB8fCBpdGVtLmltcGFjdCA8IDAuNCk=</text>
       </register>
       <register name="-" type="4">
-        <text>xFromDate</text>
+        <text encoding="base64">ICYmIChpdGVtLmltcGFjdCA+IDAuNiB8fCBpdGVtLmltcGFjdCA8IDAuNCk=</text>
       </register>
       <register name="/" type="4">
-        <text>poin</text>
+        <text>flash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuYXR0cignZHknLCAxMCkK</text>
@@ -898,9 +890,9 @@
       </register>
     </registers>
     <search>
-      <last-search>poin</last-search>
+      <last-search>flash</last-search>
       <last-offset />
-      <last-pattern>poin</last-pattern>
+      <last-pattern>flash</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -908,7 +900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compile</entry>
         <entry>assets</entry>
         <entry>boot</entry>
         <entry encoding="base64">XDxERUZBVUxUX0FOQUxZU0VfRU1PVElPTlNfU1RBUlRcPg==</entry>
@@ -928,6 +919,7 @@
         <entry>point</entry>
         <entry encoding="base64">XDxpbXBhY3RQb2ludHNcPg==</entry>
         <entry>poin</entry>
+        <entry>flash</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
@@ -947,8 +939,8 @@
         <entry>%s/from_date/from/g</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>Lw</entry>
         <entry>w:w</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

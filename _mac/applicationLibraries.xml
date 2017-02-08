@@ -231,26 +231,22 @@
     </library>
     <library name="bcrypt (v3.1.11, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -363,14 +359,12 @@
     </library>
     <library name="byebug (v9.0.5, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.5" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.5/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.5/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.5/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/9.0.5" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.5/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.5/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/byebug-9.0.5/lib" />
@@ -616,13 +610,11 @@
     </library>
     <library name="debug_inspector (v0.0.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -817,7 +809,6 @@
     </library>
     <library name="eventmachine (v1.2.0.1, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.0.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.0.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.0.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.0.1/java" />
@@ -826,7 +817,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/eventmachine/1.2.0.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.0.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.0.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/eventmachine-1.2.0.1/java" />
@@ -931,7 +921,6 @@
     </library>
     <library name="ffi (v1.9.14, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.14" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.14/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.14/gen" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.14/lib" />
@@ -939,7 +928,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/ffi/1.9.14" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.14/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.14/gen" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/ffi-1.9.14/lib" />
@@ -1018,7 +1006,6 @@
     </library>
     <library name="gherkin (v2.12.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/gherkin/2.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/lib" />
@@ -1028,7 +1015,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/gherkin/2.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/js" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/gherkin-2.12.2/lib" />
@@ -1061,14 +1047,12 @@
     </library>
     <library name="god (v0.13.7, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/god/0.13.7" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/god-0.13.7/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/god-0.13.7/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/god-0.13.7/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/god/0.13.7" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/god-0.13.7/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/god-0.13.7/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/god-0.13.7/lib" />
@@ -1403,7 +1387,6 @@
     </library>
     <library name="json (v1.8.3, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/data" />
@@ -1414,7 +1397,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json-1.8.3/data" />
@@ -1426,7 +1408,6 @@
     </library>
     <library name="json_pure (v2.0.3, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json_pure/2.0.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json_pure-2.0.3/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json_pure-2.0.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json_pure-2.0.3/data" />
@@ -1438,7 +1419,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json_pure/2.0.3" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json_pure-2.0.3/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json_pure-2.0.3/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/json_pure-2.0.3/data" />
@@ -1508,13 +1488,11 @@
     </library>
     <library name="looksee (v4.0.0, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/looksee/4.0.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/looksee-4.0.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/looksee-4.0.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/looksee/4.0.0" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/looksee-4.0.0/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/looksee-4.0.0/lib" />
       </SOURCES>
@@ -1716,7 +1694,6 @@
     </library>
     <library name="nokogiri (v1.6.8.1, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/lib" />
@@ -1727,7 +1704,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.8.1/lib" />
@@ -1837,14 +1813,12 @@
     </library>
     <library name="pg (v0.18.4, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.18.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.18.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.18.4/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.18.4/sample" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.18.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.18.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.18.4/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/pg-0.18.4/sample" />
@@ -2207,14 +2181,12 @@
     </library>
     <library name="rbnacl-libsodium (v1.0.11, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rbnacl-libsodium/1.0.11" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rbnacl-libsodium-1.0.11/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rbnacl-libsodium-1.0.11/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rbnacl-libsodium-1.0.11/vendor" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/rbnacl-libsodium/1.0.11" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rbnacl-libsodium-1.0.11/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rbnacl-libsodium-1.0.11/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rbnacl-libsodium-1.0.11/vendor" />
@@ -2732,13 +2704,11 @@
     </library>
     <library name="therubyracer (v0.12.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/therubyracer/0.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
@@ -2906,14 +2876,12 @@
     </library>
     <library name="unicode (v0.4.4.2, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicode/0.4.4.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicode-0.4.4.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicode-0.4.4.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicode-0.4.4.2/tools" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicode/0.4.4.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicode-0.4.4.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicode-0.4.4.2/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/unicode-0.4.4.2/tools" />
@@ -3010,13 +2978,11 @@
     </library>
     <library name="websocket-driver (v0.6.4, ruby-2.2.3-p173) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/websocket-driver/0.6.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
