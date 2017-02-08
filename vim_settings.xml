@@ -286,7 +286,7 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/badge_controller.rb" timestamp="1486521008058">
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/badge_controller.rb" timestamp="1486530363964">
         <mark key="'" line="14" column="19" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
@@ -399,9 +399,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1486521023198">
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1486530926259">
         <mark key="'" line="22" column="47" />
-        <mark key="[" line="22" column="40" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485260776560">
         <mark key="'" line="4" column="6" />
@@ -853,7 +855,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3BvdEdyb3VwcyA9Cg==</text>
+        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQogIGRlZiBjdXJyZW50X3VzZXIKICAgIFVzZXIuZmlyc3QKICBlbmQKCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3BvdEdyb3Vwc0VudGVyID0g</text>
@@ -861,28 +863,34 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBhY3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>impactPoints</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3BvdEdyb3VwcyA9Cg==</text>
+        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQogIGRlZiBjdXJyZW50X3VzZXIKICAgIFVzZXIuZmlyc3QKICBlbmQKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3BvdEdyb3Vwc0VudGVyCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwZW5kKCdjaXJjbGUnKQogICAgICAgIC5hdHRyKCdjeCcsIHhGcm9tRGF0ZSkKICAgICAgICAuYXR0cignY3knLCAoZCkgLT4gaWYgZC52YWx1ZSB0aGVuIHlGcm9tVmFsdWUoZCkgZWxzZSBib3R0b20pCiAgICAgICAgLmF0dHIoJ3InLCAocG9pbnQpIC0+IGlmIHBvaW50LmlzTm93IHRoZW4gMTAgZWxzZSA2KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3BvdEdyb3VwcyA9IAo=</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc3BvdEdyb3VwcyA9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3BvdEdyb3Vwc0VudGVyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAuYXBwZW5kKCdjaXJjbGUnKQogICAgICAgIC5hdHRyKCdjeCcsIHhGcm9tRGF0ZSkKICAgICAgICAuYXR0cignY3knLCAoZCkgLT4gaWYgZC52YWx1ZSB0aGVuIHlGcm9tVmFsdWUoZCkgZWxzZSBib3R0b20pCiAgICAgICAgLmF0dHIoJ3InLCAocG9pbnQpIC0+IGlmIHBvaW50LmlzTm93IHRoZW4gMTAgZWxzZSA2KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc3BvdEdyb3VwcyA9IAo=</text>
+      </register>
       <register name="7" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="8">
         <text>#
 #
 #
@@ -892,23 +900,6 @@
 #
 #
 #</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="8">
-        <text>-
--
--
--
--
--
--
--
--
--
--
--</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
