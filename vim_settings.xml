@@ -266,12 +266,12 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1486529100064">
-        <mark key="'" line="51" column="20" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
-        <mark key="^" line="279" column="6" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1486537191143">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="285" column="43" />
+        <mark key="]" line="285" column="42" />
+        <mark key="." line="285" column="42" />
+        <mark key="^" line="285" column="42" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-webaccess-metrics.config" timestamp="1485136775851">
         <mark key="[" line="56" column="34" />
@@ -752,20 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
-      <jump line="503" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
-      <jump line="404" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
-      <jump line="420" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
-      <jump line="258" column="0" filename="$USER_HOME$/enJapan/vibe/config/english_stopwords.txt" />
-      <jump line="77" column="24" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
-      <jump line="92" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
-      <jump line="107" column="27" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
-      <jump line="102" column="29" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
-      <jump line="101" column="6" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
-      <jump line="93" column="4" filename="$USER_HOME$/enJapan/vibe/app/services/watson_api.rb" />
-      <jump line="29" column="39" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
-      <jump line="12" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" />
-      <jump line="18" column="18" filename="$USER_HOME$/enJapan/vibe/app/views/admin/keywords/index.html.haml" />
       <jump line="67" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="82" column="54" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="84" column="24" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
@@ -852,63 +838,69 @@
       <jump line="40" column="67" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="55" column="8" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="51" column="20" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="370" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="288" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="356" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="257" column="21" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="274" column="13" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="273" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="266" column="41" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="23" column="5" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="80" column="19" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="81" column="11" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="84" column="17" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="294" column="16" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="275" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQogIGRlZiBjdXJyZW50X3VzZXIKICAgIFVzZXIuZmlyc3QKICBlbmQKCg==</text>
+      <register name="&quot;" type="4">
+        <text>xFromDate</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BvdEdyb3Vwc0VudGVyID0g</text>
+        <text>xFromDate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBhY3RcPg==</text>
+        <text>poin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
+        <text encoding="base64">ICAgICAgICAuYXR0cignZHknLCAxMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQogIGRlZiBjdXJyZW50X3VzZXIKICAgIFVzZXIuZmlyc3QKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICAuYXR0cignZHgnLCAxMCkKICAgICAgICAuYXR0cignZHknLCAxMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAuYXR0cignZHgnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3BvdEdyb3VwcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAuYXR0cignZHknLCB5RnJvbVZhbHVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3BvdEdyb3Vwc0VudGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAuYXBwZW5kKCdzcGFuJykudGV4dCgiZm9vTGFiZWxzT2ZTY2F0dGVyUG9pbnRzIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwZW5kKCdjaXJjbGUnKQogICAgICAgIC5hdHRyKCdjeCcsIHhGcm9tRGF0ZSkKICAgICAgICAuYXR0cignY3knLCAoZCkgLT4gaWYgZC52YWx1ZSB0aGVuIHlGcm9tVmFsdWUoZCkgZWxzZSBib3R0b20pCiAgICAgICAgLmF0dHIoJ3InLCAocG9pbnQpIC0+IGlmIHBvaW50LmlzTm93IHRoZW4gMTAgZWxzZSA2KQo=</text>
+        <text encoding="base64">ICAgICAgICAuYXR0cigncicsIDYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3BvdEdyb3VwcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAuYXR0cignY3knLCB5RnJvbVZhbHVlKQo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAuYXR0cignY2xhc3MnLCAoZCkgLT4gY29sb3JDbGFzc0Z1bmN0aW9uKGQsICdpbXBhY3QnKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAuYXBwZW5kKCdzcGFuJykudGV4dCgiZm9vTGFiZWxzT2ZTY2F0dGVyUG9pbnRzIik7Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBhY3RcPg==</last-search>
+      <last-search>poin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBhY3RcPg==</last-pattern>
+      <last-pattern>poin</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -916,13 +908,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb2ludHNcPg==</entry>
-        <entry encoding="base64">XDxjdXJyZW50X2dyYXBoX3BvaW50XD4=</entry>
-        <entry>corpus</entry>
-        <entry encoding="base64">XDxfX3dyaXRlX3Rlcm1fdmVjdG9yX19cPg==</entry>
-        <entry encoding="base64">XDxkb2N1bWVudF9pZFw+</entry>
-        <entry encoding="base64">XDxmbGFzaEhhbmRsZXJcPg==</entry>
-        <entry>notification</entry>
         <entry>compile</entry>
         <entry>assets</entry>
         <entry>boot</entry>
@@ -936,6 +921,13 @@
         <entry>spots</entry>
         <entry>spot</entry>
         <entry encoding="base64">XDxpbXBhY3RcPg==</entry>
+        <entry>refresh</entry>
+        <entry>internal</entry>
+        <entry>rect</entry>
+        <entry>pint</entry>
+        <entry>point</entry>
+        <entry encoding="base64">XDxpbXBhY3RQb2ludHNcPg==</entry>
+        <entry>poin</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
