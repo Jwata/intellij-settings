@@ -453,8 +453,8 @@
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" timestamp="1486614337676">
-        <mark key="'" line="57" column="13" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" timestamp="1486616141384">
+        <mark key="'" line="33" column="6" />
         <mark key="[" line="100" column="33" />
         <mark key="]" line="100" column="39" />
         <mark key="." line="100" column="39" />
@@ -729,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="56" column="25" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="35" column="57" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
       <jump line="70" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
@@ -827,8 +826,9 @@
       <jump line="25" column="8" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="32" column="53" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="33" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="57" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
+      <jump line="53" column="17" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
+      <jump line="33" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -838,7 +838,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</text>
+        <text encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>watson_scores</text>
@@ -875,9 +875,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</last-search>
+      <last-search encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -903,8 +903,8 @@
         <entry>import</entry>
         <entry>impact</entry>
         <entry>impac</entry>
-        <entry encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</entry>
         <entry encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
