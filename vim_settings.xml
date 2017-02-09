@@ -250,11 +250,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/tasks/prepare.rake" timestamp="1485152171355">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
+      <file name="$USER_HOME$/enJapan/vibe/lib/tasks/prepare.rake" timestamp="1486618957339">
+        <mark key="'" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/home/index.html.haml" timestamp="1484633205427">
         <mark key="[" line="1" column="2" />
@@ -613,6 +610,9 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/channel_corpus_update_job.rb" timestamp="1486618825381">
+        <mark key="'" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/features/payment.feature" timestamp="1484015684269">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="36" />
@@ -671,7 +671,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1486541289863">
+      <file name="/a.regexp" timestamp="1486618958569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -732,9 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="57" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
-      <jump line="70" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
-      <jump line="36" column="10" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
       <jump line="100" column="11" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="110" column="22" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="125" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
@@ -832,6 +829,9 @@
       <jump line="53" column="17" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="33" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="3" column="23" filename="$USER_HOME$/enJapan/vibe/app/jobs/channel_corpus_update_job.rb" />
+      <jump line="25" column="54" filename="$USER_HOME$/enJapan/vibe/lib/tasks/prepare.rake" />
+      <jump line="23" column="10" filename="$USER_HOME$/enJapan/vibe/lib/tasks/prepare.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -841,7 +841,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</text>
+        <text>force</text>
       </register>
       <register name="0" type="4">
         <text>watson_scores</text>
@@ -878,9 +878,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</last-search>
+      <last-search>force</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</last-pattern>
+      <last-pattern>force</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -888,9 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBhY3RfcG9pbnRzXD4=</entry>
-        <entry>time</entry>
-        <entry>bind</entry>
         <entry>date</entry>
         <entry>spots</entry>
         <entry>spot</entry>
@@ -908,6 +905,9 @@
         <entry>impac</entry>
         <entry encoding="base64">XDxtb3JhbGVfZXF1YXRpb25cPg==</entry>
         <entry encoding="base64">XDxlbmdhZ2VtZW50X2VxdWF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxmb3JjZVw+</entry>
+        <entry>forcd</entry>
+        <entry>force</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
