@@ -208,6 +208,9 @@
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/show.haml" timestamp="1486706183222">
+        <mark key="'" line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/conversations_spec.rb" timestamp="1484013176138">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="21" />
@@ -544,6 +547,9 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" timestamp="1486706035232">
+        <mark key="'" line="35" column="10" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/common_formulas.rb" timestamp="1486021185673">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="77" column="0" />
@@ -694,7 +700,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1486700123741">
+      <file name="/a.regexp" timestamp="1486706303721">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -759,12 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="65" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="14" column="4" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="52" column="6" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="96" column="50" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="98" column="9" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="5" column="6" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="95" column="15" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="84" column="6" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
@@ -859,6 +859,12 @@
       <jump line="299" column="35" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="302" column="35" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="296" column="108" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="26" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" />
+      <jump line="24" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" />
+      <jump line="27" column="10" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" />
+      <jump line="31" column="10" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" />
+      <jump line="35" column="10" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" />
+      <jump line="4" column="36" filename="$USER_HOME$/enJapan/vibe/app/views/insights/show.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -868,7 +874,7 @@
         <text>high level</text>
       </register>
       <register name="/" type="4">
-        <text>high</text>
+        <text>auote</text>
       </register>
       <register name="0" type="4">
         <text>emotionalImpact</text>
@@ -905,9 +911,9 @@
       </register>
     </registers>
     <search>
-      <last-search>high</last-search>
+      <last-search>auote</last-search>
       <last-offset />
-      <last-pattern>high</last-pattern>
+      <last-pattern>auote</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -915,8 +921,6 @@
     </search>
     <history>
       <history-search>
-        <entry>order</entry>
-        <entry encoding="base64">XDxnYV9jaGFuZ2VTZWxlY3RlZFZhbHVlRXZlbnRcPg==</entry>
         <entry>selection</entry>
         <entry encoding="base64">XDxtb3JhbGVfdG9fZ3JhcGhfcG9pbnRcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVBvcHVwSHRtbFw+</entry>
@@ -935,6 +939,8 @@
         <entry>pos</entry>
         <entry>very</entry>
         <entry>high</entry>
+        <entry>stop</entry>
+        <entry>auote</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
