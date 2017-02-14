@@ -288,8 +288,8 @@
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" timestamp="1486946822515">
-        <mark key="'" line="39" column="14" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" timestamp="1487037444296">
+        <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" timestamp="1484806704672">
         <mark key="'" line="11" column="56" />
@@ -484,7 +484,6 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_channel_selector.html.haml" timestamp="1486991198579" />
       <file name="$USER_HOME$/enJapan/vibe/app/helpers/keywords_helper.rb" timestamp="1486790286769">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="21" />
@@ -709,8 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/graph_resource.rb" />
-      <jump line="298" column="19" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="344" column="4" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="339" column="40" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="338" column="4" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -809,6 +806,8 @@
       <jump line="53" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
       <jump line="30" column="18" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" />
       <jump line="4" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" />
+      <jump line="29" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
+      <jump line="6" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -818,7 +817,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>999999</text>
+        <text>font</text>
       </register>
       <register name="0" type="4">
         <text>$color-grey</text>
@@ -855,9 +854,9 @@
       </register>
     </registers>
     <search>
-      <last-search>999999</last-search>
+      <last-search>font</last-search>
       <last-offset />
-      <last-pattern>999999</last-pattern>
+      <last-pattern>font</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -882,9 +881,9 @@
         <entry>01E3A8</entry>
         <entry>red</entry>
         <entry encoding="base64">XDxGRjJFNjNcPg==</entry>
-        <entry>font</entry>
         <entry>666666</entry>
         <entry>999999</entry>
+        <entry>font</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
