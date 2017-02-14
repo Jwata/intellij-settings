@@ -256,7 +256,8 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1486986402588">
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1487040379095">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="303" column="0" />
         <mark key="]" line="303" column="0" />
         <mark key="." line="303" column="0" />
@@ -708,8 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="4" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="339" column="40" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="338" column="4" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="22" column="2" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="24" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -808,6 +807,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" />
       <jump line="29" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
       <jump line="6" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
+      <jump line="351" column="12" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -817,7 +818,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>font</text>
+        <text>Vue</text>
       </register>
       <register name="0" type="4">
         <text>$color-grey</text>
@@ -854,9 +855,9 @@
       </register>
     </registers>
     <search>
-      <last-search>font</last-search>
+      <last-search>Vue</last-search>
       <last-offset />
-      <last-pattern>font</last-pattern>
+      <last-pattern>Vue</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>from_date</last-substitute>
       <last-dir>1</last-dir>
@@ -864,8 +865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cccccc</entry>
-        <entry encoding="base64">XDxpbnNpZ2h0c1w+</entry>
         <entry>#CCCCCC</entry>
         <entry>positive</entry>
         <entry>2FD</entry>
@@ -884,6 +883,8 @@
         <entry>666666</entry>
         <entry>999999</entry>
         <entry>font</entry>
+        <entry>vue</entry>
+        <entry>Vue</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
