@@ -443,12 +443,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="100" column="39" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1487217667268">
-        <mark key="'" line="52" column="60" />
-        <mark key="[" line="54" column="51" />
-        <mark key="]" line="54" column="50" />
-        <mark key="." line="54" column="50" />
-        <mark key="^" line="54" column="50" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1487223875489">
+        <mark key="'" line="53" column="60" />
+        <mark key="[" line="55" column="79" />
+        <mark key="]" line="55" column="79" />
+        <mark key="." line="55" column="79" />
+        <mark key="^" line="50" column="67" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/cta-notification.coffee" timestamp="1485406169291">
         <mark key="[" line="14" column="16" />
@@ -804,16 +804,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>binding</text>
+        <text>.ended_at</text>
       </register>
       <register name="-" type="4">
-        <text>binding</text>
+        <text>.ended_at</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFkaWVudFw+</text>
+        <text>bind</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHtvZmZzZXQ6ICI0MCUiLCBjbGFzczogJ25ldXRyYWwnfSwK</text>
+      <register name="0" type="4">
+        <text>last_conversation_at</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogYWRqdXN0IHRocmVzaG9sZCB3aXRoIHJlYWwgZGF0YQo=</text>
@@ -847,9 +847,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFkaWVudFw+</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFkaWVudFw+</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>', '</last-substitute>
       <last-dir>1</last-dir>
@@ -857,7 +857,6 @@
     </search>
     <history>
       <history-search>
-        <entry>', '</entry>
         <entry encoding="base64">XDw0MHB4XD4=</entry>
         <entry>container</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
@@ -877,6 +876,7 @@
         <entry encoding="base64">XDxERUZBVUxUX0dSQURJRU5UXD4=</entry>
         <entry>good</entry>
         <entry encoding="base64">XDxncmFkaWVudFw+</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>%s/banner_key/key/g</entry>
