@@ -36,17 +36,15 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/contextual_quote.scss" timestamp="1486985837885">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/config/routes.rb" timestamp="1484809566984">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="45" column="33" />
         <mark key="]" line="45" column="44" />
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="33" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1487232233314">
+        <mark key="'" line="42" column="5" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1487209503261">
         <mark key="'" line="140" column="92" />
@@ -215,11 +213,6 @@
         <mark key="^" line="34" column="51" />
         <mark key="." line="34" column="51" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1486698536707">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1484550993000">
         <mark key="'" line="22" column="36" />
         <mark key="[" line="18" column="16" />
@@ -309,11 +302,6 @@
         <mark key="]" line="1" column="25" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_dashboard_graph.html.haml" timestamp="1486785317276">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/home_controller.rb" timestamp="1484536968380">
         <mark key="'" line="6" column="21" />
@@ -558,11 +546,6 @@
         <mark key="." line="77" column="68" />
         <mark key="^" line="77" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/helpers/home_helper.rb" timestamp="1486775276559">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_all_job.rb" timestamp="1484791110956">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="31" />
@@ -659,11 +642,6 @@
         <mark key="." line="16" column="93" />
         <mark key="^" line="16" column="93" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1486775209017">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/all_corpuses_update_job_spec.rb" timestamp="1483780093041">
         <mark key="'" line="10" column="45" />
         <mark key="[" line="3" column="0" />
@@ -706,10 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="19" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
-      <jump line="24" column="21" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
-      <jump line="5" column="21" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
-      <jump line="28" column="24" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" />
       <jump line="49" column="4" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
       <jump line="50" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
       <jump line="22" column="4" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
@@ -806,6 +780,10 @@
       <jump line="30" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
       <jump line="53" column="11" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
       <jump line="52" column="60" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
+      <jump line="100" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="41" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="42" column="5" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -815,7 +793,7 @@
         <text>[:morale]</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>active</text>
       </register>
       <register name="0" type="4">
         <text>last_conversation_at</text>
@@ -852,9 +830,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>active</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>active</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute>', '</last-substitute>
       <last-dir>1</last-dir>
@@ -862,7 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw0MHB4XD4=</entry>
         <entry>container</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxtb3JhbGVHcmFwaENvbnRhaW5lclw+</entry>
@@ -882,6 +859,7 @@
         <entry>good</entry>
         <entry encoding="base64">XDxncmFkaWVudFw+</entry>
         <entry>bind</entry>
+        <entry>active</entry>
       </history-search>
       <history-cmd>
         <entry>%s/banner_key/key/g</entry>
