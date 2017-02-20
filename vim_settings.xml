@@ -212,6 +212,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/token.rb" timestamp="1487566301957" />
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" timestamp="1484812087545">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="12" column="26" />
@@ -536,12 +537,11 @@
         <mark key="^" line="33" column="9" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" timestamp="1487564730497">
-        <mark key="'" line="7" column="22" />
-        <mark key="[" line="59" column="10" />
-        <mark key="]" line="59" column="14" />
-        <mark key="." line="59" column="14" />
-        <mark key="^" line="59" column="14" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" timestamp="1487566580967">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="15" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/user_banner_notification.rb" timestamp="1485510859499">
         <mark key="'" line="3" column="2" />
@@ -665,7 +665,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1487562483179">
+      <file name="/a.regexp" timestamp="1487566268784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="33" />
@@ -726,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="292" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="39" column="15" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
       <jump line="28" column="4" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
       <jump line="38" column="19" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
@@ -826,46 +824,48 @@
       <jump line="57" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
       <jump line="58" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
       <jump line="7" column="22" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
+      <jump line="20" column="33" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2tlbl9kZWZhdWx0X2F0dHJpYnV0ZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>token_allows_write</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgcmV2b2tlX2F1dGhvcml6YXRpb25fdG9rZW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpZG5pbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID0gVG9rZW4ubmV3Cg==</text>
+        <text encoding="base64">ICBkZWYgcmVzdG9yZV9hdXRob3JpemF0aW9uX3Rva2VuCiAgZW5kCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICV3KGF1dGhvcml6YXRpb25fdG9rZW4gYXV0aG9yaXphdGlvbl90b2tlbl9leHBpcmVfYXQKICAgICAgIGF1dGhvcml6YXRpb25fdG9rZW5fZ2l2ZW5fYnlfc2xhY2tfaWQgdG9rZW5fYWxsb3dzX3dyaXRlKS5lYWNoIGRvIHxhdHRyfAogICAgICAgICByZW1vdmVfY29sdW1uIDp0ZWFtcywgYXR0ci50b19zeW0KICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF0dHIudG9fc3ltCiAgICBhdXRob3JpemF0aW9uX3Rva2VuCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBlZWYgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2xhY2tfY2hhbm5lbHNfbGlzdF9hY3Rpdml0eS5wcmVzZW50Pwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1Z2dlc3Rpb25zID0gW10KICAgIFJhaWxzLmxvZ2dlci5kZWJ1ZyBCZW5jaG1hcmsubWVhc3VyZSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3VnZ2VzdGlvbnMgfHw9IGJlZ2luCiAgICAgICAgbGlzdCA9IGN1cnJlbnRfdGVhbS51cGRhdGVfY2hhbm5lbHNfbGlzdF9hY3Rpdml0eSEKICAgICAgICBsaXN0Lm1heF9ieSg1KSB7IHxjfCBjWzpsYXN0X3dlZWtfbWVzc2FnZXNfY291bnRdIH0KICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGJpZG5pbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
