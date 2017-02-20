@@ -79,6 +79,13 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="57" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/layouts/application.html.haml" timestamp="1487570122037">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="56" />
+        <mark key="^" line="9" column="90" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" timestamp="1487556388522">
         <mark key="'" line="13" column="26" />
       </file>
@@ -804,14 +811,14 @@
       <jump line="22" column="14" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuY2hhbm5lbHNfaGlzdG9yeSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, debug: true</text>
       </register>
       <register name="-" type="4">
-        <text>channel: channel_id, oldest: from, latest: to, count: max_window, unreads: false</text>
+        <text>, debug: true</text>
       </register>
       <register name="/" type="4">
-        <text>relative</text>
+        <text>debug</text>
       </register>
       <register name="0" type="4">
         <text>delegate_to</text>
@@ -848,9 +855,9 @@
       </register>
     </registers>
     <search>
-      <last-search>relative</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>relative</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>shiftRatio</last-replace>
       <last-substitute>ratio</last-substitute>
       <last-dir>1</last-dir>
@@ -858,7 +865,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrZXl3b3JkXD4=</entry>
         <entry encoding="base64">XDxzdWdnZXN0aW9uc1w+</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVfY2hhbm5lbHNfbGlzdHNcPg==</entry>
         <entry>private</entry>
@@ -878,6 +884,7 @@
         <entry encoding="base64">XDxiYXNlUG9zaXRpb25cPg==</entry>
         <entry encoding="base64">XDxhYnNvbHV0ZVw+</entry>
         <entry>relative</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIgPT4vOi9n</entry>
