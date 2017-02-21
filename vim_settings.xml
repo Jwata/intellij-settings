@@ -109,11 +109,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/factories/watson.rb" timestamp="1487557487273">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="39" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/sync_cloudwatch_logs.rb" timestamp="1485768735785">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="0" />
@@ -277,7 +272,7 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/badge_controller.rb" timestamp="1486530363964">
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/badge_controller.rb" timestamp="1487659258929">
         <mark key="'" line="14" column="19" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
@@ -376,6 +371,12 @@
         <mark key="]" line="15" column="44" />
         <mark key="^" line="34" column="10" />
         <mark key="." line="34" column="10" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1487659269787">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="24" column="13" />
       </file>
       <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485260776560">
         <mark key="'" line="4" column="6" />
@@ -492,11 +493,6 @@
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/client.rb" timestamp="1487568096665">
-        <mark key="'" line="89" column="10" />
-        <mark key="[" line="110" column="10" />
-        <mark key="]" line="110" column="20" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" timestamp="1487294355278">
         <mark key="'" line="77" column="24" />
@@ -818,8 +814,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>otion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>otion</text>
@@ -827,35 +823,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxlbW90aW9uYWxJbXBhY3RRdWFsaWZpZWRDaGFuZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>keyword.emotions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBza2lwX2JlZm9yZV9hY3Rpb24gOmF1dGhlbnRpY2F0ZV91c2VyIQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZG5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbW90aW9uLCBzY29yZSA9IGtleXdvcmRbOmVtb3Rpb25zXS5tYXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrZXl3b3JkCg==</text>
+        <text encoding="base64">ICBza2lwX2FjdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBhY3RfdHlwZQo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgYmluZG5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrZXl3b3JkLm1vc3QK</text>
+        <text encoding="base64">ICAgICAgICBlbW90aW9uLCBzY29yZSA9IGtleXdvcmRbOmVtb3Rpb25zXS5tYXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBrZXl3b3JkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBhY3RfdHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
