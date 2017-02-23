@@ -228,12 +228,12 @@
         <mark key="^" line="34" column="51" />
         <mark key="." line="34" column="51" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1487759855424">
-        <mark key="'" line="74" column="18" />
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="85" column="26" />
-        <mark key="^" line="85" column="26" />
-        <mark key="." line="85" column="26" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1487830172345">
+        <mark key="'" line="73" column="16" />
+        <mark key="[" line="88" column="9" />
+        <mark key="]" line="88" column="19" />
+        <mark key="^" line="88" column="19" />
+        <mark key="." line="88" column="19" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1484550993000">
         <mark key="'" line="22" column="36" />
@@ -765,11 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
-      <jump line="258" column="6" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
-      <jump line="87" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="110" column="47" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_conversation_spec.rb" />
       <jump line="91" column="2" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_conversation_spec.rb" />
       <jump line="144" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_conversation_spec.rb" />
       <jump line="84" column="45" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -824,8 +819,6 @@
       <jump line="80" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
       <jump line="81" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
       <jump line="87" column="92" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
-      <jump line="89" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="73" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="0" column="19" filename="$USER_HOME$/enJapan/vibe/app/models/watson_emotions.rb" />
       <jump line="2" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/watson_emotions.rb" />
       <jump line="3" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/watson_emotions.rb" />
@@ -834,8 +827,6 @@
       <jump line="6" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/watson_emotions.rb" />
       <jump line="11" column="32" filename="$USER_HOME$/enJapan/vibe/app/models/watson_emotions.rb" />
       <jump line="12" column="38" filename="$USER_HOME$/enJapan/vibe/app/models/watson_emotions.rb" />
-      <jump line="49" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="50" column="40" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="76" column="44" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="55" column="36" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="92" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -846,7 +837,6 @@
       <jump line="10" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
       <jump line="56" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="67" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="81" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="77" column="18" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="25" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
       <jump line="27" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" />
@@ -865,16 +855,26 @@
       <jump line="25" column="8" filename="$USER_HOME$/enJapan/vibe/config/locales/demo.en.yml.erb" />
       <jump line="323" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="341" column="13" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
+      <jump line="85" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="43" column="67" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="41" column="31" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="89" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="74" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="50" column="40" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="49" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="88" column="10" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="81" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="73" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>impact</text>
+        <text encoding="base64">XDxrZXl3b3JkX2ltcGFjdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gaW5jbHVkZSgqZGVzY3JpYmVkX2NsYXNzOjpFTU9USU9OU19LRVlTKX0K</text>
@@ -911,9 +911,9 @@
       </register>
     </registers>
     <search>
-      <last-search>impact</last-search>
+      <last-search encoding="base64">XDxrZXl3b3JkX2ltcGFjdFw+</last-search>
       <last-offset />
-      <last-pattern>impact</last-pattern>
+      <last-pattern encoding="base64">XDxrZXl3b3JkX2ltcGFjdFw+</last-pattern>
       <last-replace>shiftRatio</last-replace>
       <last-substitute>ratio</last-substitute>
       <last-dir>1</last-dir>
@@ -921,12 +921,10 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBhY3RfcG9pbnRzXD4=</entry>
         <entry encoding="base64">XDxiaW5kaW5nXD4=</entry>
         <entry encoding="base64">XDxpbXBhY3RfdHlwZVw+</entry>
         <entry>raise</entry>
         <entry>key</entry>
-        <entry encoding="base64">XDxlbW90aW9uc1w+</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfaW1wYWN0XD4=</entry>
         <entry encoding="base64">XDx3YXRzb25fa2V5d29yZFw+</entry>
         <entry encoding="base64">XDxLRVlfTUFQUElOR1w+</entry>
@@ -941,6 +939,8 @@
         <entry>most_</entry>
         <entry encoding="base64">XDxtb3N0X3JlcHJlc2VudGF0aXZlX2tleXdvcmRcPg==</entry>
         <entry>impact</entry>
+        <entry encoding="base64">XDxlbW90aW9uc1w+</entry>
+        <entry encoding="base64">XDxrZXl3b3JkX2ltcGFjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzogLz0+IC9n</entry>
