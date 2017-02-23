@@ -95,8 +95,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" timestamp="1487670005857">
-        <mark key="'" line="320" column="66" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" timestamp="1487829361460">
+        <mark key="'" line="341" column="13" />
         <mark key="[" line="323" column="0" />
         <mark key="]" line="323" column="0" />
         <mark key="." line="323" column="0" />
@@ -293,13 +293,6 @@
         <mark key="]" line="1" column="39" />
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="48" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/locales/demo.en.yml.erb" timestamp="1487828203622">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="46" column="15" />
-        <mark key="." line="46" column="15" />
-        <mark key="^" line="46" column="15" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_impact.html.haml" timestamp="1487759945860">
         <mark key="[" line="5" column="78" />
@@ -772,8 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="97" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_conversation_spec.rb" />
-      <jump line="356" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="258" column="6" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="87" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -872,6 +863,8 @@
       <jump line="46" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/watson_emotions_spec.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/watson_emotions_spec.rb" />
       <jump line="25" column="8" filename="$USER_HOME$/enJapan/vibe/config/locales/demo.en.yml.erb" />
+      <jump line="323" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
+      <jump line="341" column="13" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -928,8 +921,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBhY3RmdWxfY29udmVyc2F0aW9uc1w+</entry>
-        <entry encoding="base64">XDxpbXBhY3RmdWxfa2V5d29yZHNcPg==</entry>
         <entry encoding="base64">XDxpbXBhY3RfcG9pbnRzXD4=</entry>
         <entry encoding="base64">XDxiaW5kaW5nXD4=</entry>
         <entry encoding="base64">XDxpbXBhY3RfdHlwZVw+</entry>
@@ -947,6 +938,8 @@
         <entry>bean</entry>
         <entry>migrations</entry>
         <entry>database</entry>
+        <entry>most_</entry>
+        <entry encoding="base64">XDxtb3N0X3JlcHJlc2VudGF0aXZlX2tleXdvcmRcPg==</entry>
         <entry>impact</entry>
       </history-search>
       <history-cmd>
