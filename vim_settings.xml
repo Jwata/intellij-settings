@@ -75,12 +75,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/layouts/application.html.haml" timestamp="1487580287732">
-        <mark key="'" line="6" column="19" />
-        <mark key="[" line="9" column="88" />
-        <mark key="]" line="9" column="101" />
-        <mark key="." line="9" column="101" />
-        <mark key="^" line="9" column="101" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/layouts/application.html.haml" timestamp="1488163405145">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="42" column="5" />
+        <mark key="^" line="42" column="5" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" timestamp="1487841240374">
         <mark key="'" line="58" column="41" />
@@ -827,7 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="34" filename="$USER_HOME$/enJapan/vibe/spec/requests/insights_request_spec.rb" />
       <jump line="28" column="34" filename="$USER_HOME$/enJapan/vibe/spec/requests/insights_request_spec.rb" />
       <jump line="4" column="18" filename="$USER_HOME$/enJapan/vibe/spec/requests/insights_request_spec.rb" />
       <jump line="5" column="47" filename="$USER_HOME$/enJapan/vibe/spec/requests/insights_request_spec.rb" />
@@ -927,6 +926,7 @@
       <jump line="38" column="25" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
       <jump line="60" column="6" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
       <jump line="115" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/layouts/application.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
