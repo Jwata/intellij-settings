@@ -479,12 +479,11 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1488190762490">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1488264636168">
         <mark key="'" line="1" column="18" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="41" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="13" column="10" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/eb.yml" timestamp="1487818320405">
         <mark key="'" line="13" column="35" />
@@ -1020,10 +1019,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYj4K</text>
       </register>
       <register name="-" type="4">
-        <text>[:day, :week, :month]</text>
+        <text encoding="base64">PGI+</text>
       </register>
       <register name="/" type="4">
         <text>circle</text>
@@ -1032,19 +1031,19 @@
         <text>current_graph_point</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYj4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBjdXJyZW50X2dyYXBoX3Jlc29sdXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBfZnJvbSB8fD0gYmVnaW4K</text>
+        <text encoding="base64">ICAgICAgY2FzZSBjdXJyZW50X2dyYXBoX3Jlc29sdXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBfZnJvbSB8fD0gYmVnaW4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1053,10 +1052,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
