@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" timestamp="1488441658074">
-        <mark key="'" line="11" column="5" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" timestamp="1488449060366">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-eb-metrics.config" timestamp="1485136732281">
         <mark key="'" line="67" column="12" />
@@ -509,7 +513,7 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" timestamp="1488441800295">
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" timestamp="1488446357991">
         <mark key="'" line="11" column="11" />
         <mark key="[" line="6" column="17" />
         <mark key="]" line="7" column="14" />
@@ -535,8 +539,12 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="37" column="52" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/components/onboarding.scss" timestamp="1488333263619">
-        <mark key="'" line="66" column="21" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/components/onboarding.scss" timestamp="1488446431428">
+        <mark key="'" line="404" column="11" />
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" timestamp="1486786832924">
         <mark key="'" line="28" column="46" />
@@ -639,10 +647,11 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/channels/index.html.haml" timestamp="1488443288406">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/channels/index.html.haml" timestamp="1488444709281">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+        <mark key="^" line="8" column="47" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1487579856065">
         <mark key="[" line="59" column="0" />
@@ -695,9 +704,11 @@
         <mark key="." line="18" column="96" />
         <mark key="^" line="18" column="96" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" timestamp="1488353396384">
-        <mark key="'" line="40" column="71" />
-        <mark key="[" line="20" column="19" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" timestamp="1488447414076">
+        <mark key="'" line="33" column="6" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/base_controller.rb" timestamp="1488341500004">
         <mark key="'" line="6" column="58" />
@@ -876,7 +887,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1488424488505">
+      <file name="/a.regexp" timestamp="1488449060871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="33" />
@@ -955,22 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="3" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="31" column="55" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="8" column="3" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="11" column="5" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="14" column="27" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="16" column="26" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="10" column="3" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="13" column="5" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="3" column="9" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/onboarding.rb" />
-      <jump line="22" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/onboarding.rb" />
-      <jump line="1" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/onboarding.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
-      <jump line="62" column="0" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
-      <jump line="39" column="11" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
-      <jump line="27" column="12" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
       <jump line="16" column="12" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
       <jump line="19" column="39" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/team_channel_suggestions.rb" />
       <jump line="67" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
@@ -1055,55 +1050,71 @@
       <jump line="76" column="3" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
       <jump line="35" column="17" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
       <jump line="11" column="11" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
+      <jump line="15" column="7" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="29" column="15" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="45" column="14" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="40" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
+      <jump line="404" column="11" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/components/onboarding.scss" />
+      <jump line="33" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
+      <jump line="4" column="20" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="12" column="20" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="38" column="4" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="35" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="36" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="11" column="9" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="9" column="4" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="10" column="29" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="8" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFuZCBJIAo=</text>
+        <text encoding="base64">ICAgIHdhaXRfZm9yX2FqYXgK</text>
       </register>
       <register name="-" type="4">
-        <text>data-link</text>
+        <text>confirm_button</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja2JveEJ1dHRvbnNcPg==</text>
+        <text encoding="base64">XDxjbGlja19jb25maXJtX2J1dHRvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>coffeescript</text>
+        <text>click_confirm_button</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFuZCBJIAo=</text>
+        <text encoding="base64">ICAgIHdhaXRfZm9yX2FqYXgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgPGEgaHJlZj0iaHR0cC8vOmdvb2dsZWNvbSI+Cg==</text>
+        <text encoding="base64">ICBpZiBjb25maXJtID0gY29uZmlybV9idXR0b24gY29uZmlybS5jbGljawogIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEgIyB3YWl0IGZvciB1cmwgcmVkaXJlY3RzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PSByZW5kZXIgJ2NoYW5uZWxzL3NlbGVjdGlvbicKCg==</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWF4Q2hhbm5lbHMgPSAoKSAtPgoK</text>
+        <text encoding="base64">ICBkZWYgd2FpdF9mb3JfYWpheAogICAgVGltZW91dC50aW1lb3V0KENhcHliYXJhLmRlZmF1bHRfbWF4X3dhaXRfdGltZSkgZG8KICAgICAgbG9vcCB1bnRpbCBmaW5pc2hlZF9hbGxfYWpheF9yZXF1ZXN0cz8KICAgIGVuZAogIGVuZAoKICBkZWYgZmluaXNoZWRfYWxsX2FqYXhfcmVxdWVzdHM/CiAgICBwYWdlLmV2YWx1YXRlX3NjcmlwdCgnalF1ZXJ5LmFjdGl2ZScpLnplcm8/CiAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkKCcuY2hhbm5lbC1zZWxlY3Rpb24tY29udGFpbmVyJykuZGF0YSgnbWF4LWNoYW5uZWxzJykK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CigpIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHN1Ym1pdEJ1dHRvbiA9ICQoJyNjaGFubmVsLXNlbGVjdGlvbi1zdWJtaXQnKQokY2hlY2tib3hCdXR0b25zID0gJCgnLmNoYW5uZWxzIC5jaGFubmVsIGlucHV0W25hbWU9ImNoYW5uZWxzW10iXScpCgo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja2JveEJ1dHRvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxjbGlja19jb25maXJtX2J1dHRvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja2JveEJ1dHRvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbGlja19jb25maXJtX2J1dHRvblw+</last-pattern>
       <last-replace>current_period</last-replace>
       <last-substitute>current_resolution</last-substitute>
       <last-dir>1</last-dir>
@@ -1111,15 +1122,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZENoYW5uZWxzQnV0dG9uc1w+</entry>
-        <entry>maxChannel</entry>
-        <entry>debu</entry>
-        <entry encoding="base64">XDxlbmFibGVCdXR0b25cPg==</entry>
-        <entry>maxChannels</entry>
-        <entry>plan</entry>
-        <entry>feature</entry>
-        <entry>plans</entry>
-        <entry>submitButton</entry>
         <entry encoding="base64">XDxkaXNhYmxlQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxzY291bnRcPg==</entry>
         <entry encoding="base64">XDxsYWJlbHNcPg==</entry>
@@ -1131,9 +1133,17 @@
         <entry encoding="base64">XDxkaXNhYmxlU3VibWl0QnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxzdWJtaXRCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxjaGVja2JveEJ1dHRvbnNcPg==</entry>
+        <entry encoding="base64">XDxmaW5kXD4=</entry>
+        <entry>0.78</entry>
+        <entry encoding="base64">XDx3YWl0X2Zvcl9hamF4XD4=</entry>
+        <entry encoding="base64">XDxoYXZlX2Nzc1w+</entry>
+        <entry encoding="base64">XDxjb25maXJtX2J1dHRvblw+</entry>
+        <entry encoding="base64">XDxmaW5kX2J1dHRvblw+</entry>
+        <entry>confirm-button</entry>
+        <entry encoding="base64">XDxjb25maXJtX2J1dHRvbl9zZWxlY3Rvclw+</entry>
+        <entry encoding="base64">XDxjbGlja19jb25maXJtX2J1dHRvblw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy8=</entry>
         <entry encoding="base64">JzwsJz5zL3Yva2V5d29yZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy9n</entry>
         <entry>s/keyword/topic/g</entry>
@@ -1151,6 +1161,7 @@
         <entry>w]</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>ws</entry>
         <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
