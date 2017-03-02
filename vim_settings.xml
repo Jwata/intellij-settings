@@ -153,8 +153,8 @@
         <mark key="^" line="34" column="51" />
         <mark key="." line="34" column="51" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" timestamp="1488266906570">
-        <mark key="'" line="1" column="39" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" timestamp="1488420974315">
+        <mark key="'" line="68" column="14" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -372,9 +372,9 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" timestamp="1488263248164">
-        <mark key="'" line="41" column="22" />
-        <mark key="[" line="76" column="10" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" timestamp="1488420984937">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="76" column="9" />
         <mark key="]" line="76" column="11" />
         <mark key="." line="76" column="11" />
         <mark key="^" line="76" column="11" />
@@ -509,9 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="15" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/onboarding.coffee" />
-      <jump line="64" column="84" filename="$USER_HOME$/enJapan/vibe/app/views/shared/_onboarding.html.haml" />
-      <jump line="82" column="90" filename="$USER_HOME$/enJapan/vibe/app/views/shared/_onboarding.html.haml" />
       <jump line="77" column="90" filename="$USER_HOME$/enJapan/vibe/app/views/shared/_onboarding.html.haml" />
       <jump line="73" column="19" filename="$USER_HOME$/enJapan/vibe/app/views/shared/_onboarding.html.haml" />
       <jump line="27" column="15" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/onboarding.coffee" />
@@ -609,16 +606,19 @@
       <jump line="16" column="12" filename="$USER_HOME$/enJapan/vibe/spec/requests/channels_request_spec.rb" />
       <jump line="19" column="39" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/team_channel_suggestions.rb" />
       <jump line="67" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
+      <jump line="59" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="68" column="14" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/dashboard_graph.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZV9qc29uID0gSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KQo=</text>
+      <register name="&quot;" type="4">
+        <text>0.9rem</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>0.9rem</text>
       </register>
       <register name="/" type="4">
-        <text>high</text>
+        <text>rem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnZXQgY2hhbm5lbHNfcGF0aAogICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gaGF2ZV9odHRwX3N0YXR1cyg6b2spCg==</text>
@@ -655,9 +655,9 @@
       </register>
     </registers>
     <search>
-      <last-search>high</last-search>
+      <last-search>rem</last-search>
       <last-offset />
-      <last-pattern>high</last-pattern>
+      <last-pattern>rem</last-pattern>
       <last-replace>current_period</last-replace>
       <last-substitute>current_resolution</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
         <entry>hide</entry>
@@ -685,6 +684,7 @@
         <entry encoding="base64">XDxjaGFubmVsc19wYXRoXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsc19saXN0XD4=</entry>
         <entry>high</entry>
+        <entry>rem</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy8=</entry>
