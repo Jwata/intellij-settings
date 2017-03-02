@@ -11,6 +11,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application.js" timestamp="1488424834723">
+        <mark key="'" line="28" column="22" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/faker/slack.rb" timestamp="1487837122630">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -72,8 +75,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" timestamp="1488422129006">
-        <mark key="'" line="72" column="32" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" timestamp="1488424840866">
+        <mark key="'" line="76" column="22" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -483,7 +486,7 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="/a.regexp" timestamp="1488422216454">
+      <file name="/a.regexp" timestamp="1488424488505">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="33" />
@@ -527,8 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="42" filename="$USER_HOME$/enJapan/vibe/app/views/admin/teams/show.html.haml" />
-      <jump line="7" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/base_controller.rb" />
       <jump line="115" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="31" column="59" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="30" column="60" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
@@ -622,11 +623,13 @@
       <jump line="75" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
       <jump line="4" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
       <jump line="0" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
-      <jump line="76" column="40" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
       <jump line="28" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
       <jump line="72" column="32" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
       <jump line="17" column="46" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
       <jump line="21" column="44" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
+      <jump line="10" column="29" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application.js" />
+      <jump line="28" column="22" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application.js" />
+      <jump line="76" column="22" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/channels/select.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -636,7 +639,7 @@
         <text>0.9rem</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdmFpbGFibGVfY2hhbm5lbHNfbGlzdHNcPg==</text>
+        <text>select</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIEBhdmFpbGFibGVfY2hhbm5lbHMsIEBzdWdnZXN0aW9ucyA9IGF2YWlsYWJsZV9jaGFubmVsc19saXN0cy52YWx1ZXNfYXQoOmFsbCwgOnN1Z2dlc3RlZCkK</text>
@@ -673,9 +676,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdmFpbGFibGVfY2hhbm5lbHNfbGlzdHNcPg==</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdmFpbGFibGVfY2hhbm5lbHNfbGlzdHNcPg==</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>current_period</last-replace>
       <last-substitute>current_resolution</last-substitute>
       <last-dir>1</last-dir>
@@ -683,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkQ2hhbm5lbFN1Z2dlc3Rpb25cPg==</entry>
         <entry>helper</entry>
         <entry>already</entry>
         <entry encoding="base64">XDxPbmJvYXJkaW5nU3RlcHNcPg==</entry>
@@ -703,6 +705,7 @@
         <entry encoding="base64">XDxlbmFibGVCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxwcmVwYXJlU3VibWl0QnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVfY2hhbm5lbHNfbGlzdHNcPg==</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy8=</entry>
