@@ -57,12 +57,11 @@
         <mark key="." line="106" column="10" />
         <mark key="^" line="106" column="10" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488941492432">
-        <mark key="'" line="39" column="24" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="36" column="40" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488942842239">
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="9" />
+        <mark key="." line="39" column="9" />
+        <mark key="^" line="39" column="9" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -689,6 +688,13 @@
         <mark key="^" line="8" column="56" />
         <mark key="." line="8" column="71" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/features/morales.feature" timestamp="1488942822670">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="38" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/keywords/index.html.haml" timestamp="1487839484206">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="15" column="35" />
@@ -921,9 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="28" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/channels.rb" />
-      <jump line="42" column="9" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
       <jump line="43" column="12" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
       <jump line="52" column="41" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
       <jump line="86" column="21" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
@@ -1021,55 +1024,58 @@
       <jump line="38" column="3" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
       <jump line="65" column="19" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
       <jump line="40" column="24" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="36" column="45" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="10" column="44" filename="$USER_HOME$/enJapan/vibe/features/morales.feature" />
+      <jump line="11" column="11" filename="$USER_HOME$/enJapan/vibe/features/morales.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZvciAje3BsYW59IHBsYW4=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IGZvciAje3BsYW59IHBsYW4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3BpY1w+</text>
+        <text>click</text>
       </register>
-      <register name="0" type="4">
-        <text>(?: for (free|standard) plan)?</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0ZXAgIkkgc2hvdWxkIHNlZSBhIHBvcHVwIGZvciAje3BsYW59IHBsYW4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGVwICJJIHNob3VsZCBzZWUgYSBwb3B1cCBmb3IgI3twbGFufSBwbGFuIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSBSYWRhckNoYXJ0Rm9ybXVsYXMuYXJlYSgqZW1vdGlvbnNfYXJyYXkpCiAgICBtYXhfYXJlYSA9IFJhZGFyQ2hhcnRGb3JtdWxhcy5tYXhfYXJlYV9mb3Jfbl9kaW1lbnNpb25zKGVtb3Rpb25zX2FycmF5LnNpemUpCg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3BpY1w+</last-search>
+      <last-search>click</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3BpY1w+</last-pattern>
+      <last-pattern>click</last-pattern>
       <last-replace>current_period</last-replace>
       <last-substitute>current_resolution</last-substitute>
       <last-dir>1</last-dir>
@@ -1077,7 +1083,6 @@
     </search>
     <history>
       <history-search>
-        <entry>noth</entry>
         <entry>piple</entry>
         <entry>pipe</entry>
         <entry>assets</entry>
@@ -1097,6 +1102,7 @@
         <entry encoding="base64">XDxFbW90aW9uQWNjdW11bGF0b3JcPg==</entry>
         <entry encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDx0b3BpY1w+</entry>
+        <entry>click</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy9n</entry>
