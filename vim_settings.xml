@@ -57,11 +57,11 @@
         <mark key="." line="106" column="10" />
         <mark key="^" line="106" column="10" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488942842239">
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="9" />
-        <mark key="." line="39" column="9" />
-        <mark key="^" line="39" column="9" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488945649975">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="29" />
+        <mark key="." line="42" column="29" />
+        <mark key="^" line="42" column="29" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -1029,44 +1029,44 @@
       <jump line="11" column="11" filename="$USER_HOME$/enJapan/vibe/features/morales.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGZvciAje3BsYW59IHBsYW4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwYWdlLnNhdmVfc2NyZWVuc2hvdAogIHBhZ2Uuc2F2ZV9wYWdlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZvciAje3BsYW59IHBsYW4=</text>
+        <text>save_screenshot</text>
       </register>
       <register name="/" type="4">
         <text>click</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZXAgIkkgc2hvdWxkIHNlZSBhIHBvcHVwIGZvciAje3BsYW59IHBsYW4iCg==</text>
+        <text encoding="base64">ICBwYWdlLnNhdmVfc2NyZWVuc2hvdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYWdlLnNhdmVfc2NyZWVuc2hvdAogIHBhZ2Uuc2F2ZV9wYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGVwICJJIHNob3VsZCBzZWUgYSBwb3B1cCBmb3IgI3twbGFufSBwbGFuIgo=</text>
+        <text encoding="base64">ICBwYWdlLnNhdmVfcGFnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiaW5kaW5nCg==</text>
+        <text encoding="base64">ICBzbGVlcCAxCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICBzdGVwICJJIHNob3VsZCBzZWUgYSBwb3B1cCBmb3IgI3twbGFufSBwbGFuIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICBiaW5kaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1105,7 +1105,6 @@
         <entry>click</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy9n</entry>
         <entry>s/keyword/topic/g</entry>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmQvdG9waWMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
@@ -1124,6 +1123,7 @@
         <entry>ws</entry>
         <entry>w'</entry>
         <entry>Lw</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
