@@ -57,8 +57,8 @@
         <mark key="." line="106" column="10" />
         <mark key="^" line="106" column="10" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488537115173">
-        <mark key="'" line="26" column="27" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488939506904">
+        <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -457,11 +457,7 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1488938533054">
-        <mark key="'" line="82" column="72" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="'" line="78" column="72" />
       </file>
       <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485260776560">
         <mark key="'" line="4" column="6" />
@@ -921,9 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
-      <jump line="60" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="142" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="57" column="4" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
       <jump line="84" column="4" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
@@ -1021,6 +1014,9 @@
       <jump line="64" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="90" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="295" column="19" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="31" column="20" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="47" column="27" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="19" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1030,7 +1026,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbW90aW9uQWNjdW11bGF0b3JcPg==</text>
+        <text encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>authenticate_user</text>
@@ -1067,9 +1063,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbW90aW9uQWNjdW11bGF0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbW90aW9uQWNjdW11bGF0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</last-pattern>
       <last-replace>current_period</last-replace>
       <last-substitute>current_resolution</last-substitute>
       <last-dir>1</last-dir>
@@ -1077,7 +1073,6 @@
     </search>
     <history>
       <history-search>
-        <entry>click</entry>
         <entry encoding="base64">XDxjbGlja2VkX2NoYW5uZWxzXD4=</entry>
         <entry>noth</entry>
         <entry>piple</entry>
@@ -1097,6 +1092,7 @@
         <entry encoding="base64">XDxlbW90aW9uc19hcnJheVw+</entry>
         <entry encoding="base64">XDxtYXhfYXJlYVw+</entry>
         <entry encoding="base64">XDxFbW90aW9uQWNjdW11bGF0b3JcPg==</entry>
+        <entry encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy9n</entry>
