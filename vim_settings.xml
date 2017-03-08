@@ -57,8 +57,12 @@
         <mark key="." line="106" column="10" />
         <mark key="^" line="106" column="10" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488939506904">
-        <mark key="'" line="19" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1488941492432">
+        <mark key="'" line="39" column="24" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="36" column="40" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -917,10 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="57" column="4" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="84" column="4" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
-      <jump line="83" column="16" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
       <jump line="80" column="28" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/channels.rb" />
       <jump line="42" column="9" filename="$USER_HOME$/enJapan/vibe/app/controllers/channels_controller.rb" />
@@ -1017,55 +1017,59 @@
       <jump line="31" column="20" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
       <jump line="47" column="27" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="38" column="3" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="65" column="19" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
+      <jump line="40" column="24" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</text>
+        <text encoding="base64">XDx0b3BpY1w+</text>
       </register>
       <register name="0" type="4">
-        <text>authenticate_user</text>
+        <text>(?: for (free|standard) plan)?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSBSYWRhckNoYXJ0Rm9ybXVsYXMuYXJlYSgqZW1vdGlvbnNfYXJyYXkpCiAgICBtYXhfYXJlYSA9IFJhZGFyQ2hhcnRGb3JtdWxhcy5tYXhfYXJlYV9mb3Jfbl9kaW1lbnNpb25zKGVtb3Rpb25zX2FycmF5LnNpemUpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcjogOXB4Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuYXR0cignY3knLCB5RnJvbVZhbHVlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkb21FeGlzdCA9ICgpIC0+CiAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQoJyNjaGFubmVsLXNlbGVjdGlvbi1jb250YWluZXI6dmlzaWJsZScpLmxlbmd0aCA+IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAkKGRvY3VtZW50KS5vZmYoJ3R1cmJvbGlua3M6bG9hZCcsIGxvYWRDaGFubmVscykK</text>
+        <text encoding="base64">ICAgIGFyZWEgPSBSYWRhckNoYXJ0Rm9ybXVsYXMuYXJlYSgqZW1vdGlvbnNfYXJyYXkpCiAgICBtYXhfYXJlYSA9IFJhZGFyQ2hhcnRGb3JtdWxhcy5tYXhfYXJlYV9mb3Jfbl9kaW1lbnNpb25zKGVtb3Rpb25zX2FycmF5LnNpemUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</last-search>
+      <last-search encoding="base64">XDx0b3BpY1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b3BpY1w+</last-pattern>
       <last-replace>current_period</last-replace>
       <last-substitute>current_resolution</last-substitute>
       <last-dir>1</last-dir>
@@ -1073,7 +1077,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGlja2VkX2NoYW5uZWxzXD4=</entry>
         <entry>noth</entry>
         <entry>piple</entry>
         <entry>pipe</entry>
@@ -1093,6 +1096,7 @@
         <entry encoding="base64">XDxtYXhfYXJlYVw+</entry>
         <entry encoding="base64">XDxFbW90aW9uQWNjdW11bGF0b3JcPg==</entry>
         <entry encoding="base64">XDxpbXBhY3Rfc2VsZWN0b3JcPg==</entry>
+        <entry encoding="base64">XDx0b3BpY1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmRzL3RvcGljcy9n</entry>
