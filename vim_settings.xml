@@ -303,13 +303,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1488869670836">
-        <mark key="'" line="295" column="19" />
-        <mark key="[" line="297" column="19" />
-        <mark key="]" line="297" column="19" />
-        <mark key="." line="297" column="19" />
-        <mark key="^" line="297" column="19" />
-      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1488869670836" />
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-webaccess-metrics.config" timestamp="1485136775851">
         <mark key="[" line="56" column="34" />
         <mark key="]" line="56" column="68" />
@@ -462,8 +456,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1488787848861">
-        <mark key="'" line="78" column="72" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1488938533054">
+        <mark key="'" line="82" column="72" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485260776560">
         <mark key="'" line="4" column="6" />
@@ -1025,44 +1023,44 @@
       <jump line="295" column="19" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>area</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>area</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbW90aW9uQWNjdW11bGF0b3JcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>max_area</text>
+        <text>authenticate_user</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSBSYWRhckNoYXJ0Rm9ybXVsYXMuYXJlYSgqZW1vdGlvbnNfYXJyYXkpCiAgICBtYXhfYXJlYSA9IFJhZGFyQ2hhcnRGb3JtdWxhcy5tYXhfYXJlYV9mb3Jfbl9kaW1lbnNpb25zKGVtb3Rpb25zX2FycmF5LnNpemUpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcjogOXB4Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuYXR0cignY3knLCB5RnJvbVZhbHVlKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkb21FeGlzdCA9ICgpIC0+CiAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFyZWEgPSBSYWRhckNoYXJ0Rm9ybXVsYXMuYXJlYSgqZW1vdGlvbnNfYXJyYXkpCiAgICBtYXhfYXJlYSA9IFJhZGFyQ2hhcnRGb3JtdWxhcy5tYXhfYXJlYV9mb3Jfbl9kaW1lbnNpb25zKGVtb3Rpb25zX2FycmF5LnNpemUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcjogOXB4Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAuYXR0cignY3knLCB5RnJvbVZhbHVlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkb21FeGlzdCA9ICgpIC0+CiAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICQoJyNjaGFubmVsLXNlbGVjdGlvbi1jb250YWluZXI6dmlzaWJsZScpLmxlbmd0aCA+IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAkKGRvY3VtZW50KS5vZmYoJ3R1cmJvbGlua3M6bG9hZCcsIGxvYWRDaGFubmVscykK</text>
+        <text encoding="base64">ICAgICQoJyNjaGFubmVsLXNlbGVjdGlvbi1jb250YWluZXI6dmlzaWJsZScpLmxlbmd0aCA+IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBpZiBkb21FeGlzdCgpCg==</text>
+        <text encoding="base64">IyAgICAkKGRvY3VtZW50KS5vZmYoJ3R1cmJvbGlua3M6bG9hZCcsIGxvYWRDaGFubmVscykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
