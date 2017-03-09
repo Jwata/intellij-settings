@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" timestamp="1488544168703">
-        <mark key="'" line="52" column="3" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" timestamp="1489048628186">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="89" column="3" />
         <mark key="]" line="89" column="19" />
         <mark key="." line="89" column="3" />
@@ -939,8 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="16" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="254" column="12" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="256" column="14" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="258" column="14" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="260" column="34" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -1039,6 +1037,8 @@
       <jump line="13" column="13" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="76" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="26" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="63" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1048,7 +1048,7 @@
         <text>current_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFwaF9wb2ludHNcPg==</text>
+        <text>drop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbHVlID0gY3VycmVudF9tb3JhbGUuY3VycmVudF9ncmFwaF9lbW90aW9uCg==</text>
@@ -1085,9 +1085,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFwaF9wb2ludHNcPg==</last-search>
+      <last-search>drop</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFwaF9wb2ludHNcPg==</last-pattern>
+      <last-pattern>drop</last-pattern>
       <last-replace>current_period</last-replace>
       <last-substitute>current_resolution</last-substitute>
       <last-dir>1</last-dir>
@@ -1095,7 +1095,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBlbmRfaW1wYWN0ZnVsX3RvcGljc1w+</entry>
         <entry encoding="base64">XDxpbXBhY3RmdWxfdG9waWNzXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X2dyYXBoX3BlcmlvZFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50X2dyYXBoX3Jlc29sdXRpb25cPg==</entry>
@@ -1115,6 +1114,7 @@
         <entry encoding="base64">XDxtb3JhbGVfdG9fZ3JhcGhfcG9pbnRcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50X2dyYXBoX3BvaW50XD4=</entry>
         <entry encoding="base64">XDxncmFwaF9wb2ludHNcPg==</entry>
+        <entry>drop</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2tleXdvcmQvdG9waWMvZw==</entry>
