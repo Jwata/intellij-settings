@@ -311,6 +311,9 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1489127413209">
+        <mark key="'" line="375" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-webaccess-metrics.config" timestamp="1485136775851">
         <mark key="[" line="56" column="34" />
         <mark key="]" line="56" column="68" />
@@ -558,12 +561,12 @@
         <mark key="." line="59" column="57" />
         <mark key="^" line="101" column="4" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1487223875489">
-        <mark key="'" line="53" column="60" />
-        <mark key="[" line="55" column="79" />
-        <mark key="]" line="55" column="79" />
-        <mark key="." line="55" column="79" />
-        <mark key="^" line="50" column="67" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1489127721797">
+        <mark key="'" line="131" column="2" />
+        <mark key="[" line="124" column="33" />
+        <mark key="]" line="124" column="52" />
+        <mark key="." line="124" column="52" />
+        <mark key="^" line="124" column="52" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/cta-notification.coffee" timestamp="1485406169291">
         <mark key="[" line="14" column="16" />
@@ -939,10 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="153" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="168" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="162" column="9" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="154" column="9" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="145" column="11" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="61" column="19" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
@@ -1007,7 +1006,6 @@
       <jump line="271" column="59" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="75" column="17" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="282" column="15" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="283" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="62" column="8" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="4" column="58" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
@@ -1039,10 +1037,15 @@
       <jump line="116" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="117" column="47" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="40" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="282" column="29" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="375" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
+      <jump line="130" column="2" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgY3VycmVudF9ncmFwaF9yZXNvbHV0aW9uCiAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5hbmQgY2hhbmdlIHsgY2hhbm5lbC5yZWxvYWQua2V5d29yZHNfbGFzdF9hbmFseXNlZF9hdCB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>morale</text>
@@ -1054,31 +1057,31 @@
         <text>selected_resolution</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgY3VycmVudF9ncmFwaF9yZXNvbHV0aW9uCiAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5hbmQgY2hhbmdlIHsgY2hhbm5lbC5yZWxvYWQua2V5d29yZHNfbGFzdF9hbmFseXNlZF9hdCB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmFtID0gZ3JhcGhfcGFyYW1zWzpyZXNvbHV0aW9uXS50cnkgeyB8c3wgcy5kb3duY2FzZS50b19zeW0gfQogICAgc2Vzc2lvbls6Z3JhcGhfcmVzb2x1dGlvbl0gPSB2YWx1ZSA9IHBhcmFtIGlmIFJFU09MVVRJT05TLmluY2x1ZGU/KHBhcmFtKQo=</text>
+        <text encoding="base64">ICBkZWYgY3VycmVudF9ncmFwaF9yZXNvbHV0aW9uCiAgZW5kCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbHVlIHx8PSBzZXNzaW9uWzpncmFwaF9yZXNvbHV0aW9uXS50cnkoOnRvX3N5bSkgfHwgOndlZWsKICAgIHZhbHVlCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtID0gZ3JhcGhfcGFyYW1zWzpyZXNvbHV0aW9uXS50cnkgeyB8c3wgcy5kb3duY2FzZS50b19zeW0gfQogICAgc2Vzc2lvbls6Z3JhcGhfcmVzb2x1dGlvbl0gPSB2YWx1ZSA9IHBhcmFtIGlmIFJFU09MVVRJT05TLmluY2x1ZGU/KHBhcmFtKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkX2Vtb3Rpb24gPSBncmFwaF9wYXJhbXNbOmVtb3Rpb25dCiAgICAoRU1PVElPTlMuaW5jbHVkZT8gc2VsZWN0ZWRfZW1vdGlvbikgPyBzZWxlY3RlZF9lbW90aW9uIDogOm1vcmFsZQo=</text>
+        <text encoding="base64">ICAgIHZhbHVlIHx8PSBzZXNzaW9uWzpncmFwaF9yZXNvbHV0aW9uXS50cnkoOnRvX3N5bSkgfHwgOndlZWsKICAgIHZhbHVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gKHBhcmFtIGlmICkgfHwKICAgICAgc2Vzc2lvbls6Z3JhcGhfZW1vdGlvbl0udHJ5KDp0b19zeW0pIHx8IDptb3JhbGUKICAgIHNlc3Npb25bOmdyYXBoX2Vtb3Rpb25dID0gdmFsdWUKICAgIHZhbHVlCg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkX2Vtb3Rpb24gPSBncmFwaF9wYXJhbXNbOmVtb3Rpb25dCiAgICAoRU1PVElPTlMuaW5jbHVkZT8gc2VsZWN0ZWRfZW1vdGlvbikgPyBzZWxlY3RlZF9lbW90aW9uIDogOm1vcmFsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHx8IDptb3JhbGUK</text>
+        <text encoding="base64">ICAgIHZhbHVlID0gKHBhcmFtIGlmICkgfHwKICAgICAgc2Vzc2lvbls6Z3JhcGhfZW1vdGlvbl0udHJ5KDp0b19zeW0pIHx8IDptb3JhbGUKICAgIHNlc3Npb25bOmdyYXBoX2Vtb3Rpb25dID0gdmFsdWUKICAgIHZhbHVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbHVlID0gKHBhcmFtIGlmIEVNT1RJT05TLmluY2x1ZGU/KHBhcmFtKSkgfHwKICAgICAgc2Vzc2lvbls6Z3JhcGhfZW1vdGlvbl0udHJ5KDp0b19zeW0pIHx8IDptb3JhbGUKICAgIHNlc3Npb25bOmdyYXBoX2Vtb3Rpb25dID0gdmFsdWUKICAgIHZhbHVlCg==</text>
+        <text encoding="base64">ICAgIHx8IDptb3JhbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudHJ5IHsgfHN8IHMuZG93bmNhc2UudG9fc3ltIH0K</text>
+        <text encoding="base64">ICAgIHZhbHVlID0gKHBhcmFtIGlmIEVNT1RJT05TLmluY2x1ZGU/KHBhcmFtKSkgfHwKICAgICAgc2Vzc2lvbls6Z3JhcGhfZW1vdGlvbl0udHJ5KDp0b19zeW0pIHx8IDptb3JhbGUKICAgIHNlc3Npb25bOmdyYXBoX2Vtb3Rpb25dID0gdmFsdWUKICAgIHZhbHVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAudHJ5IHsgfHN8IHMuZG93bmNhc2UudG9fc3ltIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
