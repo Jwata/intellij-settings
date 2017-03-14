@@ -848,7 +848,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1489457287766">
+      <file name="/a.regexp" timestamp="1489463973257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -873,12 +873,8 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489462672104">
-        <mark key="'" line="43" column="9" />
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="39" column="47" />
-        <mark key="^" line="39" column="47" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489464213186">
+        <mark key="'" line="28" column="2" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/all_corpuses_update_job_spec.rb" timestamp="1483780093041">
         <mark key="'" line="10" column="45" />
@@ -1000,8 +996,6 @@
       <jump line="1375" column="24" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" />
       <jump line="5" column="1" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="0" column="1" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
-      <jump line="28" column="2" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
-      <jump line="30" column="50" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="31" column="4" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="29" column="20" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/sidekiq_cron.yml" />
@@ -1010,7 +1004,6 @@
       <jump line="24" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="48" column="18" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
-      <jump line="35" column="2" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="46" column="36" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="37" column="2" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="45" column="4" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
@@ -1029,55 +1022,58 @@
       <jump line="39" column="18" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="38" column="18" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="41" column="9" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
+      <jump line="35" column="27" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
+      <jump line="30" column="11" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
+      <jump line="28" column="2" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>docue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uICd0dXJib2xpbmtzOmxvYWQnLCBlbmFibGVQcm9ncmVzc0Jhcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>docue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2N1bWVudFw+</text>
+        <text encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>document.vibe.morales.reloadTimeoutId</text>
+        <text>enableProgressBar</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IAogICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uICd0dXJib2xpbmtzOmxvYWQnLCBlbmFibGVQcm9ncmVzc0Jhcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwoZG9jdW1lbnQudmliZS5tb3JhbGVzLnJlbG9hZFRpbWVvdXRJZCkK</text>
+        <text encoding="base64">ICAgICQoVHVyYm9saW5rcy5jb250cm9sbGVyLmFkYXB0ZXIucHJvZ3Jlc3NCYXIucHJvZ3Jlc3NFbGVtZW50KS5oaWRlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbAo=</text>
+        <text encoding="base64">ICAgICgpIC0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAgICAgJChUdXJib2xpbmtzLmNvbnRyb2xsZXIuYWRhcHRlci5wcm9ncmVzc0Jhci5wcm9ncmVzc0VsZW1lbnQpLnNob3coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1bmxlc3MgcmVsb2FkVGltZW91dElkCgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkb2N1bWVudC52aWJlLm1vcmFsZXMucmVsb2FkVGltZW91dElkCg==</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uICd0dXJib2xpbmtzOmxvYWQnLCAoKSAtPgogICAgICAkKFR1cmJvbGlua3MuY29udHJvbGxlci5hZGFwdGVyLnByb2dyZXNzQmFyLnByb2dyZXNzRWxlbWVudCkuc2hvdygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgcmVsb2FkVGltZW91dElkID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBjbGVhckludGVydmFsKHJlbG9hZFRpbWVvdXRJZCkK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2N1bWVudFw+</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2N1bWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1085,15 +1081,12 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aWR0aFw+</entry>
-        <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
         <entry encoding="base64">XDxncmFwaEVtb3Rpb25cPg==</entry>
         <entry encoding="base64">XDxlbW90aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRSZWZyZXNoR3JhcGhUaW1lclw+</entry>
         <entry encoding="base64">XDxQUk9DRVNTSU5HX1JFRlJFU0hfSU5URVJWQUxcPg==</entry>
         <entry>clear</entry>
         <entry encoding="base64">XDxkYXNoYm9hcmRcPg==</entry>
-        <entry encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</entry>
         <entry>visit</entry>
         <entry>15</entry>
         <entry encoding="base64">XDxmaXJzdFByb2Nlc3NpbmdcPg==</entry>
@@ -1105,6 +1098,9 @@
         <entry encoding="base64">XDxyZWxvYWRQYWdlXD4=</entry>
         <entry encoding="base64">XDxyZWxvYWRUaW1lb3V0SWRcPg==</entry>
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
+        <entry>re</entry>
+        <entry encoding="base64">XDxjbGVhclRpbWVvdXRcPg==</entry>
+        <entry encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
