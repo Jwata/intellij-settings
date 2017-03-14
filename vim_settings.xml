@@ -1038,7 +1038,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</text>
+        <text>insac</text>
       </register>
       <register name="0" type="4">
         <text>enableProgressBar</text>
@@ -1075,9 +1075,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</last-search>
+      <last-search>insac</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</last-pattern>
+      <last-pattern>insac</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1085,7 +1085,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncmFwaEVtb3Rpb25cPg==</entry>
         <entry encoding="base64">XDxlbW90aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRSZWZyZXNoR3JhcGhUaW1lclw+</entry>
         <entry encoding="base64">XDxQUk9DRVNTSU5HX1JFRlJFU0hfSU5URVJWQUxcPg==</entry>
@@ -1105,6 +1104,7 @@
         <entry>re</entry>
         <entry encoding="base64">XDxjbGVhclRpbWVvdXRcPg==</entry>
         <entry encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</entry>
+        <entry>insac</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
