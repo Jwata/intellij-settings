@@ -260,12 +260,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_graph_emotions_selector.html.haml" timestamp="1489376769121">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_graph_emotions_selector.html.haml" timestamp="1489465805194">
         <mark key="'" line="3" column="22" />
-        <mark key="[" line="8" column="88" />
-        <mark key="]" line="8" column="102" />
-        <mark key="." line="8" column="102" />
-        <mark key="^" line="8" column="102" />
+        <mark key="[" line="0" column="89" />
+        <mark key="]" line="0" column="92" />
+        <mark key="." line="0" column="92" />
+        <mark key="^" line="0" column="92" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" timestamp="1484812087545">
         <mark key="'" line="10" column="4" />
@@ -873,8 +873,12 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489464213186">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489465730828">
         <mark key="'" line="28" column="2" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="34" column="20" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/all_corpuses_update_job_spec.rb" timestamp="1483780093041">
         <mark key="'" line="10" column="45" />
@@ -1027,11 +1031,11 @@
       <jump line="28" column="2" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uICd0dXJib2xpbmtzOmxvYWQnLCBlbmFibGVQcm9ncmVzc0Jhcgo=</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZyZXNoR3JhcGhUaW1lb3V0SWRcPg==</text>
