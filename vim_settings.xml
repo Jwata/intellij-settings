@@ -116,8 +116,11 @@
         <mark key="^" line="3" column="51" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1489485990274" />
-      <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1489565089949">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1489567411095">
+        <mark key="'" line="109" column="6" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_request_spec.rb" timestamp="1483679509936">
         <mark key="[" line="8" column="0" />
@@ -629,8 +632,8 @@
       <file name="$USER_HOME$/enJapan/vibe/Gemfile" timestamp="1489564912649">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="165" column="27" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/faker/watson.rb" timestamp="1489562062964">
         <mark key="[" line="17" column="29" />
@@ -893,11 +896,11 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489545090619">
-        <mark key="'" line="42" column="34" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="65" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489566642648">
+        <mark key="'" line="43" column="34" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/all_corpuses_update_job_spec.rb" timestamp="1483780093041">
         <mark key="'" line="10" column="45" />
@@ -946,8 +949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="25" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
-      <jump line="71" column="35" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="72" column="23" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="86" column="32" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="59" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
@@ -1046,55 +1047,57 @@
       <jump line="12" column="33" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="89" column="70" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="109" column="6" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgQ2FweWJhcmE6OlBvbHRlcmdlaXN0OjpEcml2ZXIubmV3KGFwcCwge3dpbmRvd19zaXplOiBbMTYwMCwgMTIwMF0sIGpzX2Vycm9yczogdHJ1ZSwgZGVidWc6IGZhbHNlfSkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>poltergeist</text>
+        <text>, js_errors: true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFwaF9yZXNvbHV0aW9uX21lbnVcPg==</text>
+        <text encoding="base64">XDxEcml2ZXJKU0Vycm9yXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>selenium_chrome</text>
+        <text>safari</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgQ2FweWJhcmE6OlBvbHRlcmdlaXN0OjpEcml2ZXIubmV3KGFwcCwge3dpbmRvd19zaXplOiBbMTYwMCwgMTIwMF0sIGpzX2Vycm9yczogdHJ1ZSwgZGVidWc6IGZhbHNlfSkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHxkYXl8CiAgICB8bW9udGh8Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHxkYXl8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ZHJpdmVyX29wdGlvbnMgPSAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXNvbHV0aW9uX3RleHQgPSAK</text>
+        <text encoding="base64">Q2FweWJhcmEucmVnaXN0ZXJfc2VydmVyIDp3ZWJyaWNrIGRvIHxhcHAsIHBvcnQsIGhvc3R8CiAgcmVxdWlyZSAncmFjay9oYW5kbGVyL3dlYnJpY2snCiAgUmFjazo6SGFuZGxlcjo6V0VCcmljay5ydW4oYXBwLCA6UG9ydCA9PiBwb3J0LCA6SG9zdCA9PiBob3N0LCA6QWNjZXNzTG9nID0+IFtdLCA6TG9nZ2VyID0+IFdFQnJpY2s6OkxvZzo6bmV3KFNURE9VVCkpCmVuZAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdyYXBoX2NvbnRhaW5lci5maW5kCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmVycm9yKCd0ZXN0IHRlc3QnKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CldhdHNvbi5jbGFzc19ldmFsIGRvCiAgZGVmIHNlbGYua2V5d29yZHModGV4dCwgc2VudGltZW50OiBmYWxzZSwgZW1vdGlvbjogZmFsc2UpCiAgICBGYWtlcjo6V2F0c29uLmtleXdvcmRzKG5pbCwgZW1vdGlvbjogdHJ1ZSkKICBlbmQKZW5kCg==</text>
+        <text encoding="base64">ICBDYXB5YmFyYTo6U2VsZW5pdW06OkRyaXZlci5uZXcoYXBwLCA6YnJvd3NlciA9PiA6c2FmYXJpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnMK</text>
+        <text encoding="base64">ICBDYXB5YmFyYTo6U2VsZW5pdW06OkRyaXZlci5uZXcoYXBwLCA6YnJvd3NlciA9PiA6ZmlyZWZveCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFwaF9yZXNvbHV0aW9uX21lbnVcPg==</last-search>
+      <last-search encoding="base64">XDxEcml2ZXJKU0Vycm9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFwaF9yZXNvbHV0aW9uX21lbnVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxEcml2ZXJKU0Vycm9yXD4=</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1102,8 +1105,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPUkRFUkVEX0VNT1RJT05TXD4=</entry>
-        <entry>bigger</entry>
         <entry encoding="base64">XDxoaWRlSW1wYWN0UG9wdXBcPg==</entry>
         <entry>close</entry>
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
@@ -1122,6 +1123,8 @@
         <entry>group</entry>
         <entry>bind</entry>
         <entry encoding="base64">XDxncmFwaF9yZXNvbHV0aW9uX21lbnVcPg==</entry>
+        <entry encoding="base64">XDxzZWxlbml1bV9maXJlZm94XD4=</entry>
+        <entry encoding="base64">XDxEcml2ZXJKU0Vycm9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
