@@ -116,11 +116,11 @@
         <mark key="^" line="3" column="51" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1489485990274" />
-      <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1489567411095">
+      <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1489570210395">
         <mark key="'" line="109" column="6" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+        <mark key="[" line="107" column="30" />
+        <mark key="]" line="107" column="45" />
+        <mark key="." line="107" column="30" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_request_spec.rb" timestamp="1483679509936">
         <mark key="[" line="8" column="0" />
@@ -871,7 +871,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1489561711963">
+      <file name="/a.regexp" timestamp="1489569760594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -896,8 +896,8 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489566642648">
-        <mark key="'" line="43" column="34" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1489569314373">
+        <mark key="'" line="42" column="34" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -1051,44 +1051,44 @@
       <jump line="109" column="6" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>poltergeist</text>
       </register>
       <register name="-" type="4">
-        <text>, js_errors: true</text>
+        <text>poltergeist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEcml2ZXJKU0Vycm9yXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>safari</text>
+        <text>selenium_chrome</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBlcnJvcnMgPSBwYWdlLmRyaXZlci5icm93c2VyLm1hbmFnZS5sb2dzLmdldCg6YnJvd3NlcikKCiAgaWYgZXJyb3JzLnByZXNlbnQ/CiAgICBtZXNzYWdlID0gZXJyb3JzLm1hcCgmOm1lc3NhZ2UpLmpvaW4oIlxuXG4iKQogICAgcmFpc2UgRHJpdmVySlNFcnJvciwgbWVzc2FnZQogIGVuZAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZHJpdmVyX29wdGlvbnMgPSAKCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmVycm9yKCd0ZXN0IHRlc3QnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q2FweWJhcmEucmVnaXN0ZXJfc2VydmVyIDp3ZWJyaWNrIGRvIHxhcHAsIHBvcnQsIGhvc3R8CiAgcmVxdWlyZSAncmFjay9oYW5kbGVyL3dlYnJpY2snCiAgUmFjazo6SGFuZGxlcjo6V0VCcmljay5ydW4oYXBwLCA6UG9ydCA9PiBwb3J0LCA6SG9zdCA9PiBob3N0LCA6QWNjZXNzTG9nID0+IFtdLCA6TG9nZ2VyID0+IFdFQnJpY2s6OkxvZzo6bmV3KFNURE9VVCkpCmVuZAoK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmVycm9yKCd0ZXN0IHRlc3QnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDYXB5YmFyYTo6U2VsZW5pdW06OkRyaXZlci5uZXcoYXBwLCA6YnJvd3NlciA9PiA6c2FmYXJpKQo=</text>
+        <text encoding="base64">ZHJpdmVyX29wdGlvbnMgPSAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDYXB5YmFyYTo6U2VsZW5pdW06OkRyaXZlci5uZXcoYXBwLCA6YnJvd3NlciA9PiA6ZmlyZWZveCkK</text>
+        <text encoding="base64">Q2FweWJhcmEucmVnaXN0ZXJfc2VydmVyIDp3ZWJyaWNrIGRvIHxhcHAsIHBvcnQsIGhvc3R8CiAgcmVxdWlyZSAncmFjay9oYW5kbGVyL3dlYnJpY2snCiAgUmFjazo6SGFuZGxlcjo6V0VCcmljay5ydW4oYXBwLCA6UG9ydCA9PiBwb3J0LCA6SG9zdCA9PiBob3N0LCA6QWNjZXNzTG9nID0+IFtdLCA6TG9nZ2VyID0+IFdFQnJpY2s6OkxvZzo6bmV3KFNURE9VVCkpCmVuZAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
