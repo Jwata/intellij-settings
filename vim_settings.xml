@@ -836,8 +836,8 @@
         <mark key="^" line="53" column="43" />
         <mark key="." line="53" column="23" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1489717109634">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1489740041084">
+        <mark key="'" line="43" column="4" />
         <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/channels/_channels_options_grid.html.haml" timestamp="1489737814336">
@@ -986,7 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="22" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/channel_selector.scss" />
       <jump line="59" column="18" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="85" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="100" column="34" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
@@ -1086,6 +1085,7 @@
       <jump line="113" column="91" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_channels.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="43" column="4" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
