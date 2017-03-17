@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" timestamp="1489719378616">
-        <mark key="'" line="117" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" timestamp="1489720031667">
+        <mark key="'" line="97" column="0" />
         <mark key="[" line="109" column="61" />
         <mark key="]" line="110" column="12" />
         <mark key="^" line="110" column="12" />
@@ -952,18 +952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="66" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
-      <jump line="49" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
-      <jump line="15" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
-      <jump line="11" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
-      <jump line="73" column="9" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
-      <jump line="77" column="9" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
-      <jump line="199" column="9" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="1" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="209" column="39" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="192" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="288" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
-      <jump line="201" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="275" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="28" column="16" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -1051,7 +1039,19 @@
       <jump line="19" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/README.md" />
       <jump line="31" column="29" filename="$USER_HOME$/enJapan/vibe/README.md" />
+      <jump line="89" column="12" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="98" column="43" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="0" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="6" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="10" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="87" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="86" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="65" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="12" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="17" column="32" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="40" column="20" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
       <jump line="116" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="97" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1061,7 +1061,7 @@
         <text>selenium_firefox</text>
       </register>
       <register name="/" type="4">
-        <text>fire</text>
+        <text encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>poltergeist</text>
@@ -1101,9 +1101,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fire</last-search>
+      <last-search encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</last-search>
       <last-offset />
-      <last-pattern>fire</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1111,11 +1111,6 @@
     </search>
     <history>
       <history-search>
-        <entry>close</entry>
-        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
-        <entry>graph</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZF90b3BpY1w+</entry>
-        <entry encoding="base64">c2hvdWxkIA==</entry>
         <entry encoding="base64">XDxDYXB5YmFyYVw+</entry>
         <entry>capybara</entry>
         <entry>click</entry>
@@ -1131,6 +1126,11 @@
         <entry encoding="base64">XDxzZWxlbml1bV9maXJlZm94XD4=</entry>
         <entry encoding="base64">XDxEcml2ZXJKU0Vycm9yXD4=</entry>
         <entry>fire</entry>
+        <entry encoding="base64">XDxjbGlja2VkX2NoYW5uZWxzXD4=</entry>
+        <entry>cap</entry>
+        <entry>selec</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
@@ -1150,8 +1150,8 @@
         <entry>w\</entry>
         <entry>%s/topics/impacts/g</entry>
         <entry>:w</entry>
-        <entry>w:w</entry>
         <entry>Lw</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
