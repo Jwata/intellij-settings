@@ -121,6 +121,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1489734674933">
+        <mark key="'" line="104" column="28" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_request_spec.rb" timestamp="1483679509936">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -293,9 +299,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1489726725741">
-        <mark key="'" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.js.coffee" timestamp="1489475205721">
         <mark key="[" line="2" column="14" />
@@ -646,11 +649,11 @@
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/channels/index.html.haml" timestamp="1489473850292">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="44" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/channels/index.html.haml" timestamp="1489734812412">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_channel_selector.html.haml" timestamp="1489720834974">
         <mark key="'" line="0" column="0" />
@@ -1043,7 +1046,6 @@
       <jump line="89" column="70" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="109" column="6" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
-      <jump line="107" column="44" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="19" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/README.md" />
       <jump line="31" column="29" filename="$USER_HOME$/enJapan/vibe/README.md" />
@@ -1069,10 +1071,11 @@
       <jump line="42" column="17" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="44" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="91" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="107" column="28" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhcnRfdHMgPSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhcnRfdHMgPSA=</text>
@@ -1084,31 +1087,31 @@
         <text>js_script, element.native</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnRfdHMgfHw9IGJlZ2luCiAgICAgICAgc2MgPSBzbGFja19jaGFubmVsCiAgICAgICAgc2NbOmNyZWF0ZWRdLnRyeSgmOnRvX2kpIGlmIHNjLnByZXNlbnQ/CiAgICAgIGVuZAogICAgICByZXR1cm4gdW5sZXNzIHN0YXJ0X3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">aWYgRU5WWydDSSddID09IHRydWUKZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENhcHliYXJhLmN1cnJlbnRfc2Vzc2lvbi5kcml2ZXIuYnJvd3Nlci5leGVjdXRlX3NjcmlwdChqc19zY3JpcHQsIGVsZW1lbnQubmF0aXZlKQo=</text>
+        <text encoding="base64">ICBDYXB5YmFyYTo6U2NyZWVuc2hvdC5zM19jb25maWd1cmF0aW9uID0gewogICAgczNfY2xpZW50X2NyZWRlbnRpYWxzOiB7CiAgICAgIGFjY2Vzc19rZXlfaWQ6IEVOVlsnQVdTX0FDQ0VTU19LRVlfSUQnXSwKICAgICAgc2VjcmV0X2FjY2Vzc19rZXk6IEVOVlsnQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZJ10sCiAgICAgIHJlZ2lvbjogInVzLWVhc3QtMSIKICAgIH0sCiAgICBidWNrZXRfbmFtZTogInZpYmUtY2FweWJhcmEtc2NyZWVuc2hvdHMiCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVubGUgCg==</text>
+        <text encoding="base64">ICAgICAgc3RhcnRfdHMgfHw9IGJlZ2luCiAgICAgICAgc2MgPSBzbGFja19jaGFubmVsCiAgICAgICAgc2NbOmNyZWF0ZWRdLnRyeSgmOnRvX2kpIGlmIHNjLnByZXNlbnQ/CiAgICAgIGVuZAogICAgICByZXR1cm4gdW5sZXNzIHN0YXJ0X3RzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNldHRpbmdzLgogICAgV2F0c29uOjpDbGllbnQubmV3KGNoYW5uZWwpCg==</text>
+        <text encoding="base64">ICAgIENhcHliYXJhLmN1cnJlbnRfc2Vzc2lvbi5kcml2ZXIuYnJvd3Nlci5leGVjdXRlX3NjcmlwdChqc19zY3JpcHQsIGVsZW1lbnQubmF0aXZlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHVubGUgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFdhdHNvbjo6Q2xpZW50ID0gID8gV2F0c29uOjpEdW1teSA6IFdhdHNvbjo6QXBpCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIFNldHRpbmdzLgogICAgV2F0c29uOjpDbGllbnQubmV3KGNoYW5uZWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
