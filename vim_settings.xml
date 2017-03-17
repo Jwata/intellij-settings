@@ -657,6 +657,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_channel_selector.html.haml" timestamp="1489720834974">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/config/environments/development.rb" timestamp="1488761664553">
         <mark key="[" line="27" column="24" />
         <mark key="]" line="27" column="28" />
@@ -874,7 +880,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1489569760594">
+      <file name="/a.regexp" timestamp="1489720615195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -952,7 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="28" column="16" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="44" column="17" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -1052,58 +1057,59 @@
       <jump line="40" column="20" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
       <jump line="116" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
       <jump line="97" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/channels.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/application/_channel_selector.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KkZvciBTYWZhcmkqICAgCmVuYWJsZSB0aGUgYEFsbG93IFJlbW90ZSBBdXRvbWF0aW9uYCBvcHRpb24gaW4gU2FmYXJpJ3MgRGV2ZWxvcCBtZW51LgoKCg==</text>
+      <register name="&quot;" type="4">
+        <text>.try(:downcase)</text>
       </register>
       <register name="-" type="4">
-        <text>selenium_firefox</text>
+        <text>.try(:downcase)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</text>
+        <text>cap</text>
       </register>
       <register name="0" type="4">
         <text>poltergeist</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KkZvciBTYWZhcmkqICAgCmVuYWJsZSB0aGUgYEFsbG93IFJlbW90ZSBBdXRvbWF0aW9uYCBvcHRpb24gaW4gU2FmYXJpJ3MgRGV2ZWxvcCBtZW51LgoKCg==</text>
+        <text encoding="base64">ICAgICAgLmRvd25jYXNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmFrZSBjdWN1bWJlciAjIGRlZmF1bHQgZHJpdmVyIGlzIGFsc28gZmlyZWZveAo=</text>
+        <text encoding="base64">KkZvciBTYWZhcmkqICAgCmVuYWJsZSB0aGUgYEFsbG93IFJlbW90ZSBBdXRvbWF0aW9uYCBvcHRpb24gaW4gU2FmYXJpJ3MgRGV2ZWxvcCBtZW51LgoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgQ2FweWJhcmEuY3VycmVudF9kcml2ZXIubWF0Y2goL3NlbGVuaXVtLykKICBoZWFkbGVzcyA9IEhlYWRsZXNzLm5ldwogIGhlYWRsZXNzLnN0YXJ0CmVuZAoK</text>
+        <text encoding="base64">cmFrZSBjdWN1bWJlciAjIGRlZmF1bHQgZHJpdmVyIGlzIGFsc28gZmlyZWZveAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aWYgQ2FweWJhcmEuY3VycmVudF9kcml2ZXIubWF0Y2goL3NlbGVuaXVtLykKICBoZWFkbGVzcyA9IEhlYWRsZXNzLm5ldwogIGhlYWRsZXNzLnN0YXJ0CmVuZAoK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>-
 -
 -
 -</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LUNhcHliYXJhLmRlZmF1bHRfZHJpdmVyID0gOnBvbHRlcmdlaXN0Ci1DYXB5YmFyYS5qYXZhc2NyaXB0X2RyaXZlciA9IDpwb2x0ZXJnZWlzdAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c2V0dXAtaGVhZGxlc3Mtc2VsZW5pdW0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlcnJvcnMgPSBwYWdlLmRyaXZlci5icm93c2VyLm1hbmFnZS5sb2dzLmdldCg6YnJvd3NlcikKCiAgaWYgZXJyb3JzLnByZXNlbnQ/CiAgICBtZXNzYWdlID0gZXJyb3JzLm1hcCgmOm1lc3NhZ2UpLmpvaW4oIlxuXG4iKQogICAgcmFpc2UgRHJpdmVySlNFcnJvciwgbWVzc2FnZQogIGVuZAo=</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</last-search>
+      <last-search>cap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</last-pattern>
+      <last-pattern>cap</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1127,10 +1133,10 @@
         <entry encoding="base64">XDxEcml2ZXJKU0Vycm9yXD4=</entry>
         <entry>fire</entry>
         <entry encoding="base64">XDxjbGlja2VkX2NoYW5uZWxzXD4=</entry>
-        <entry>cap</entry>
         <entry>selec</entry>
         <entry encoding="base64">XDxlbmRcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</entry>
+        <entry>cap</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
