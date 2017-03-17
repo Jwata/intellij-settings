@@ -121,6 +121,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1489728114463">
+        <mark key="'" line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_request_spec.rb" timestamp="1483679509936">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -690,11 +693,11 @@
         <mark key="." line="18" column="96" />
         <mark key="^" line="18" column="96" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" timestamp="1489727154702">
-        <mark key="'" line="42" column="17" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" timestamp="1489728815534">
+        <mark key="'" line="43" column="6" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/base_controller.rb" timestamp="1488341500004">
         <mark key="'" line="6" column="58" />
@@ -885,7 +888,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1489725973238">
+      <file name="/a.regexp" timestamp="1489727897444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -969,7 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="45" filename="$USER_HOME$/enJapan/vibe/app/views/morale/index/_graph_emotions_selector.html.haml" />
       <jump line="9" column="52" filename="$USER_HOME$/enJapan/vibe/app/views/morale/index/_graph_emotions_selector.html.haml" />
       <jump line="12" column="6" filename="$USER_HOME$/enJapan/vibe/config/locales/emotions.en.yml" />
       <jump line="16" column="6" filename="$USER_HOME$/enJapan/vibe/config/locales/emotions.en.yml" />
@@ -1006,7 +1008,6 @@
       <jump line="86" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="85" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
-      <jump line="91" column="44" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="166" column="0" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
       <jump line="164" column="7" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
       <jump line="165" column="7" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
@@ -1069,10 +1070,12 @@
       <jump line="47" column="9" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="46" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="42" column="17" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
+      <jump line="44" column="6" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
+      <jump line="91" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVubGUgCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1080,35 +1083,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5pc2hlZF9hbGxfYWpheF9yZXF1ZXN0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="0" type="4">
+        <text>js_script, element.native</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVubGUgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIENhcHliYXJhLmN1cnJlbnRfc2Vzc2lvbi5kcml2ZXIuYnJvd3Nlci5leGVjdXRlX3NjcmlwdChqc19zY3JpcHQsIGVsZW1lbnQubmF0aXZlKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNldHRpbmdzLgogICAgV2F0c29uOjpDbGllbnQubmV3KGNoYW5uZWwpCg==</text>
+        <text encoding="base64">ICAgIHVubGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFdhdHNvbjo6Q2xpZW50ID0gID8gV2F0c29uOjpEdW1teSA6IFdhdHNvbjo6QXBpCg==</text>
+        <text encoding="base64">ICAgIFNldHRpbmdzLgogICAgV2F0c29uOjpDbGllbnQubmV3KGNoYW5uZWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGVmIGJ1aWxkX2NsaWVudAoKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgIFdhdHNvbjo6Q2xpZW50ID0gID8gV2F0c29uOjpEdW1teSA6IFdhdHNvbjo6QXBpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCiAgICBlbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVsZWdhdGUgOmVtb3Rpb25zLCA6a2V5d29yZHMsIDpzZW50aW1lbnQsIHRvOiA6Q2xpZW50Cg==</text>
+        <text encoding="base64">CiAgZGVmIGJ1aWxkX2NsaWVudAoKICBlbmQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
