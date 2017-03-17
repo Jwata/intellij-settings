@@ -146,6 +146,11 @@
         <mark key="." line="36" column="2" />
         <mark key="^" line="35" column="16" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/user_spec.rb" timestamp="1489741548441">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/public/assets/application-fa4a7760aa290c07078d5958687a6dc3e8234db914c7aa45c6eb74e00ea92ca5.js" timestamp="1489109236584">
         <mark key="[" line="69741" column="0" />
         <mark key="]" line="69741" column="0" />
@@ -247,6 +252,11 @@
         <mark key="]" line="3" column="66" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/notificationable_spec.rb" timestamp="1489741557393">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/conversations_spec.rb" timestamp="1484013176138">
         <mark key="[" line="5" column="16" />
@@ -556,6 +566,13 @@
         <mark key="]" line="40" column="35" />
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/database.yml" timestamp="1489741265381">
+        <mark key="'" line="59" column="30" />
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="59" column="48" />
+        <mark key="^" line="59" column="48" />
+        <mark key="." line="59" column="48" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/morale_swing_detection_job_spec.rb" timestamp="1484812142654">
         <mark key="'" line="37" column="37" />
@@ -902,7 +919,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1489738515243">
+      <file name="/a.regexp" timestamp="1489741525772">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -986,8 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="18" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
-      <jump line="85" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="100" column="34" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="102" column="37" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" />
@@ -1086,55 +1101,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_channels.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="43" column="4" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/database.yml" />
+      <jump line="59" column="30" filename="$USER_HOME$/enJapan/vibe/config/database.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuZG93bmNhc2UK</text>
+        <text encoding="base64">UlNwZWMuZGVzY3JpYmUgVXNlciwgdHlwZTogOm1vZGVsIGRvCiAgaXRfYmVoYXZlc19saWtlIE5vdGlmaWNhdGlvbmFibGUKZW5kCg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text encoding="base64">XDxURVNUX0VOVl9OVU1CRVJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>js_script, element.native</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuZG93bmNhc2UK</text>
+        <text encoding="base64">UlNwZWMuZGVzY3JpYmUgVXNlciwgdHlwZTogOm1vZGVsIGRvCiAgaXRfYmVoYXZlc19saWtlIE5vdGlmaWNhdGlvbmFibGUKZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC50cnkoOmRvd25jYXNlKQo=</text>
+        <text encoding="base64">UlNwZWMuZGVzY3JpYmUgVXNlciwgdHlwZTogOm1vZGVsIGRvCiAgaXRfYmVoYXZlc19saWtlIE5vdGlmaWNhdGlvbmFibGUKZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aXdwaXRhbGl6ZWQK</text>
+        <text encoding="base64">UlNwZWMuZGVzY3JpYmUgVXNlciwgdHlwZTogOm1vZGVsIGRvCiAgaXRfYmVoYXZlc19saWtlIE5vdGlmaWNhdGlvbmFibGUKZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAubWFwIHsgfGNoYW5uZWx8IGNoYW5uZWwubmFtZS5kb3duY2FzZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuZG93bmNhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50cnkoOmRvd25jYXNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgRU5WWydDSSddID09IHRydWUKZW5kCg==</text>
+        <text encoding="base64">aXdwaXRhbGl6ZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBDYXB5YmFyYTo6U2NyZWVuc2hvdC5zM19jb25maWd1cmF0aW9uID0gewogICAgczNfY2xpZW50X2NyZWRlbnRpYWxzOiB7CiAgICAgIGFjY2Vzc19rZXlfaWQ6IEVOVlsnQVdTX0FDQ0VTU19LRVlfSUQnXSwKICAgICAgc2VjcmV0X2FjY2Vzc19rZXk6IEVOVlsnQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZJ10sCiAgICAgIHJlZ2lvbjogInVzLWVhc3QtMSIKICAgIH0sCiAgICBidWNrZXRfbmFtZTogInZpYmUtY2FweWJhcmEtc2NyZWVuc2hvdHMiCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAubWFwIHsgfGNoYW5uZWx8IGNoYW5uZWwubmFtZS5kb3duY2FzZSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnRfdHMgfHw9IGJlZ2luCiAgICAgICAgc2MgPSBzbGFja19jaGFubmVsCiAgICAgICAgc2NbOmNyZWF0ZWRdLnRyeSgmOnRvX2kpIGlmIHNjLnByZXNlbnQ/CiAgICAgIGVuZAogICAgICByZXR1cm4gdW5sZXNzIHN0YXJ0X3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">aWYgRU5WWydDSSddID09IHRydWUKZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search encoding="base64">XDxURVNUX0VOVl9OVU1CRVJcPg==</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern encoding="base64">XDxURVNUX0VOVl9OVU1CRVJcPg==</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1142,7 +1159,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bin</entry>
         <entry>day</entry>
         <entry>resolution</entry>
         <entry encoding="base64">XDxjdXJyZW50X3Jlc29sdXRpb25cPg==</entry>
@@ -1162,6 +1178,7 @@
         <entry encoding="base64">XDx0cmFja2VkX2NoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsc1w+</entry>
         <entry>name</entry>
+        <entry encoding="base64">XDxURVNUX0VOVl9OVU1CRVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
