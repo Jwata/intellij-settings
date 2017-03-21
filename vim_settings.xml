@@ -466,11 +466,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="44" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" timestamp="1489560067082">
-        <mark key="'" line="46" column="36" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" timestamp="1490075812271">
+        <mark key="'" line="20" column="56" />
+        <mark key="[" line="27" column="84" />
+        <mark key="]" line="27" column="94" />
+        <mark key="." line="27" column="84" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/Gemfile" timestamp="1489564912649">
         <mark key="'" line="0" column="0" />
@@ -659,7 +659,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1490074221121">
+      <file name="/a.regexp" timestamp="1490075778372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -722,8 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="31" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
-      <jump line="55" column="5" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" />
       <jump line="24" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="27" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
       <jump line="78" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
@@ -822,19 +820,21 @@
       <jump line="97" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="82" column="24" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/morale/index/top_half/_emotions_bars.html.haml" />
+      <jump line="3" column="20" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="20" column="56" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBhdmFpbGFibGVfY2hhbm5lbHMsIEBzdWdnZXN0aW9ucyA9IGF2YWlsYWJsZV9jaGFubmVsc19saXN0cy52YWx1ZXNfYXQoOmFsbCwgOnN1Z2dlc3RlZCkK</text>
+      <register name="&quot;" type="4">
+        <text>period</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>period</text>
       </register>
       <register name="/" type="4">
-        <text>tip</text>
+        <text>link</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JCgnI2NoYW5uZWwtc2VsZWN0aW9uLWNvbnRhaW5lcicpLmh0bWwoIiN7ZXNjYXBlX2phdmFzY3JpcHQocmVuZGVyICdjaGFubmVscy9zZWxlY3Rpb24nKX0iKQo=</text>
+      <register name="0" type="4">
+        <text>resolution</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIEBhdmFpbGFibGVfY2hhbm5lbHMsIEBzdWdnZXN0aW9ucyA9IGF2YWlsYWJsZV9jaGFubmVsc19saXN0cy52YWx1ZXNfYXQoOmFsbCwgOnN1Z2dlc3RlZCkK</text>
@@ -868,9 +868,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tip</last-search>
+      <last-search>link</last-search>
       <last-offset />
-      <last-pattern>tip</last-pattern>
+      <last-pattern>link</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -878,7 +878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selec</entry>
         <entry encoding="base64">XDxlbmRcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9jaGFubmVsX25hbWVzXD4=</entry>
         <entry>cap</entry>
@@ -898,6 +897,7 @@
         <entry>why</entry>
         <entry>tool</entry>
         <entry>tip</entry>
+        <entry>link</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
