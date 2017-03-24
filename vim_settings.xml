@@ -377,7 +377,7 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" timestamp="1490250447156">
+      <file name="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" timestamp="1490322698173">
         <mark key="'" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490262331953">
@@ -820,7 +820,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>impact</text>
+        <text>impr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSMlZGl2LnRleHQtY29udGFpbmVyCg==</text>
@@ -857,9 +857,9 @@
       </register>
     </registers>
     <search>
-      <last-search>impact</last-search>
+      <last-search>impr</last-search>
       <last-offset />
-      <last-pattern>impact</last-pattern>
+      <last-pattern>impr</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -867,7 +867,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3BpY3NcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50X3RvcGljXD4=</entry>
         <entry encoding="base64">XDxrZXl3b3JkX2ltcGFjdFw+</entry>
         <entry encoding="base64">XDxpbXBhY3RfdHlwZVw+</entry>
@@ -887,6 +886,7 @@
         <entry>select</entry>
         <entry encoding="base64">XDx0b1w+</entry>
         <entry>impact</entry>
+        <entry>impr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
