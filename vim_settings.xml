@@ -243,12 +243,11 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/show.html.haml" timestamp="1490330993629">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/show.html.haml" timestamp="1490332469700">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="42" column="112" />
-        <mark key="]" line="42" column="129" />
-        <mark key="." line="42" column="129" />
-        <mark key="^" line="42" column="129" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" timestamp="1489392740955">
         <mark key="'" line="1375" column="24" />
@@ -367,8 +366,8 @@
         <mark key="^" line="34" column="37" />
         <mark key="." line="34" column="37" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1489562456378">
-        <mark key="'" line="15" column="6" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1490331853186">
+        <mark key="'" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1490090881742">
         <mark key="'" line="77" column="58" />
@@ -443,6 +442,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/topics_controller.rb" timestamp="1490332523856">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" timestamp="1489546863262">
         <mark key="'" line="18" column="2" />
@@ -658,7 +663,7 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="/a.regexp" timestamp="1490330894459">
+      <file name="/a.regexp" timestamp="1490331854605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -714,9 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="9" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="104" column="18" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="97" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/morale/index/top_half/_emotions_bars.html.haml" />
       <jump line="3" column="20" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
       <jump line="20" column="56" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
@@ -814,55 +816,58 @@
       <jump line="30" column="37" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/admin/teams/show.html.haml" />
       <jump line="0" column="39" filename="$USER_HOME$/enJapan/vibe/app/views/application/_channel_selector.html.haml" />
+      <jump line="34" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="93" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>channel.id</text>
-      </register>
-      <register name="-" type="4">
-        <text>channel.id</text>
-      </register>
-      <register name="/" type="4">
-        <text>all</text>
-      </register>
-      <register name="0" type="4">
-        <text>@team.tracked_channels</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA9bGlua190byAnVGVzdCBub3RpZmljYXRpb24nLCBhZG1pbl90ZWFtX2NoYW5uZWxfdGVzdF9ub3RpZmljYXRpb25fcGF0aCh0ZWFtX2lkOiBAdGVhbS5pZCwgY2hhbm5lbF9pZDogY2hhbm5lbC5pZCksIG1ldGhvZDogOnBvc3QsIGNsYXNzOiAnYnRuIGJ0bi1kYW5nZXInCg==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICA9bGlua190byBjaGFubmVsLmNvbnZlcnNhdGlvbnMuY291bnQsIGFkbWluX3RlYW1fY2hhbm5lbF9jb252ZXJzYXRpb25zX3BhdGgodGVhbV9pZDogQHRlYW0uaWQsIGNoYW5uZWxfaWQ6IGNoYW5uZWwuaWQpCg==</text>
       </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>destroy</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgID1saW5rX3RvIGNoYW5uZWwuY29udmVyc2F0aW9ucy5jb3VudCwgYWRtaW5fdGVhbV9jaGFubmVsX2NvbnZlcnNhdGlvbnNfcGF0aCh0ZWFtX2lkOiBAdGVhbS5pZCwgY2hhbm5lbF9pZDogY2hhbm5lbC5pZCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA9bGlua190byBjaGFubmVsLmNvbnZlcnNhdGlvbnMuY291bnQsIGFkbWluX3RlYW1fY2hhbm5lbF9jb252ZXJzYXRpb25zX3BhdGgodGVhbV9pZDogQHRlYW0uaWQsIGNoYW5uZWxfaWQ6IGNoYW5uZWwuaWQpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA9bGlua190byAnVGVzdCBub3RpZmljYXRpb24nLCBhZG1pbl90ZWFtX2NoYW5uZWxfdGVzdF9ub3RpZmljYXRpb25fcGF0aCh0ZWFtX2lkOiBAdGVhbS5pZCwgY2hhbm5lbF9pZDogY2hhbm5lbC5pZCksIG1ldGhvZDogOnBvc3QsIGNsYXNzOiAnYnRuIGJ0bi1kYW5nZXInCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA9IGNoYW5uZWwuY29udmVyc2F0aW9ucy5wbHVjayg6bWVzc2FnZXMpLmZsYXR0ZW4uY291bnQK</text>
+        <text encoding="base64">ICAgICAgICA9bGlua190byBjaGFubmVsLmNvbnZlcnNhdGlvbnMuY291bnQsIGFkbWluX3RlYW1fY2hhbm5lbF9jb252ZXJzYXRpb25zX3BhdGgodGVhbV9pZDogQHRlYW0uaWQsIGNoYW5uZWxfaWQ6IGNoYW5uZWwuaWQpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA9IGNoYW5uZWwuY29udmVyc2F0aW9ucy5wbHVjayg6bWVzc2FnZXMpLmZsYXR0ZW4uY291bnQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgQWxsIHRyYWNrZWQgY2hhbm5lbHMgPSBjaGFubmVsLm5hbWUK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAlZGl2LnF1b3Rleyd2LWZvcic6ICdpbXBhY3QgaW4gaW1wYWN0cyd9CiAgICAgICAgICB7eyBpbXBhY3QudGl0bGUgfX0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>all</last-search>
+      <last-search>destroy</last-search>
       <last-offset />
-      <last-pattern>all</last-pattern>
+      <last-pattern>destroy</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -870,7 +875,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBhY3RfdHlwZVw+</entry>
         <entry encoding="base64">XDxpbXBhY3RmdWxfY29udmVyc2F0aW9uc1w+</entry>
         <entry encoding="base64">XDxleHRyYWN0X3RvcGljc19mcm9tXD4=</entry>
         <entry>interval</entry>
@@ -890,6 +894,7 @@
         <entry>impr</entry>
         <entry encoding="base64">XDxjb250cmlidXRpb25cPg==</entry>
         <entry>all</entry>
+        <entry>destroy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
