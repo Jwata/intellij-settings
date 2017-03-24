@@ -370,8 +370,8 @@
       <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1490331853186">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1490090881742">
-        <mark key="'" line="77" column="58" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1490339473414">
+        <mark key="'" line="55" column="14" />
         <mark key="[" line="54" column="20" />
         <mark key="]" line="55" column="14" />
         <mark key="." line="55" column="14" />
@@ -446,6 +446,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/topics_controller.rb" timestamp="1490339530058">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+        <mark key="^" line="3" column="58" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/morale_calculations.rb" timestamp="1489546863262">
         <mark key="'" line="18" column="2" />
@@ -717,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
       <jump line="15" column="7" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
       <jump line="49" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
       <jump line="37" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
@@ -817,55 +822,56 @@
       <jump line="61" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="67" column="14" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="52" column="14" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
+      <jump line="55" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>channels</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>channels</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJzYXRpb25zXD4=</text>
+        <text>current_channels</text>
       </register>
       <register name="0" type="4">
         <text>t('channels.select.all_tracked_channels', count: @team.tracked_channels.count)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hhbm5lbHMgPSBDaGFubmVsLmZpbmQoY2hhbm5lbF9pZHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgY29udmVyc2F0aW9ucwogICAgQGNvbnZlcnNhdGlvbnMKICBlbmQKCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlCgogICAgZGVmIGNoYW5uZWxfaWRzCiAgICAgIHBhcmFtc1s6Y2hhbm5lbF9pZF0uc3BsaXQoJywnKQogICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgY29udmVyc2F0aW9ucwogICAgQGNvbnZlcnNhdGlvbnMKICBlbmQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGUK</text>
+        <text encoding="base64">ICBkZWYgY29udmVyc2F0aW9ucwogICAgQGNvbnZlcnNhdGlvbnMKICBlbmQKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICBkZWYgY29udmVyc2F0aW9ucwogICAgQGNvbnZlcnNhdGlvbnMKICBlbmQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJXRkCg==</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ291bnQK</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJXRoIE1lc3NhZ2UgQ291bnQK</text>
+        <text encoding="base64">ICAgICAgJXRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAldGQ9IGNoYW5uZWwuY29udmVyc2F0aW9ucy5wbHVjayg6bWVzc2FnZXMpLmZsYXR0ZW4uY291bnQK</text>
+        <text encoding="base64">ICAgICAgQ291bnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJzYXRpb25zXD4=</last-search>
+      <last-search>current_channels</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJzYXRpb25zXD4=</last-pattern>
+      <last-pattern>current_channels</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -873,7 +879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
         <entry>append</entry>
         <entry encoding="base64">XDxpbXBhY3RzXD4=</entry>
         <entry>select</entry>
@@ -893,6 +898,7 @@
         <entry>count</entry>
         <entry encoding="base64">XDxldmVudF9zdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxjb252ZXJzYXRpb25zXD4=</entry>
+        <entry>current_channels</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
