@@ -106,7 +106,6 @@
         <mark key="^" line="54" column="33" />
         <mark key="." line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1490337215187" />
       <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1490148960277">
         <mark key="'" line="92" column="44" />
         <mark key="[" line="91" column="26" />
@@ -335,8 +334,8 @@
         <mark key="^" line="87" column="68" />
         <mark key="." line="87" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1487582445131">
-        <mark key="'" line="24" column="13" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490427246214">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -396,8 +395,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490262331953">
-        <mark key="'" line="18" column="12" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490426851409">
+        <mark key="'" line="4" column="18" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/eb.yml" timestamp="1487818320405">
         <mark key="'" line="13" column="35" />
@@ -729,10 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
-      <jump line="37" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
-      <jump line="6" column="41" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
-      <jump line="24" column="5" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
       <jump line="12" column="13" filename="$USER_HOME$/enJapan/vibe/features/insights.feature" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" />
       <jump line="85" column="32" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
@@ -829,55 +828,59 @@
       <jump line="52" column="14" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="55" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="12" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/base_controller.rb" />
+      <jump line="3" column="25" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="12" column="19" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="4" column="18" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="1" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>current_channels</text>
+        <text>.quote</text>
       </register>
       <register name="-" type="4">
-        <text>current_channels</text>
+        <text>.quote</text>
       </register>
       <register name="/" type="4">
-        <text>current_channels</text>
+        <text>width</text>
       </register>
-      <register name="0" type="4">
-        <text>param_channels</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJWRpdi5zaW5nbGUtaW1wYWN0LWNvbnRhaW5lcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgJWRpdi50ZXh0LWNvbnRhaW5lcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgJWRpdi5wcmVtaXVtLWNvbnRhaW5lcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2hhbm5lbHMgPSBDaGFubmVsLmZpbmQoY2hhbm5lbF9pZHMpCg==</text>
+        <text encoding="base64">ICAgICAgJWRpdi50ZXh0LWNvbnRhaW5lcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlCgogICAgZGVmIGNoYW5uZWxfaWRzCiAgICAgIHBhcmFtc1s6Y2hhbm5lbF9pZF0uc3BsaXQoJywnKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICVidXR0b24uY2xvc2V7J3Ytb246Y2xpY2snID0+ICdjbG9zZSd9CiAgICAgICVpLm1hdGVyaWFsLWljb25zLmNsb3NlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgY29udmVyc2F0aW9ucwogICAgQGNvbnZlcnNhdGlvbnMKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY29udmVyc2F0aW9ucwogICAgQGNvbnZlcnNhdGlvbnMKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGUK</text>
+        <text encoding="base64">ICAgICAgY2hhbm5lbHMgPSBDaGFubmVsLmZpbmQoY2hhbm5lbF9pZHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlCgogICAgZGVmIGNoYW5uZWxfaWRzCiAgICAgIHBhcmFtc1s6Y2hhbm5lbF9pZF0uc3BsaXQoJywnKQogICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>current_channels</last-search>
+      <last-search>width</last-search>
       <last-offset />
-      <last-pattern>current_channels</last-pattern>
+      <last-pattern>width</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -885,8 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry>append</entry>
-        <entry encoding="base64">XDxpbXBhY3RzXD4=</entry>
         <entry>select</entry>
         <entry encoding="base64">XDx0b1w+</entry>
         <entry>impact</entry>
@@ -905,6 +906,8 @@
         <entry encoding="base64">XDxldmVudF9zdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxjb252ZXJzYXRpb25zXD4=</entry>
         <entry>current_channels</entry>
+        <entry>container</entry>
+        <entry>width</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
