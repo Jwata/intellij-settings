@@ -222,18 +222,17 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" timestamp="1490428629402">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="57" />
-        <mark key="^" line="2" column="57" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" timestamp="1490434658347">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1490431236995">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="28" column="21" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1490434890246">
+        <mark key="'" line="123" column="26" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/onboarding.rb" timestamp="1488356354526">
         <mark key="'" line="1" column="6" />
@@ -334,8 +333,12 @@
         <mark key="^" line="87" column="68" />
         <mark key="." line="87" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490428328378">
-        <mark key="'" line="49" column="6" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490434635579">
+        <mark key="'" line="50" column="6" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+        <mark key="." line="41" column="14" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1486986186792">
         <mark key="'" line="4" column="0" />
@@ -391,10 +394,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490429309360">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="39" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490434361015">
+        <mark key="'" line="18" column="32" />
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="62" />
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/eb.yml" timestamp="1487818320405">
         <mark key="'" line="13" column="35" />
@@ -717,33 +722,15 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1490431196180">
-        <mark key="'" line="90" column="10" />
-        <mark key="[" line="4" column="96" />
-        <mark key="]" line="4" column="96" />
-        <mark key="." line="4" column="96" />
-        <mark key="^" line="4" column="78" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1490434864281">
+        <mark key="'" line="88" column="36" />
+        <mark key="[" line="88" column="36" />
+        <mark key="]" line="88" column="44" />
+        <mark key="." line="88" column="36" />
+        <mark key="^" line="84" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="42" filename="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" />
-      <jump line="45" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" />
-      <jump line="39" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
-      <jump line="9" column="19" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
-      <jump line="28" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
-      <jump line="41" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
-      <jump line="30" column="8" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
-      <jump line="20" column="4" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
-      <jump line="39" column="84" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
-      <jump line="1" column="76" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="11" column="52" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="12" column="36" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="102" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="7" column="12" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="22" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
-      <jump line="69" column="2" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="125" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="26" column="1" filename="$USER_HOME$/enJapan/vibe/features/channels.feature" />
@@ -756,7 +743,6 @@
       <jump line="92" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="51" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="52" column="33" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="78" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="57" column="49" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="166" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
@@ -788,7 +774,6 @@
       <jump line="12" column="14" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/base_controller.rb" />
       <jump line="3" column="25" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="12" column="19" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
-      <jump line="4" column="18" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="1" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
       <jump line="35" column="18" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
       <jump line="49" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
@@ -798,7 +783,6 @@
       <jump line="267" column="2" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="21" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
       <jump line="63" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
-      <jump line="5" column="26" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="27" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="283" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="28" column="17" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
@@ -818,63 +802,84 @@
       <jump line="86" column="12" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="31" column="22" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="81" column="13" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="83" column="34" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="110" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="4" column="68" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="165" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="29" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="95" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="89" column="20" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="90" column="10" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="6" column="18" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="4" column="96" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="52" column="66" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="83" column="16" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="123" column="26" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="1" column="7" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="0" column="8" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="11" column="11" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="10" column="23" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="5" column="30" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="71" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="51" column="17" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="49" column="11" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="19" column="5" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="4" column="45" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="15" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="16" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="18" column="32" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="60" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="65" column="21" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="17" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
+      <jump line="89" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="122" column="43" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="88" column="36" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGFjdHM6IGxhc3QuaW1wYWN0cwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>mlutiple</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBhY3RmdWxfcG9pbnRzXD4=</text>
+        <text encoding="base64">XDxtbHV0aXBsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW1wYWN0czogZC5pbXBhY3RzCg==</text>
+      <register name="0" type="4">
+        <text>multiple</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGFjdHM6IGxhc3QuaW1wYWN0cwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGFjdHM6IGxhc3QuaW1wYWN0cwo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW1wYWN0RGlzcGxheVR5cGU6IGQuaW1wYWN0X2Rpc3BsYXlfdHlwZQo=</text>
+        <text encoding="base64">ICAgICAgb3ZlcmFsbEltcGFjdDogb3ZlcmFsbEltcGFjdAogICAgICBlbW90aW9uYWxJbXBhY3Q6IGVtb3Rpb25hbEltcGFjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgaW1wYWN0X2Rpc3BsYXlfdHlwZQogICAgKGN1cnJlbnRfdGVhbS5wbGFuLmZyZWU/KSA/IDpzaW5nbGUgOiA6bXVsdGlwbGUKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICBwb2ludC5pbXBhY3RfZGlzcGxheV90eXBlID0gaW1wYWN0X2Rpc3BsYXlfdHlwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBhY3RmdWxfcG9pbnRzX2Zvcihmcm9tLCB0bykK</text>
+        <text encoding="base64">ICAgICAgICBwb2ludC5pbXBhY3RfZGlzcGxheV90eXBlID0gaW1wYWN0X2Rpc3BsYXlfdHlwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaW1wYWN0cyA9IGltcGFjdGZ1bF9wb2ludHNfZm9yKGZyb20sIHRvKQo=</text>
+        <text encoding="base64">ICAgICAgbmV4dCBwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2hlbiA6c2luZ2xlCiAgICAgIHdoZW4gOm11bHRpcGxlCg==</text>
+        <text encoding="base64">ICAgICAgaWYgaW1wYWN0cyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcG9pbnQuaW1wYWN0cyA9IGltcGFjdGZ1bF9wb2ludHNfZm9yKGZyb20sIHRvKQo=</text>
+        <text encoding="base64">ICAgICAgcG9pbnQuaW1wYWN0X2Rpc3BsYXlfdHlwZSA9IGltcGFjdF9kaXNwbGF5X3R5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcG9pbnQuaW1wYWN0X2Rpc3BsYXlfdHlwZSA9IGltcGFjdF9kaXNwbGF5X3R5cGUK</text>
+        <text encoding="base64">ICBlbW90aW9ucyA9IHRoaXMuaW1wYWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBhY3RmdWxfcG9pbnRzXD4=</last-search>
+      <last-search encoding="base64">XDxtbHV0aXBsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBhY3RmdWxfcG9pbnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtbHV0aXBsZVw+</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -882,15 +887,6 @@
     </search>
     <history>
       <history-search>
-        <entry>df</entry>
-        <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
-        <entry>messages</entry>
-        <entry>count</entry>
-        <entry encoding="base64">XDxldmVudF9zdHJlYW1cPg==</entry>
-        <entry encoding="base64">XDxjb252ZXJzYXRpb25zXD4=</entry>
-        <entry>current_channels</entry>
-        <entry>container</entry>
-        <entry>width</entry>
         <entry>text</entry>
         <entry encoding="base64">XDxzaG93SW1wYWN0UG9wdXBcPg==</entry>
         <entry encoding="base64">XDxpbXBhY3RQb3B1cFw+</entry>
@@ -902,6 +898,15 @@
         <entry encoding="base64">XDxpbXBhY3RfZGlzcGxheV90eXBlXD4=</entry>
         <entry encoding="base64">XDxhcHBlbmRfaW1wYWN0c190b19ncmFwaF9wb2ludHNcPg==</entry>
         <entry encoding="base64">XDxpbXBhY3RmdWxfcG9pbnRzXD4=</entry>
+        <entry>emotionalImpact</entry>
+        <entry>point</entry>
+        <entry>_for</entry>
+        <entry encoding="base64">XDxpbXBhY3RmdWxfcG9pbnRzX2Zvclw+</entry>
+        <entry encoding="base64">XDxpbXBhY3RcPg==</entry>
+        <entry encoding="base64">XDxvdmVyYWxsSW1wYWN0XD4=</entry>
+        <entry>debug</entry>
+        <entry>multiple</entry>
+        <entry encoding="base64">XDxtbHV0aXBsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1s6Ly4vZw==</entry>
