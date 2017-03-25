@@ -333,12 +333,12 @@
         <mark key="^" line="87" column="68" />
         <mark key="." line="87" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490438464901">
-        <mark key="'" line="57" column="6" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="17" />
-        <mark key="^" line="34" column="1" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490444989902">
+        <mark key="'" line="67" column="6" />
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+        <mark key="^" line="47" column="20" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1486986186792">
         <mark key="'" line="4" column="0" />
@@ -394,12 +394,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490434361015">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="62" />
-        <mark key="." line="5" column="62" />
-        <mark key="^" line="5" column="62" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490445044925">
+        <mark key="'" line="20" column="32" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/eb.yml" timestamp="1487818320405">
         <mark key="'" line="13" column="35" />
@@ -833,44 +833,44 @@
       <jump line="88" column="36" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwogICAgaGVpZ2h0OiAxMDAlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtbHV0aXBsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwogICAgaGVpZ2h0OiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgIGZsZXg6IDE7CiAgICBmbGV4LXdyYXA6IHdyYXA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcmFsbEltcGFjdDogb3ZlcmFsbEltcGFjdAogICAgICBlbW90aW9uYWxJbXBhY3Q6IGVtb3Rpb25hbEltcGFjdAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwb2ludC5pbXBhY3RfZGlzcGxheV90eXBlID0gaW1wYWN0X2Rpc3BsYXlfdHlwZQo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb2ludC5pbXBhY3RfZGlzcGxheV90eXBlID0gaW1wYWN0X2Rpc3BsYXlfdHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbmV4dCBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgaW1wYWN0cyAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcG9pbnQuaW1wYWN0X2Rpc3BsYXlfdHlwZSA9IGltcGFjdF9kaXNwbGF5X3R5cGUK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbW90aW9ucyA9IHRoaXMuaW1wYWN0Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
