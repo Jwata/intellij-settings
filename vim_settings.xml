@@ -344,11 +344,12 @@
         <mark key="^" line="87" column="68" />
         <mark key="." line="87" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490662806543">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="30" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490685558675">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1490532147994">
         <mark key="'" line="4" column="0" />
@@ -404,12 +405,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490662816402">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" timestamp="1490685769643">
         <mark key="'" line="11" column="26" />
         <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="11" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/eb.yml" timestamp="1487818320405">
         <mark key="'" line="13" column="35" />
@@ -738,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="49" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="21" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="22" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
@@ -838,55 +838,56 @@
       <jump line="8" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
       <jump line="53" column="112" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
       <jump line="11" column="26" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
+      <jump line="63" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>fafafa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogODAlOwo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIHBhZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAlcC5tdWx0aXBsZS1jb250YWluZXJfX3RvcF9fdGl0bGUK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEdyb3VwZWQgVG9waWNzIGZvciB0aGlzIHRpbWUgcGVyaW9kCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogJGNvbG9yLWdyZXktbWVkaXVtOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEycHg7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB3aWR0aDogODAlOwo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">KyAgCisgIAorICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAlcC5tdWx0aXBsZS1jb250YWluZXJfX3RvcF9fdGl0bGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIEdyb3VwZWQgVG9waWNzIGZvciB0aGlzIHRpbWUgcGVyaW9kCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb2xvcjogJGNvbG9yLWdyZXktbWVkaXVtOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEycHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIFdvcmthcm91bmQgZm9yIHRoZSBlcnIK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogODAlOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwYWdlLnNhdmVfc2NyZWVuc2hvdCgiYmVmb3JlX2NoZWNraW5nX2N1cnJlbnRfcGVyaW9kLiBwZXJpb2Q6ICN7cGVyaW9kfSIpCg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">KyAgCisgIAorICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>fafafa</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>fafafa</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -894,8 +895,6 @@
     </search>
     <history>
       <history-search>
-        <entry>see</entry>
-        <entry encoding="base64">XDxpbXBhY3RfcG9wdXBcPg==</entry>
         <entry encoding="base64">XDxpbXBhY3RfcG9wdXBfc2VsZWN0b3JcPg==</entry>
         <entry>I click a link inside the popup</entry>
         <entry encoding="base64">XDxmaW5kX3RvcGljX2Zyb21fcG9wdXBcPg==</entry>
@@ -914,6 +913,8 @@
         <entry encoding="base64">XDxzaWRlYmFyXD4=</entry>
         <entry encoding="base64">XDx0aW1lX3BpY2tlcl9idXR0b25cPg==</entry>
         <entry>title</entry>
+        <entry>_item</entry>
+        <entry>fafafa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbOi8uL2c=</entry>
