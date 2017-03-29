@@ -344,13 +344,7 @@
         <mark key="^" line="87" column="68" />
         <mark key="." line="87" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490690349048">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="72" column="22" />
-        <mark key="]" line="72" column="19" />
-        <mark key="." line="72" column="19" />
-        <mark key="^" line="72" column="19" />
-      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" timestamp="1490690349048" />
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/vibe-variables.scss" timestamp="1490532147994">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="8" column="0" />
@@ -636,7 +630,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490596899324">
+      <file name="/Dummy.txt" timestamp="1490748480312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -710,6 +704,9 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" timestamp="1490748551537">
+        <mark key="'" line="51" column="28" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/keywords_spec.rb" timestamp="1487839379033">
         <mark key="'" line="9" column="10" />
         <mark key="[" line="9" column="29" />
@@ -739,9 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
-      <jump line="22" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="4" column="45" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="13" column="48" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="65" column="6" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/morale/impact_popup.coffee" />
@@ -839,6 +833,9 @@
       <jump line="53" column="112" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" />
       <jump line="11" column="26" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
       <jump line="63" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/morale/impact_popup.scss" />
+      <jump line="27" column="23" filename="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" />
+      <jump line="59" column="28" filename="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" />
+      <jump line="51" column="28" filename="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -848,7 +845,7 @@
         <text>ellipsis;</text>
       </register>
       <register name="/" type="4">
-        <text>fafafa</text>
+        <text>users</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
@@ -885,9 +882,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fafafa</last-search>
+      <last-search>users</last-search>
       <last-offset />
-      <last-pattern>fafafa</last-pattern>
+      <last-pattern>users</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -895,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBhY3RfcG9wdXBfc2VsZWN0b3JcPg==</entry>
         <entry>I click a link inside the popup</entry>
         <entry encoding="base64">XDxmaW5kX3RvcGljX2Zyb21fcG9wdXBcPg==</entry>
         <entry encoding="base64">XDxzdGFuZGFyZFw+</entry>
@@ -915,6 +911,7 @@
         <entry>title</entry>
         <entry>_item</entry>
         <entry>fafafa</entry>
+        <entry>users</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbOi8uL2c=</entry>
