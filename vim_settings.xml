@@ -352,6 +352,7 @@
         <mark key="^" line="13" column="69" />
         <mark key="." line="13" column="57" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_left_over_job.rb" timestamp="1490861775927" />
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application/startup.coffee" timestamp="1490766172065">
         <mark key="'" line="22" column="13" />
         <mark key="[" line="50" column="0" />
@@ -433,6 +434,9 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="36" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" timestamp="1490863240454">
+        <mark key="'" line="2369" column="4" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" timestamp="1490853508878">
         <mark key="'" line="5" column="8" />
         <mark key="[" line="7" column="0" />
@@ -482,6 +486,13 @@
         <mark key="]" line="17" column="16" />
         <mark key="." line="17" column="16" />
         <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_job.rb" timestamp="1490863509049">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="40" column="22" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/common_formulas.rb" timestamp="1488861909565">
         <mark key="'" line="0" column="0" />
@@ -598,7 +609,7 @@
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1490851124591">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490853558609">
+      <file name="/Dummy.txt" timestamp="1490863173999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -629,7 +640,7 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/sidekiq_cron.yml" timestamp="1489390250111">
+      <file name="$USER_HOME$/enJapan/vibe/config/sidekiq_cron.yml" timestamp="1490861782278">
         <mark key="'" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/interactors/impactful_conversations.rb" timestamp="1490257486599">
@@ -665,6 +676,11 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="16" column="93" />
         <mark key="^" line="16" column="93" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/base_mailchimp_job.rb" timestamp="1490862835299">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/all_corpuses_update_job_spec.rb" timestamp="1483780093041">
         <mark key="'" line="10" column="45" />
@@ -711,28 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="39" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activesupport-4.2.6/lib/active_support/concern.rb" />
-      <jump line="66" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
-      <jump line="10" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
-      <jump line="127" column="9" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activesupport-4.2.6/lib/active_support/concern.rb" />
-      <jump line="119" column="75" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activesupport-4.2.6/lib/active_support/concern.rb" />
-      <jump line="125" column="69" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activesupport-4.2.6/lib/active_support/concern.rb" />
-      <jump line="110" column="8" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/activesupport-4.2.6/lib/active_support/concern.rb" />
-      <jump line="67" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
-      <jump line="28" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="19" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="21" column="10" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="25" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="26" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="31" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="10" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="15" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="20" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="174" column="10" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/actionview-4.2.6/lib/action_view/helpers/url_helper.rb" />
-      <jump line="16" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
-      <jump line="24" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
-      <jump line="26" column="2" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="51" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
       <jump line="22" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
       <jump line="39" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/override_team.rb" />
@@ -811,55 +805,77 @@
       <jump line="14" column="5" filename="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" />
       <jump line="5" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/channel.rb" />
+      <jump line="7" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_mailchimp_job.rb" />
+      <jump line="0" column="37" filename="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_job.rb" />
+      <jump line="16" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_job.rb" />
+      <jump line="7" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_job.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_job.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="2412" column="0" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="3" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="55" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="155" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="244" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="455" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="463" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="535" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="611" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="619" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="1422" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="1748" column="154" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="1764" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="1865" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="2279" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
+      <jump line="2369" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Client</text>
       </register>
       <register name="-" type="4">
-        <text>period</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
-        <text>resolution</text>
+        <text>api_key</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxmLm1haWNoaW1wX2FwaQogICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgQG1haWNoaW1wX2FwaSA9IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIENoYW5uZWxNb3JhbGVDYWxjdWxhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgQGFwaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAlYS5idG57cm9sZTogJ2J1dHRvbicsICdkYXRhLWdyYXBoLXJlc29sdXRpb24nOiAnd2VlaycsIGhyZWY6IGJ1dHRvbl91cmxbOndlZWtdLCBjbGFzczogcmVzb2x1dGlvbiA9PSA6d2VlayA/ICdhY3RpdmUnIDogJyd9PSB0KCdob21lLmluZGV4LmdyYXBoLnJlc29sdXRpb25zLndlZWsuYnV0dG9uJykKICAlYS5idG57J2RhdGEtZ3JhcGgtcmVzb2x1dGlvbic6ICdtb250aCcsIGhyZWY6IGJ1dHRvbl91cmxbOm1vbnRoXSwgY2xhc3M6IHJlc29sdXRpb24gPT0gOm1vbnRoID8gJ2FjdGl2ZScgOiAnJ309IHQoJ2hvbWUuaW5kZXguZ3JhcGgucmVzb2x1dGlvbnMubW9udGguYnV0dG9uJykK</text>
+        <text encoding="base64">ICAgICAgTWFpbGNoaW1wOjpBUEkubmV3KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2xhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplCgogICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -867,10 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93X2FsZXJ0X2Zvcl9vdmVycmlkaW5nX3RlYW1cPg==</entry>
-        <entry encoding="base64">XDx0aW1lX3RyYXZlbF9mb3JfcmVxdWVzdFw+</entry>
-        <entry encoding="base64">XDxyZXNldF90aW1lY29wX3RpbWVcPg==</entry>
-        <entry>change</entry>
         <entry encoding="base64">XDx0aW1lY29wX3RpbWVcPg==</entry>
         <entry encoding="base64">XDx0cmF2ZWxfdGltZV90b1w+</entry>
         <entry encoding="base64">XDx0cmF2ZWxsaW5nX2F0XD4=</entry>
@@ -887,6 +899,10 @@
         <entry encoding="base64">XDxNT1JBTEVfQ0FMQ1VMQVRJT05fSU5URVJWQUxcPg==</entry>
         <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</entry>
+        <entry>ListInvalidUnsubMemberError</entry>
+        <entry encoding="base64">XDxtYWlsY2hpbXBfYXBpXD4=</entry>
+        <entry>class Api</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbOi8uL2c=</entry>
