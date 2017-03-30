@@ -300,11 +300,11 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/mailchimp.rb" timestamp="1490867267574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/mailchimp.rb" timestamp="1490868183692">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="50" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/team_channel_suggestions.rb" timestamp="1488358854837">
         <mark key="'" line="19" column="39" />
@@ -320,12 +320,12 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/application.yml" timestamp="1490867336195">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/config/application.yml" timestamp="1490868157936">
+        <mark key="'" line="68" column="2" />
+        <mark key="[" line="70" column="2" />
+        <mark key="]" line="70" column="19" />
         <mark key="^" line="61" column="31" />
-        <mark key="." line="43" column="0" />
+        <mark key="." line="70" column="2" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" timestamp="1485136671868">
         <mark key="'" line="82" column="35" />
@@ -597,12 +597,12 @@
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_conversation_spec.rb" timestamp="1487840741954">
         <mark key="'" line="108" column="6" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/initializers/mailchimp_settings.rb" timestamp="1490867332669">
+      <file name="$USER_HOME$/enJapan/vibe/config/initializers/mailchimp_settings.rb" timestamp="1490868167411">
         <mark key="'" line="2" column="21" />
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="37" />
         <mark key="^" line="4" column="6" />
-        <mark key="." line="4" column="6" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/watson_emotions_spec.rb" timestamp="1487827451618">
         <mark key="'" line="47" column="0" />
@@ -621,7 +621,7 @@
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1490851124591">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490867284179">
+      <file name="/Dummy.txt" timestamp="1490868147306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -739,12 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
-      <jump line="5" column="21" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
-      <jump line="19" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
-      <jump line="26" column="13" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
-      <jump line="32" column="21" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
-      <jump line="9" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
       <jump line="25" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/enJapan/vibe/config/routes.rb" />
       <jump line="17" column="22" filename="$USER_HOME$/enJapan/vibe/app/controllers/concerns/time_travel_filters.rb" />
@@ -839,19 +833,25 @@
       <jump line="50" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
       <jump line="70" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
       <jump line="0" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="3" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="21" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="40" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="51" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="58" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="68" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgptb2R1bGUgVmliZQogIGNsYXNzIE1haWxjaGltcAoKICAgICMgU2VlIEFQSSBEb2MKICAgICMgaHR0cDovL3d3dy5ydWJ5ZG9jLmluZm8vZ2Vtcy9tYWlsY2hpbXAtYXBpLzIuMC42L01haWxjaGltcC9MaXN0cyNzdWJzY3JpYmUtaW5zdGFuY2VfbWV0aG9kCiAgICBkZWYgc2VsZi5zdWJzY3JpYmVfdXNlcihsaXN0X3R5cGUsIHVzZXIpCiAgICAgIGxpc3QgPSBjb250YWN0X2xpc3QobGlzdF90eXBlKQogICAgICBpZCA9IGxpc3RbOmlkXQogICAgICBlbWFpbCA9IHsgZW1haWw6IHVzZXIuZW1haWwgfQogICAgICBtZXJnZV92YXJzID0gewogICAgICAgIE5BTUU6IHVzZXIubmFtZSwKICAgICAgICBTVEFUVVM6ICdzaWduZWRfdXAnLAogICAgICAgIENPTVBBTlk6IHVzZXIudGVhbS5uYW1lLAogICAgICAgIFNJR05VUERBVEU6IHVzZXIuY3JlYXRlZF9hdAogICAgICB9CiAgICAgIGVtYWlsX3R5cGUgPSAnaHRtbCcKICAgICAgZG91YmxlX29wdGluID0gZmFsc2UKICAgICAgdXBkYXRlX2V4aXN0aW5nID0gdHJ1ZQogICAgICByZXBsYWNlX2ludGVyZXN0cyA9IGZhbHNlCiAgICAgIHNlbmRfd2VsY29tZSA9IGZhbHNlCiAgICAgIGFwaS5saXN0cy5zdWJzY3JpYmUoaWQsIGVtYWlsLCBtZXJnZV92YXJzLCBlbWFpbF90eXBlLCBkb3VibGVfb3B0aW4sIHVwZGF0ZV9leGlzdGluZywgcmVwbGFjZV9pbnRlcmVzdHMsIHNlbmRfd2VsY29tZSkKICAgICAgdXNlci51cGRhdGVfYXR0cmlidXRlcyBvbl9tYWlsY2hpbXA6IHRydWUKICAgIHJlc2N1ZSBNYWlsY2hpbXA6Okxpc3RBbHJlYWR5U3Vic2NyaWJlZEVycm9yCiAgICAgIFJhaWxzLmxvZ2dlci53YXJuKCIje3VzZXIuZW1haWx9IGlzIGFscmVhZHkgb24gbWFpbGNoaW1wIGxpc3QgI3tsaXN0Lm5hbWV9IikKICAgICAgdXNlci51cGRhdGVfYXR0cmlidXRlcyhvbl9tYWlsY2hpbXA6IHRydWUpCiAgICBlbmQKCiAgICBwcml2YXRlCgogICAgZGVmIHNlbGYuYXBpCiAgICAgIE1haWxjaGltcDo6QVBJLm5ldyhNYWlsY2hpbXBTZXR0aW5nczo6QVBJX0tFWSkKICAgIGVuZAoKICAgIGRlZiBzZWxmLmNvbnRhY3RfbGlzdChsaXN0X3R5cGUpCiAgICAgIE1haWxjaGltcFNldHRpbmdzOjpMSVNUU1tsaXN0X3R5cGVdCiAgICBlbmQKICBlbmQKZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>Settings.MAILCHIMP_API_KEY</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QVBJIERvYzog</text>
+        <text>Mail</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWSUJFX01BSUxDSElNUF9BUElfS0VZXD4=</text>
+        <text encoding="base64">XDxWSUJFX1NMQUNLX0NMSUVOVF9JRFw+</text>
       </register>
       <register name="0" type="4">
-        <text>list_type</text>
+        <text>Settings.MAILCHIMP_API_KEY</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgptb2R1bGUgVmliZQogIGNsYXNzIE1haWxjaGltcAoKICAgICMgU2VlIEFQSSBEb2MKICAgICMgaHR0cDovL3d3dy5ydWJ5ZG9jLmluZm8vZ2Vtcy9tYWlsY2hpbXAtYXBpLzIuMC42L01haWxjaGltcC9MaXN0cyNzdWJzY3JpYmUtaW5zdGFuY2VfbWV0aG9kCiAgICBkZWYgc2VsZi5zdWJzY3JpYmVfdXNlcihsaXN0X3R5cGUsIHVzZXIpCiAgICAgIGxpc3QgPSBjb250YWN0X2xpc3QobGlzdF90eXBlKQogICAgICBpZCA9IGxpc3RbOmlkXQogICAgICBlbWFpbCA9IHsgZW1haWw6IHVzZXIuZW1haWwgfQogICAgICBtZXJnZV92YXJzID0gewogICAgICAgIE5BTUU6IHVzZXIubmFtZSwKICAgICAgICBTVEFUVVM6ICdzaWduZWRfdXAnLAogICAgICAgIENPTVBBTlk6IHVzZXIudGVhbS5uYW1lLAogICAgICAgIFNJR05VUERBVEU6IHVzZXIuY3JlYXRlZF9hdAogICAgICB9CiAgICAgIGVtYWlsX3R5cGUgPSAnaHRtbCcKICAgICAgZG91YmxlX29wdGluID0gZmFsc2UKICAgICAgdXBkYXRlX2V4aXN0aW5nID0gdHJ1ZQogICAgICByZXBsYWNlX2ludGVyZXN0cyA9IGZhbHNlCiAgICAgIHNlbmRfd2VsY29tZSA9IGZhbHNlCiAgICAgIGFwaS5saXN0cy5zdWJzY3JpYmUoaWQsIGVtYWlsLCBtZXJnZV92YXJzLCBlbWFpbF90eXBlLCBkb3VibGVfb3B0aW4sIHVwZGF0ZV9leGlzdGluZywgcmVwbGFjZV9pbnRlcmVzdHMsIHNlbmRfd2VsY29tZSkKICAgICAgdXNlci51cGRhdGVfYXR0cmlidXRlcyBvbl9tYWlsY2hpbXA6IHRydWUKICAgIHJlc2N1ZSBNYWlsY2hpbXA6Okxpc3RBbHJlYWR5U3Vic2NyaWJlZEVycm9yCiAgICAgIFJhaWxzLmxvZ2dlci53YXJuKCIje3VzZXIuZW1haWx9IGlzIGFscmVhZHkgb24gbWFpbGNoaW1wIGxpc3QgI3tsaXN0Lm5hbWV9IikKICAgICAgdXNlci51cGRhdGVfYXR0cmlidXRlcyhvbl9tYWlsY2hpbXA6IHRydWUpCiAgICBlbmQKCiAgICBwcml2YXRlCgogICAgZGVmIHNlbGYuYXBpCiAgICAgIE1haWxjaGltcDo6QVBJLm5ldyhNYWlsY2hpbXBTZXR0aW5nczo6QVBJX0tFWSkKICAgIGVuZAoKICAgIGRlZiBzZWxmLmNvbnRhY3RfbGlzdChsaXN0X3R5cGUpCiAgICAgIE1haWxjaGltcFNldHRpbmdzOjpMSVNUU1tsaXN0X3R5cGVdCiAgICBlbmQKICBlbmQKZW5kCg==</text>
@@ -907,9 +907,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWSUJFX01BSUxDSElNUF9BUElfS0VZXD4=</last-search>
+      <last-search encoding="base64">XDxWSUJFX1NMQUNLX0NMSUVOVF9JRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWSUJFX01BSUxDSElNUF9BUElfS0VZXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxWSUJFX1NMQUNLX0NMSUVOVF9JRFw+</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -917,7 +917,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aW1lX3RyYXZlbFw+</entry>
         <entry encoding="base64">XDxjbGVhcl90aW1lX3RyYXZlbF9saW5rXD4=</entry>
         <entry encoding="base64">XDxmbGFzaF9tZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxlbnN1cmVfb25cPg==</entry>
@@ -937,6 +936,7 @@
         <entry encoding="base64">XDxtZXJnZV92YXJzXD4=</entry>
         <entry>mail</entry>
         <entry encoding="base64">XDxWSUJFX01BSUxDSElNUF9BUElfS0VZXD4=</entry>
+        <entry encoding="base64">XDxWSUJFX1NMQUNLX0NMSUVOVF9JRFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbOi8uL2c=</entry>
