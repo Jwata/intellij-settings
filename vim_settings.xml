@@ -618,8 +618,11 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" timestamp="1490946347273">
+      <file name="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" timestamp="1491018730207">
         <mark key="'" line="5" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/account_spec.rb" timestamp="1483774564359">
         <mark key="'" line="6" column="0" />
@@ -865,8 +868,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>update</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>update</text>
@@ -878,10 +881,10 @@
         <text>conversation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -893,16 +896,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXMudXBkYXRlKGluZGV4OiBpbmRleCwgdHlwZTogdHlwZSwgaWQ6IGMuaWQsIGJvZHk6IGNvbnZlcnNhdGlvbl90b19kb2MoY29udmVyc2F0aW9uKSApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXMgPSBFbGFzdGljc2VhcmNoOjpDbGllbnQubmV3CmluZGV4PSd3YXRzb25fc2NvcmVzJwp0eXBlPScxJwoKCmVzLnVwZGF0ZShpbmRleDogaW5kZXgsIHR5cGU6IHR5cGUsIGlkOiBjLmlkLCBib2R5OiBjb252ZXJzYXRpb25fdG9fZG9jKGNvbnZlcnNhdGlvbikgKQoKCg==</text>
+        <text encoding="base64">ZXMudXBkYXRlKGluZGV4OiBpbmRleCwgdHlwZTogdHlwZSwgaWQ6IGMuaWQsIGJvZHk6IGNvbnZlcnNhdGlvbl90b19kb2MoY29udmVyc2F0aW9uKSApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZG8K</text>
+        <text encoding="base64">ZXMgPSBFbGFzdGljc2VhcmNoOjpDbGllbnQubmV3CmluZGV4PSd3YXRzb25fc2NvcmVzJwp0eXBlPScxJwoKCmVzLnVwZGF0ZShpbmRleDogaW5kZXgsIHR5cGU6IHR5cGUsIGlkOiBjLmlkLCBib2R5OiBjb252ZXJzYXRpb25fdG9fZG9jKGNvbnZlcnNhdGlvbikgKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb3ZlcnNhdGlvbgo=</text>
+        <text encoding="base64">ZG8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
