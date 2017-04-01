@@ -620,7 +620,6 @@
       </file>
       <file name="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" timestamp="1490946347273">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/account_spec.rb" timestamp="1483774564359">
         <mark key="'" line="6" column="0" />
@@ -755,8 +754,8 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1490777927878">
-        <mark key="'" line="11" column="9" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1491017293966">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="6" />
         <mark key="]" line="24" column="28" />
         <mark key="." line="24" column="6" />
@@ -764,7 +763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
       <jump line="2412" column="0" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
       <jump line="3" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
       <jump line="55" column="4" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/mailchimp-api-2.0.6/lib/mailchimp/api.rb" />
@@ -864,6 +862,7 @@
       <jump line="66" column="0" filename="$USER_HOME$/enJapan/vibe/Makefile" />
       <jump line="63" column="16" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
