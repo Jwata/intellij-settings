@@ -325,8 +325,8 @@
         <mark key="^" line="4" column="63" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" timestamp="1490876210019">
-        <mark key="'" line="16" column="60" />
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" timestamp="1491180018304">
+        <mark key="'" line="64" column="6" />
         <mark key="[" line="46" column="7" />
         <mark key="]" line="46" column="40" />
         <mark key="^" line="10" column="22" />
@@ -531,10 +531,9 @@
         <mark key="'" line="161" column="75" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/Gemfile" timestamp="1491043194871">
-        <mark key="'" line="157" column="40" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/Makefile" timestamp="1490942956444">
         <mark key="'" line="66" column="0" />
@@ -770,9 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="5" filename="$USER_HOME$/enJapan/vibe/spec/lib/vibe/mailchimp_spec.rb" />
-      <jump line="10" column="21" filename="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_job.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/mailchimp_signup_job_spec.rb" />
       <jump line="11" column="3" filename="$USER_HOME$/enJapan/vibe/spec/jobs/mailchimp_signup_job_spec.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/mailchimp_signup_job_spec.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/mailchimp_signup_job_spec.rb" />
@@ -870,6 +866,9 @@
       <jump line="17" column="36" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="16" column="46" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="157" column="40" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
+      <jump line="44" column="53" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" />
+      <jump line="11" column="56" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" />
+      <jump line="64" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -879,7 +878,7 @@
         <text>: nil</text>
       </register>
       <register name="/" type="4">
-        <text>points</text>
+        <text encoding="base64">XDxyZXZva2VfdGVhbV90b2tlblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hbmFnZV9wb2ludHNfaW5fdGltZSBmcm9tLCB0bywgcG9pbnRzX2ludGVydmFsLCBwb2ludHMgZG8gfHRpbWV8CiAgICAgIG1vcmFsZSh3aW5kb3dfc2l6ZTogd2luZG93X3NpemUsIHRpbWU6IFRpbWUuem9uZS5hdCh0aW1lKSkKICAgIGVuZAo=</text>
@@ -916,9 +915,9 @@
       </register>
     </registers>
     <search>
-      <last-search>points</last-search>
+      <last-search encoding="base64">XDxyZXZva2VfdGVhbV90b2tlblw+</last-search>
       <last-offset />
-      <last-pattern>points</last-pattern>
+      <last-pattern encoding="base64">XDxyZXZva2VfdGVhbV90b2tlblw+</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -926,7 +925,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>TestRequest</entry>
         <entry>pg</entry>
         <entry>profi</entry>
@@ -946,6 +944,7 @@
         <entry encoding="base64">XDxwb2ludHNcPg==</entry>
         <entry encoding="base64">XDxwb2ludHNfaW50ZXJ2YWxcPg==</entry>
         <entry>points</entry>
+        <entry encoding="base64">XDxyZXZva2VfdGVhbV90b2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
