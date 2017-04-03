@@ -109,9 +109,15 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1491201649055">
+      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1491209196910">
         <mark key="'" line="0" column="0" />
         <mark key="o" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1491208080132">
+        <mark key="'" line="72" column="43" />
+        <mark key="]" line="74" column="26" />
+        <mark key="." line="74" column="26" />
+        <mark key="^" line="74" column="26" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/admin/home.coffee" timestamp="1484536649029">
         <mark key="'" line="2" column="26" />
@@ -201,12 +207,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/controllers/morale_controller_spec.rb" timestamp="1491037227337">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/suggest_channel.rb" timestamp="1485315150504">
         <mark key="'" line="32" column="21" />
@@ -788,16 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="16" column="7" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="87" column="5" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
-      <jump line="26" column="84" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
-      <jump line="157" column="40" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
-      <jump line="44" column="53" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" />
-      <jump line="11" column="56" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" />
-      <jump line="64" column="6" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" />
-      <jump line="63" column="76" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="14" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="86" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="81" column="59" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
       <jump line="33" column="8" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
@@ -888,55 +878,65 @@
       <jump line="45" column="5" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="41" column="74" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="97" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="102" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="99" column="2" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="75" column="43" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="56" column="0" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="74" column="43" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="90" column="35" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="63" column="38" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
+      <jump line="72" column="43" filename="$USER_HOME$/enJapan/vibe/features/support/env.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjaGFubmVsLm1vcmFsZV9jYWxjdWxhdG9yLmNhbGwoZnJvbTogMS5ob3VyLmFnbywgdG86IFRpbWUubm93KQogIGNoYW5uZWwubW9yYWxlX2NhbGN1bGF0b3IuY2FsbChmcm9tOiAxMC5taW51dGVzLmFnbywgdG86IFRpbWUubm93KQoK</text>
+      <register name="&quot;" type="4">
+        <text>refactoring</text>
       </register>
       <register name="-" type="4">
-        <text>hour</text>
+        <text>refactoring</text>
       </register>
       <register name="/" type="4">
-        <text>points</text>
+        <text>port</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjaGFubmVsLm1vcmFsZV9jYWxjdWxhdG9yLmNhbGwoZnJvbTogMS5ob3VyLmFnbywgdG86IFRpbWUubm93KQo=</text>
+      <register name="0" type="4">
+        <text>fetch_conversations_from</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjaGFubmVsLm1vcmFsZV9jYWxjdWxhdG9yLmNhbGwoZnJvbTogMS5ob3VyLmFnbywgdG86IFRpbWUubm93KQogIGNoYW5uZWwubW9yYWxlX2NhbGN1bGF0b3IuY2FsbChmcm9tOiAxMC5taW51dGVzLmFnbywgdG86IFRpbWUubm93KQoK</text>
+        <text encoding="base64">ICAgICAgJiYgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgQHRpbWVkX2V2ZW50cyAmJiBAc2NvcmVkX2V2ZW50cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG1vcmFsZQogICAgZWxzZQogICAgICBNb3JhbGUubmV3KCh0czogdGltZSkpCiAgICBlbmQK</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTW9yYWxlLm5ldyhtb3JhbGUubWVyZ2UodHM6IHRpbWUpKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRlc2lyZWRfY2FwYWJpbGl0aWVzID0+IFNlbGVuaXVtOjpXZWJEcml2ZXI6OlJlbW90ZTo6Q2FwYWJpbGl0aWVzLmNocm9tZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY2hyb21lT3B0aW9ucycgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FyZ3MnID0+IFsgIi0td2luZG93LXNpemU9MTI4MCwxMDI0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLW5vLXNhbmRib3giLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tZGlzYWJsZS1pbXBsLXNpZGUtcGFpbnRpbmciXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbW9yYWxlWzp0c10gPSB0aW1lCg==</text>
+        <text encoding="base64">Q2FweWJhcmE6OlNjcmVlbnNob3QucmVnaXN0ZXJfZHJpdmVyKDpzZWxlbml1bV9maXJlZm94KSBkbyB8ZHJpdmVyLCBwYXRofAogIGRyaXZlci5icm93c2VyLnNhdmVfc2NyZWVuc2hvdChwYXRoKQplbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1vcmFsZS5uZXcocmVzdWx0KQo=</text>
+        <text encoding="base64">ICBjaGFubmVsLm1vcmFsZV9jYWxjdWxhdG9yLmNhbGwoZnJvbTogMS5ob3VyLmFnbywgdG86IFRpbWUubm93KQogIGNoYW5uZWwubW9yYWxlX2NhbGN1bGF0b3IuY2FsbChmcm9tOiAxMC5taW51dGVzLmFnbywgdG86IFRpbWUubm93KQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFs6dHNdID0gdGltZQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>points</last-search>
+      <last-search>port</last-search>
       <last-offset />
-      <last-pattern>points</last-pattern>
+      <last-pattern>port</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -944,10 +944,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</entry>
-        <entry>window</entry>
-        <entry>curr</entry>
-        <entry>currren</entry>
         <entry encoding="base64">XDxjdXJyZW50X2NoYW5uZWxzXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
         <entry>timed_events</entry>
@@ -964,6 +960,10 @@
         <entry encoding="base64">XDxncmFwaF9wZXJpb2RcPg==</entry>
         <entry>time</entry>
         <entry>points</entry>
+        <entry>scree</entry>
+        <entry encoding="base64">XDxwb3J0XD4=</entry>
+        <entry>3030</entry>
+        <entry>port</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
@@ -984,8 +984,8 @@
         <entry>w:w</entry>
         <entry>w]</entry>
         <entry>:w</entry>
-        <entry>Lw</entry>
         <entry>w</entry>
+        <entry>Lw</entry>
       </history-cmd>
       <history-expr />
       <history-input />
