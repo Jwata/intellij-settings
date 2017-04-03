@@ -109,12 +109,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1491198157179">
-        <mark key="'" line="15" column="6" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="36" column="92" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1491201649055">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="o" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/admin/home.coffee" timestamp="1484536649029">
@@ -454,7 +454,7 @@
         <mark key="^" line="59" column="29" />
         <mark key="." line="59" column="29" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" timestamp="1491200492589" />
+      <file name="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" timestamp="1491201163544" />
       <file name="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" timestamp="1486369863352">
         <mark key="'" line="50" column="80" />
         <mark key="[" line="40" column="36" />
@@ -489,7 +489,7 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" timestamp="1491195044181">
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" timestamp="1491201814072">
         <mark key="'" line="4" column="35" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -792,9 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="27" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="29" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="14" column="4" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="16" column="7" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="87" column="5" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
@@ -835,7 +832,6 @@
       <jump line="51" column="77" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="166" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="162" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
-      <jump line="0" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="116" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="97" column="47" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="154" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
@@ -892,6 +888,10 @@
       <jump line="26" column="4" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_morale_calculation_spec.rb" />
       <jump line="22" column="58" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
       <jump line="80" column="24" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="49" column="13" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
+      <jump line="45" column="5" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
+      <jump line="41" column="74" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -901,7 +901,7 @@
         <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>points</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
@@ -938,9 +938,9 @@
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>points</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>points</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -948,7 +948,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aW5kb3dfc2l6ZVw+</entry>
         <entry encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</entry>
         <entry>window</entry>
         <entry>curr</entry>
@@ -968,6 +967,7 @@
         <entry>graph_period</entry>
         <entry encoding="base64">XDxncmFwaF9wZXJpb2RcPg==</entry>
         <entry>time</entry>
+        <entry>points</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
