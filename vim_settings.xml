@@ -109,8 +109,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1491209196910">
+      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1491210058982">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
         <mark key="o" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/features/support/env.rb" timestamp="1491208080132">
@@ -891,10 +895,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refactoring</text>
+        <text>Morale</text>
       </register>
       <register name="-" type="4">
-        <text>refactoring</text>
+        <text>Morale</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -984,8 +988,8 @@
         <entry>w:w</entry>
         <entry>w]</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>Lw</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
