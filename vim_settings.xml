@@ -495,8 +495,8 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" timestamp="1491185886555">
-        <mark key="'" line="5" column="8" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" timestamp="1491192093325">
+        <mark key="'" line="4" column="8" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -686,7 +686,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491185890778">
+      <file name="/Dummy.txt" timestamp="1491192093756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -787,7 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="17" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
       <jump line="102" column="5" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/logs2kibana/logs2kibana.rb" />
       <jump line="9" column="7" filename="$USER_HOME$/enJapan/vibe/logs2kibana/logs2kibana.rb" />
@@ -887,6 +886,7 @@
       <jump line="13" column="27" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="12" column="41" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="20" column="11" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
+      <jump line="4" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -896,7 +896,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZF9pbnB1dF9oYXNoXD4=</text>
+        <text encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</text>
       </register>
       <register name="0" type="4">
         <text>scored_events</text>
@@ -933,9 +933,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZF9pbnB1dF9oYXNoXD4=</last-search>
+      <last-search encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZF9pbnB1dF9oYXNoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -943,7 +943,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">U2NvcGVkIG9yZGVyIGFuZCBsaW1pdCBhcmUgaWdub3JlZCwgaXQncyBmb3JjZWQgdG8gYmUgYmF0Y2ggb3JkZXIgYW5kIGJhdGNoIHNpemUg</entry>
         <entry>bind</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X2NoYW5uZWxzXD4=</entry>
@@ -963,6 +962,7 @@
         <entry>ts</entry>
         <entry>ArgumentError</entry>
         <entry encoding="base64">XDx2YWxpZF9pbnB1dF9oYXNoXD4=</entry>
+        <entry encoding="base64">XDxtb3JhbGVfY2FsY3VsYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
