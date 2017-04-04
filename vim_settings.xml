@@ -244,8 +244,8 @@
         <mark key="." line="18" column="82" />
         <mark key="^" line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1491277754143">
-        <mark key="'" line="120" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1491287148164">
+        <mark key="'" line="68" column="75" />
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="26" />
       </file>
@@ -927,7 +927,6 @@
       <jump line="42" column="197" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="7" column="8" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="47" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="68" column="75" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="120" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="143" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="174" column="24" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
@@ -950,6 +949,7 @@
       <jump line="62" column="21" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
       <jump line="63" column="4" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
       <jump line="119" column="0" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
+      <jump line="68" column="75" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -959,7 +959,7 @@
         <text>profile-memory</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Z2VtICdtZW1vcnlfcHJvZmlsZXInIA==</text>
+        <text>impact</text>
       </register>
       <register name="0" type="4">
         <text>true</text>
@@ -996,9 +996,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Z2VtICdtZW1vcnlfcHJvZmlsZXInIA==</last-search>
+      <last-search>impact</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Z2VtICdtZW1vcnlfcHJvZmlsZXInIA==</last-pattern>
+      <last-pattern>impact</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1006,7 +1006,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncmFwaF93aW5kb3dfc2l6ZVw+</entry>
         <entry encoding="base64">XDxtb3JhbGVfYXRcPg==</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfbW9yYWxlXD4=</entry>
         <entry encoding="base64">XDxncmFwaF9pbnRlcnZhbFw+</entry>
@@ -1026,6 +1025,7 @@
         <entry>TopicsProvider</entry>
         <entry>pro</entry>
         <entry encoding="base64">Z2VtICdtZW1vcnlfcHJvZmlsZXInIA==</entry>
+        <entry>impact</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
