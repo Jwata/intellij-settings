@@ -110,6 +110,11 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" timestamp="1491545075734">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/admin/home.coffee" timestamp="1484536649029">
         <mark key="'" line="2" column="26" />
         <mark key="[" line="8" column="0" />
@@ -568,9 +573,9 @@
       </file>
       <file name="$USER_HOME$/enJapan/vibe/Gemfile" timestamp="1491285714432">
         <mark key="'" line="119" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/sessions_spec.rb" timestamp="1484013380303">
         <mark key="'" line="0" column="0" />
@@ -839,9 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="14" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
-      <jump line="6" column="30" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
-      <jump line="7" column="31" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
       <jump line="3" column="35" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="32" column="5" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="80" column="5" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
@@ -939,55 +941,58 @@
       <jump line="14" column="11" filename="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" />
       <jump line="48" column="11" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
       <jump line="50" column="10" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="23" column="34" filename="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" />
+      <jump line="27" column="17" filename="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" />
+      <jump line="28" column="64" filename="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>channel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgW1sgISAtZCBwZ3N5bmMgXV07dGhlbgogICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYXJzaHNpbmdoL3Bnc3luYy5naXQgJiYgY2QgcGdzeW5jICYmIHJha2UgaW5zdGFsbAogICAgICBmaQo=</text>
       </register>
       <register name="-" type="4">
         <text>channel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</text>
+        <text>pgsync</text>
       </register>
       <register name="0" type="4">
         <text>team</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC5pZCAK</text>
+        <text encoding="base64">ICAgICAgaWYgW1sgISAtZCBwZ3N5bmMgXV07dGhlbgogICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYXJzaHNpbmdoL3Bnc3luYy5naXQgJiYgY2QgcGdzeW5jICYmIHJha2UgaW5zdGFsbAogICAgICBmaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC5pZCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9jWzpudW1fbWVzc2FnZXNdIC8gZG9jWzpudW1fbWVtYmVyc10K</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzb3J0ZWRfbGlzdC5zaXplIC8gMgo=</text>
+        <text encoding="base64">ICAgIG9jWzpudW1fbWVzc2FnZXNdIC8gZG9jWzpudW1fbWVtYmVyc10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICBzb3J0ZWRfbGlzdC5zaXplIC8gMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5zb3J0Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsYXR0ZW4ubWFwIHsgfG18IG0udmFsdWVzX2F0KDp1c2VyKSB9LnVuaXEuc2l6ZQo=</text>
+        <text encoding="base64">ICAgIC5zb3J0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsYXR0ZW4ubWFwIHsgfG18IG0udmFsdWVzX2F0KDp1c2VyKSB9LnVuaXEuc2l6ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDb252ZXJzYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</last-search>
+      <last-search>pgsync</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</last-pattern>
+      <last-pattern>pgsync</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -995,7 +1000,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TopicsProvider</entry>
         <entry>pro</entry>
         <entry encoding="base64">Z2VtICdtZW1vcnlfcHJvZmlsZXInIA==</entry>
         <entry>impact</entry>
@@ -1015,6 +1019,7 @@
         <entry>avg</entry>
         <entry>delete</entry>
         <entry encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</entry>
+        <entry>pgsync</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
