@@ -291,14 +291,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_morale_calculation_spec.rb" timestamp="1491275230548">
-        <mark key="'" line="10" column="73" />
-        <mark key="[" line="10" column="100" />
-        <mark key="]" line="10" column="100" />
-        <mark key="." line="10" column="100" />
-        <mark key="^" line="10" column="100" />
-        <mark key="o" line="16" column="13" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/onboarding.rb" timestamp="1488356354526">
         <mark key="'" line="1" column="6" />
         <mark key="[" line="30" column="31" />
@@ -703,6 +695,7 @@
         <mark key="]" line="25" column="2" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/initializers/30_sidekiq.rb" timestamp="1491542334710" />
       <file name="$USER_HOME$/enJapan/vibe/config/initializers/mailchimp_settings.rb" timestamp="1490870134627">
         <mark key="'" line="5" column="27" />
         <mark key="[" line="24" column="20" />
@@ -723,6 +716,9 @@
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1491542638388">
+        <mark key="'" line="50" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1491470440549">
         <mark key="[" line="0" column="0" />
@@ -758,6 +754,7 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/sidekiq_cron.yml" timestamp="1491542377522" />
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/google_analytics_spec.rb" timestamp="1491275309657">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="0" />
@@ -842,8 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
-      <jump line="13" column="7" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
       <jump line="4" column="14" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
       <jump line="6" column="30" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
       <jump line="7" column="31" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_morale_calculation.rb" />
@@ -942,6 +937,8 @@
       <jump line="30" column="16" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
       <jump line="8" column="23" filename="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" />
       <jump line="14" column="11" filename="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" />
+      <jump line="48" column="11" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="50" column="10" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -951,7 +948,7 @@
         <text>channel</text>
       </register>
       <register name="/" type="4">
-        <text>avg</text>
+        <text encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</text>
       </register>
       <register name="0" type="4">
         <text>team</text>
@@ -988,9 +985,9 @@
       </register>
     </registers>
     <search>
-      <last-search>avg</last-search>
+      <last-search encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</last-search>
       <last-offset />
-      <last-pattern>avg</last-pattern>
+      <last-pattern encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -998,8 +995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flat</entry>
-        <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
         <entry>TopicsProvider</entry>
         <entry>pro</entry>
         <entry encoding="base64">Z2VtICdtZW1vcnlfcHJvZmlsZXInIA==</entry>
@@ -1018,6 +1013,8 @@
         <entry>channel</entry>
         <entry>teams</entry>
         <entry>avg</entry>
+        <entry>delete</entry>
+        <entry encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
