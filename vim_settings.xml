@@ -365,7 +365,6 @@
       <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/actionpack-4.2.6/lib/action_controller/base.rb" timestamp="1491035229495">
         <mark key="'" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/users/settings/index.html.haml" timestamp="1491555429744" />
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_auth.rb" timestamp="1483766154629">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="1" column="11" />
@@ -493,12 +492,11 @@
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="57" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/watson/emotions.rb" timestamp="1491806256412">
+      <file name="$USER_HOME$/enJapan/vibe/lib/watson/emotions.rb" timestamp="1491806696101">
         <mark key="'" line="19" column="10" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="34" column="37" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_common_components.html.haml" timestamp="1486786832924">
         <mark key="'" line="28" column="46" />
@@ -724,7 +722,6 @@
       <file name="$USER_HOME$/enJapan/vibe/app/interactors/impactful_conversations.rb" timestamp="1491804031399">
         <mark key="'" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/lib/watson/emotions_spec.rb" timestamp="1491806016328" />
       <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator/timed_event.rb" timestamp="1491277496170">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="47" />
@@ -909,43 +906,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUKCiAgICBkZWYgbW9zdF9jb25maWRlbnQKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgZmZmZmZmZmZmZmZmZmZmZgogICAgZW5kCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>most</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NpdGl2ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>relevance</text>
+        <text>most_confident_score</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUKCiAgICBkZWYgbW9zdF9jb25maWRlbnQKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgZmZmZmZmZmZmZmZmZmZmZgogICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdG9faC5tYXgK</text>
+        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiBQbGVhc2UgaW1wbGVtZW50IG1lCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdG9fCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbW9zdF8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUKCiAgICBkZWYgbW9zdF9jb25maWRlbnQKICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBwb3NpdGl2ZT8KCiAgICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgdG9faC5tYXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW1vdGlvbnMubWF4Cg==</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPOiBQbGVhc2UgaW1wbGVtZW50IG1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdG9fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDb252ZXJzYXRpb25JbXBhY3QK</text>
+        <text encoding="base64">ICAgICAgbW9zdF8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
