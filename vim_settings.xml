@@ -44,7 +44,6 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/gems/bump-0.5.3/lib/bump.rb" timestamp="1491548796298" />
       <file name="$USER_HOME$/enJapan/vibe/config/routes.rb" timestamp="1490850454180">
         <mark key="'" line="46" column="15" />
         <mark key="[" line="76" column="0" />
@@ -441,6 +440,12 @@
         <mark key="]" line="50" column="111" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1491787385093">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/development/AwesomeProject/index.ios.js" timestamp="1485260776560">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="14" column="31" />
@@ -478,8 +483,8 @@
         <mark key="." line="40" column="35" />
         <mark key="^" line="40" column="35" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/database.yml" timestamp="1490939953336">
-        <mark key="'" line="62" column="30" />
+      <file name="$USER_HOME$/enJapan/vibe/config/database.yml" timestamp="1491787603837">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="12" />
         <mark key="]" line="28" column="27" />
         <mark key="^" line="62" column="48" />
@@ -558,7 +563,6 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/Makefile" timestamp="1491548365946" />
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/sessions_spec.rb" timestamp="1484013380303">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="16" />
@@ -682,7 +686,6 @@
         <mark key="]" line="25" column="2" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/initializers/30_sidekiq.rb" timestamp="1491542334710" />
       <file name="$USER_HOME$/enJapan/vibe/config/initializers/mailchimp_settings.rb" timestamp="1490870134627">
         <mark key="'" line="5" column="27" />
         <mark key="[" line="24" column="20" />
@@ -707,7 +710,7 @@
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1491542638388">
         <mark key="'" line="50" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491470440549">
+      <file name="/Dummy.txt" timestamp="1491787864494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -741,7 +744,6 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/sidekiq_cron.yml" timestamp="1491542377522" />
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/google_analytics_spec.rb" timestamp="1491275309657">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="0" />
@@ -826,13 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="5" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="80" column="5" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="68" column="48" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="67" column="74" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="9" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
-      <jump line="24" column="4" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="17" column="4" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="36" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="112" column="23" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="29" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
@@ -926,55 +921,62 @@
       <jump line="27" column="17" filename="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" />
       <jump line="28" column="64" filename="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/Makefile" />
+      <jump line="3" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
+      <jump line="31" column="28" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
+      <jump line="7" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
+      <jump line="14" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
+      <jump line="110" column="0" filename="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" />
+      <jump line="37" column="11" filename="$USER_HOME$/enJapan/vibe/config/database.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/database.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgW1sgISAtZCBwZ3N5bmMgXV07dGhlbgogICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYXJzaHNpbmdoL3Bnc3luYy5naXQgJiYgY2QgcGdzeW5jICYmIHJha2UgaW5zdGFsbAogICAgICBmaQo=</text>
+        <text encoding="base64">cmVxdWlyZSAnc2xhY2snCgojIFRPRE86IGZpbmQgd2h5IGl0cyBuZWNlc3NhcnkgKG1heWJlIGNoZWNrIGF1dG9sb2FkIGNvbmZpZ3VyYXRpb24pCnJlcXVpcmUgJ3ZpYmUvc2xhY2tfd3JhcHBlcicKcmVxdWlyZSAndmliZS9zbGFja193cmFwcGVyL2Vycm9yJwpyZXF1aXJlICd2aWJlL3NsYWNrX3dyYXBwZXIvY2xpZW50JwoKY2xhc3MgQXBwbGljYXRpb25Db250cm9sbGVyIDwgQWN0aW9uQ29udHJvbGxlcjo6QmFzZQogIGluY2x1ZGUgVGltZVRyYXZlbEZpbHRlcnMK</text>
       </register>
       <register name="-" type="4">
         <text>channel</text>
       </register>
       <register name="/" type="4">
-        <text>hotfix</text>
+        <text encoding="base64">XDxBcHBsaWNhdGlvbkNvbnRyb2xsZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>team</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgW1sgISAtZCBwZ3N5bmMgXV07dGhlbgogICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYXJzaHNpbmdoL3Bnc3luYy5naXQgJiYgY2QgcGdzeW5jICYmIHJha2UgaW5zdGFsbAogICAgICBmaQo=</text>
+        <text encoding="base64">cmVxdWlyZSAnc2xhY2snCgojIFRPRE86IGZpbmQgd2h5IGl0cyBuZWNlc3NhcnkgKG1heWJlIGNoZWNrIGF1dG9sb2FkIGNvbmZpZ3VyYXRpb24pCnJlcXVpcmUgJ3ZpYmUvc2xhY2tfd3JhcHBlcicKcmVxdWlyZSAndmliZS9zbGFja193cmFwcGVyL2Vycm9yJwpyZXF1aXJlICd2aWJlL3NsYWNrX3dyYXBwZXIvY2xpZW50JwoKY2xhc3MgQXBwbGljYXRpb25Db250cm9sbGVyIDwgQWN0aW9uQ29udHJvbGxlcjo6QmFzZQogIGluY2x1ZGUgVGltZVRyYXZlbEZpbHRlcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC5pZCAK</text>
+        <text encoding="base64">ICAgICAgaWYgW1sgISAtZCBwZ3N5bmMgXV07dGhlbgogICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYXJzaHNpbmdoL3Bnc3luYy5naXQgJiYgY2QgcGdzeW5jICYmIHJha2UgaW5zdGFsbAogICAgICBmaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC5pZCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9jWzpudW1fbWVzc2FnZXNdIC8gZG9jWzpudW1fbWVtYmVyc10K</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzb3J0ZWRfbGlzdC5zaXplIC8gMgo=</text>
+        <text encoding="base64">ICAgIG9jWzpudW1fbWVzc2FnZXNdIC8gZG9jWzpudW1fbWVtYmVyc10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICBzb3J0ZWRfbGlzdC5zaXplIC8gMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5zb3J0Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZsYXR0ZW4ubWFwIHsgfG18IG0udmFsdWVzX2F0KDp1c2VyKSB9LnVuaXEuc2l6ZQo=</text>
+        <text encoding="base64">ICAgIC5zb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsYXR0ZW4ubWFwIHsgfG18IG0udmFsdWVzX2F0KDp1c2VyKSB9LnVuaXEuc2l6ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hotfix</last-search>
+      <last-search encoding="base64">XDxBcHBsaWNhdGlvbkNvbnRyb2xsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>hotfix</last-pattern>
+      <last-pattern encoding="base64">XDxBcHBsaWNhdGlvbkNvbnRyb2xsZXJcPg==</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -982,8 +984,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Z2VtICdtZW1vcnlfcHJvZmlsZXInIA==</entry>
-        <entry>impact</entry>
         <entry encoding="base64">XDx0b3BpY3NfcHJvdmlkZXJcPg==</entry>
         <entry>idf</entry>
         <entry encoding="base64">XDxzbGFja19tZXNzYWdlc1w+</entry>
@@ -1002,6 +1002,8 @@
         <entry encoding="base64">XDxUUkFWSVNfQlJBTkNIXD4=</entry>
         <entry>pgsync</entry>
         <entry>hotfix</entry>
+        <entry>class</entry>
+        <entry encoding="base64">XDxBcHBsaWNhdGlvbkNvbnRyb2xsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
@@ -1071,6 +1073,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
