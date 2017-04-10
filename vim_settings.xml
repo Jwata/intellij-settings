@@ -627,11 +627,11 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/impact.rb" timestamp="1491826156167">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="39" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/impact.rb" timestamp="1491827226422">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/rails_helper.rb" timestamp="1485234441204">
         <mark key="'" line="0" column="0" />
@@ -919,10 +919,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY29yZVw+</text>
@@ -931,31 +931,31 @@
         <text>scores</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgdG9faAoKICBlbmQK</text>
+        <text encoding="base64">ICBkZWYgc2VsZi50b19hCiAgICBbOm1vcmFsZSwgKldhdHNvbjo6RW1vdGlub3MudG9fYV0KICBlbmQKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgeyB9Cg==</text>
+        <text encoding="base64">PCBTdHJ1Y3QubmV3KDppbXBvcnRhbmNlLCAqV2F0c29uOjpFbW90aW9ucy50b19hKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgdG9faAoKICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgeyB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAnJwoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC50b19oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbZW1vdGlvbiwgKF0K</text>
+        <text encoding="base64">ICBkZXNjcmliZSAnJwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC50b19oCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
