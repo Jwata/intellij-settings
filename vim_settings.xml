@@ -10,11 +10,11 @@
         <mark key="." line="111" column="68" />
         <mark key="^" line="111" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" timestamp="1491212418561">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="7" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" timestamp="1491828716734">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application.js" timestamp="1488441035075">
         <mark key="'" line="28" column="22" />
@@ -627,11 +627,11 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/impact.rb" timestamp="1491827226422">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/impact.rb" timestamp="1491828683746">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="19" column="5" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/rails_helper.rb" timestamp="1485234441204">
         <mark key="'" line="0" column="0" />
@@ -918,11 +918,11 @@
       <jump line="35" column="13" filename="$USER_HOME$/enJapan/vibe/lib/watson/emotions.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>map</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgSW1wYWN0CiAgZGVmIHNlbGYudG9fYQogICAgV2F0c29uOjpFbW90aW9ucy50b19hIDw8IDptb3JhbGUKICBlbmQKCiAgZGVmIGluaXRpYWxpemUoaW1wb3J0YW5jZSwgZW1vdGlvbnMpCiAgICBAaW1wb3J0YW5jZSA9IGltcG9ydGFuY2UKICAgIEBlbW90aW9ucyA9IGVtb3Rpb25zCiAgZW5kCgogIHNlbGYudG9fYS5lYWNoIGRvIHxlbW90aW9ufAogICAgZGVmaW5lX21ldGhvZChlbW90aW9uKSBkbwogICAgICBAZW1vdGlvbnMuc2VuZChlbW90aW9uKSAqIGltcG9ydGFuY2UKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>Watson::Emotions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY29yZVw+</text>
@@ -931,31 +931,31 @@
         <text>scores</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi50b19hCiAgICBbOm1vcmFsZSwgKldhdHNvbjo6RW1vdGlub3MudG9fYV0KICBlbmQKCg==</text>
+        <text encoding="base64">Y2xhc3MgSW1wYWN0CiAgZGVmIHNlbGYudG9fYQogICAgV2F0c29uOjpFbW90aW9ucy50b19hIDw8IDptb3JhbGUKICBlbmQKCiAgZGVmIGluaXRpYWxpemUoaW1wb3J0YW5jZSwgZW1vdGlvbnMpCiAgICBAaW1wb3J0YW5jZSA9IGltcG9ydGFuY2UKICAgIEBlbW90aW9ucyA9IGVtb3Rpb25zCiAgZW5kCgogIHNlbGYudG9fYS5lYWNoIGRvIHxlbW90aW9ufAogICAgZGVmaW5lX21ldGhvZChlbW90aW9uKSBkbwogICAgICBAZW1vdGlvbnMuc2VuZChlbW90aW9uKSAqIGltcG9ydGFuY2UKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCBTdHJ1Y3QubmV3KDppbXBvcnRhbmNlLCAqV2F0c29uOjpFbW90aW9ucy50b19hKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgdG9faAoKICBlbmQK</text>
+        <text encoding="base64">ICBkZWYgbW9yYWxlCiAgICBlbW90aW9uLCBzY29yZSA9IGVtb3Rpb25zLm1heCAjIHRha2UgdGhlIG1vc3QgY29uZmlkZW50IGVtb3Rpb24KICAgIGlmIHNjb3JlIDwgQ09ORklERU5UX1RIUkVTSE9MRAogICAgICByZXR1cm4gMC4wCiAgICBlbmQKICAgIChXYXRzb246OkVtb3Rpb25zLnBvc2l0aXZlcz8gZW1vdGlvbikgPyBpbXBvcnRhbmNlIDogLTEgKiBpbXBvcnRhbmNlCiAgZW5kCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgeyB9Cg==</text>
+        <text encoding="base64">ICBjbGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgc2VsZi50b19hCiAgICBbOm1vcmFsZSwgKldhdHNvbjo6RW1vdGlub3MudG9fYV0KICBlbmQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PCBTdHJ1Y3QubmV3KDppbXBvcnRhbmNlLCAqV2F0c29uOjpFbW90aW9ucy50b19hKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgdG9faAoKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAnJwoK</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgeyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC50b19oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
