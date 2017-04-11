@@ -89,6 +89,10 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/loading_screen.coffee" timestamp="1491894976173">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="51" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_conversation.rb" timestamp="1491803666838">
         <mark key="'" line="14" column="55" />
         <mark key="[" line="21" column="44" />
@@ -612,6 +616,12 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/initialize.js" timestamp="1491895448890">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_quote.html.haml" timestamp="1487840409200">
         <mark key="'" line="11" column="33" />
         <mark key="[" line="8" column="71" />
@@ -705,7 +715,7 @@
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1491542638388">
         <mark key="'" line="50" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491888846123">
+      <file name="/Dummy.txt" timestamp="1491894969875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -934,43 +944,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgcGFyYW1zX2NoYW5uZWxzCgogIGVuZAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>VD</text>
+        <text>prepareAllScreens</text>
       </register>
       <register name="/" type="4">
         <text>member</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHJvb3RfcGF0aCBpZiBAX2NoYW5uZWxzLmVtcHR5Pwo=</text>
+        <text encoding="base64">JChkb2N1bWVudCkub24oJ3R1cmJvbGlua3M6bG9hZCcsIHByZXBhcmVBbGxTY3JlZW5zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgcGFyYW1zX2NoYW5uZWxzCgogIGVuZAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHJvb3RfcGF0aCBpZiBAX2NoYW5uZWxzLmVtcHR5Pwo=</text>
+        <text encoding="base64">ICAkKGRvY3VtZW50KS5vbigndHVyYm8nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChyZWRpcmVjdF90byBjaGFubmVsc19wYXRoIGFuZCByZXR1cm4pIGlmIGN1cnJlbnRfdGVhbS5jaGFubmVscy5lbXB0eT8KCiAgICBpZiBjdXJyZW50X2NoYW5uZWxzLmVtcHR5PwogICAgICBmbGFzaF9tZXNzYWdlIDplcnJvciwgdCgnY2hhbm5lbHMuc2VsZWN0LmVycm9ycy5ub19jaGFubmVsX2luZm8nKQogICAgICByZWRpcmVjdF90byByb290X3BhdGggYW5kIHJldHVybgogICAgZW5kCgo=</text>
+        <text encoding="base64">ICBkb2MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Ly8gSW5pdGlhbGl6ZSBnbG9iYWwgc3BhY2UgdG8gcHV0IGFwcGxpY2F0aW9uIGZ1bmN0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXJlY3RfdG8gcm9vdF9wYXRoCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgW2N1cnJlbnRfdGVhbS50cmFja2VkX2NoYW5uZWxzLmZpcnN0XSA6IAo=</text>
+        <text encoding="base64">JCgnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHJvb3RfcGF0aAo=</text>
+        <text encoding="base64">ICBkZWYgcGFyYW1zX2NoYW5uZWxzCgogIGVuZAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVGhpcyBzaXR1YXRpb24gY2FuIGhhcHBlbiBpZiBzZXNzaW9uWzpsYXN0X3NlbGVjdGVkX2NoYW5uZWxdIGNvbnRhaW5lZCBvbGQgaWRzCg==</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvIHJvb3RfcGF0aCBpZiBAX2NoYW5uZWxzLmVtcHR5Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBWREBfY2hhbm5lbHMgIyBUaGlzIHNpdHVhdGlvbiBjYW4gaGFwcGVuIGlmIHNlc3Npb25bOmxhc3Rfc2VsZWN0ZWRfY2hhbm5lbF0gY29udGFpbmVkIG9sZCBpZHMK</text>
+        <text encoding="base64">ICAgIChyZWRpcmVjdF90byBjaGFubmVsc19wYXRoIGFuZCByZXR1cm4pIGlmIGN1cnJlbnRfdGVhbS5jaGFubmVscy5lbXB0eT8KCiAgICBpZiBjdXJyZW50X2NoYW5uZWxzLmVtcHR5PwogICAgICBmbGFzaF9tZXNzYWdlIDplcnJvciwgdCgnY2hhbm5lbHMuc2VsZWN0LmVycm9ycy5ub19jaGFubmVsX2luZm8nKQogICAgICByZWRpcmVjdF90byByb290X3BhdGggYW5kIHJldHVybgogICAgZW5kCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
