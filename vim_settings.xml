@@ -142,10 +142,10 @@
       <file name="$USER_HOME$/enJapan/vibe/app/models/topic.rb" timestamp="1491804303591">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" timestamp="1491959261235">
-        <mark key="'" line="37" column="86" />
+      <file name="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" timestamp="1491973496758">
+        <mark key="'" line="17" column="58" />
         <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="21" />
+        <mark key="]" line="35" column="0" />
         <mark key="^" line="10" column="26" />
         <mark key="." line="35" column="0" />
       </file>
@@ -890,17 +890,16 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1491966029558">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1491973474077">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="108" column="37" />
+        <mark key="]" line="108" column="41" />
+        <mark key="." line="108" column="41" />
+        <mark key="^" line="108" column="41" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/actionpack-4.2.7.1/lib/action_controller/test_case.rb" timestamp="1491963295653" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" />
       <jump line="160" column="122" filename="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="17" column="61" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
@@ -948,7 +947,6 @@
       <jump line="87" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/graph_points_generator.rb" />
       <jump line="140" column="6" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/activesupport-4.2.7.1/lib/active_support/core_ext/time/calculations.rb" />
       <jump line="15" column="63" filename="$USER_HOME$/enJapan/vibe/app/interactors/graph_points_generator.rb" />
-      <jump line="22" column="81" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="62" column="6" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="26" column="16" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="48" column="5" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
@@ -1000,55 +998,57 @@
       <jump line="0" column="8" filename="$USER_HOME$/enJapan/vibe/app/interactors/graph_points_generator.rb" />
       <jump line="103" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/graph_points_generator.rb" />
       <jump line="1" column="8" filename="$USER_HOME$/enJapan/vibe/app/interactors/graph_points_generator.rb" />
+      <jump line="22" column="35" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
+      <jump line="17" column="58" filename="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjbGFzcyBHcmFwaFBvaW50IDwgU3RydWN0Lm5ldyg6ZGF0ZSwgOnZhbHVlLCA6bGFiZWwsIDppc05vdywgOmltcGFjdF9kaXNwbGF5X3R5cGUsIDppbXBhY3QsIDppbXBhY3RzKQogICAgZGVmIG1vc3RfcmVwcmVzZW50YXRpdmVfaW1wYWN0KGltcGFjdHMpCiAgICAgIHJldHVybiB1bmxlc3MgaW1wYWN0cy5wcmVzZW50PwogICAgICBpbXBhY3RzCiAgICAgICAgICAuc2VsZWN0IHsgfGltcGFjdHwgaW1wYWN0X2FsaWduZWQ/KGltcGFjdCkgfQogICAgICAgICAgLm1heF9ieSB7IHxpbXBhY3R8IGltcGFjdFs6aW1wYWN0XVs6bW9yYWxlXS50b19mLmFicyB9CiAgICBlbmQKCiAgICBwcml2YXRlCgogICAgZGVmIGltcGFjdF9hbGlnbmVkPyhpbXBhY3QpCiAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgaW1wYWN0LnByZXNlbnQ/ICYmIGltcGFjdFs6aW1wYWN0XS5wcmVzZW50PyAmJiAoaW1wYWN0X21vcmFsZSA9IGltcGFjdFs6aW1wYWN0XVs6bW9yYWxlXSkKICAgICAgdmFsdWUgPiAwLjUgPT0gaW1wYWN0X21vcmFsZSA+IDAKICAgIGVuZAogIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>impacts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHcmFwaFBvaW50XD4=</text>
+        <text>bind</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgR3JhcGhQb2ludCA8IFN0cnVjdC5uZXcoOmRhdGUsIDp2YWx1ZSwgOmxhYmVsLCA6aXNOb3csIDppbXBhY3RfZGlzcGxheV90eXBlLCA6aW1wYWN0LCA6aW1wYWN0cykKICBkZWYgbW9zdF9yZXByZXNlbnRhdGl2ZV9pbXBhY3QoaW1wYWN0cykKICAgIHJldHVybiB1bmxlc3MgaW1wYWN0cy5wcmVzZW50PwogICAgaW1wYWN0cwogICAgICAuc2VsZWN0IHsgfGltcGFjdHwgaW1wYWN0X2FsaWduZWQ/KGltcGFjdCkgfQogICAgICAubWF4X2J5IHsgfGltcGFjdHwgaW1wYWN0WzppbXBhY3RdWzptb3JhbGVdLnRvX2YuYWJzIH0KICBlbmQKCiAgcHJpdmF0ZQoKICBkZWYgaW1wYWN0X2FsaWduZWQ/KGltcGFjdCkKICAgIHJldHVybiBmYWxzZSB1bmxlc3MgaW1wYWN0LnByZXNlbnQ/ICYmIGltcGFjdFs6aW1wYWN0XS5wcmVzZW50PyAmJiAoaW1wYWN0X21vcmFsZSA9IGltcGFjdFs6aW1wYWN0XVs6bW9yYWxlXSkKICAgIHZhbHVlID4gMC41ID09IGltcGFjdF9tb3JhbGUgPiAwCiAgZW5kCmVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGFzcyBHcmFwaFBvaW50IDwgU3RydWN0Lm5ldyg6ZGF0ZSwgOnZhbHVlLCA6bGFiZWwsIDppc05vdywgOmltcGFjdF9kaXNwbGF5X3R5cGUsIDppbXBhY3QsIDppbXBhY3RzKQogICAgZGVmIG1vc3RfcmVwcmVzZW50YXRpdmVfaW1wYWN0KGltcGFjdHMpCiAgICAgIHJldHVybiB1bmxlc3MgaW1wYWN0cy5wcmVzZW50PwogICAgICBpbXBhY3RzCiAgICAgICAgICAuc2VsZWN0IHsgfGltcGFjdHwgaW1wYWN0X2FsaWduZWQ/KGltcGFjdCkgfQogICAgICAgICAgLm1heF9ieSB7IHxpbXBhY3R8IGltcGFjdFs6aW1wYWN0XVs6bW9yYWxlXS50b19mLmFicyB9CiAgICBlbmQKCiAgICBwcml2YXRlCgogICAgZGVmIGltcGFjdF9hbGlnbmVkPyhpbXBhY3QpCiAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgaW1wYWN0LnByZXNlbnQ/ICYmIGltcGFjdFs6aW1wYWN0XS5wcmVzZW50PyAmJiAoaW1wYWN0X21vcmFsZSA9IGltcGFjdFs6aW1wYWN0XVs6bW9yYWxlXSkKICAgICAgdmFsdWUgPiAwLjUgPT0gaW1wYWN0X21vcmFsZSA+IDAKICAgIGVuZAogIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGFzcyBHcmFwaFBvaW50IDwgU3RydWN0Lm5ldyg6ZGF0ZSwgOnZhbHVlLCA6bGFiZWwsIDppc05vdywgOmltcGFjdF9kaXNwbGF5X3R5cGUsIDppbXBhY3QsIDppbXBhY3RzKQogICAgZGVmIG1vc3RfcmVwcmVzZW50YXRpdmVfaW1wYWN0KGltcGFjdHMpCiAgICAgIHJldHVybiB1bmxlc3MgaW1wYWN0cy5wcmVzZW50PwogICAgICBpbXBhY3RzCiAgICAgICAgICAuc2VsZWN0IHsgfGltcGFjdHwgaW1wYWN0X2FsaWduZWQ/KGltcGFjdCkgfQogICAgICAgICAgLm1heF9ieSB7IHxpbXBhY3R8IGltcGFjdFs6aW1wYWN0XVs6bW9yYWxlXS50b19mLmFicyB9CiAgICBlbmQKCiAgICBwcml2YXRlCgogICAgZGVmIGltcGFjdF9hbGlnbmVkPyhpbXBhY3QpCiAgICAgIHJldHVybiBmYWxzZSB1bmxlc3MgaW1wYWN0LnByZXNlbnQ/ICYmIGltcGFjdFs6aW1wYWN0XS5wcmVzZW50PyAmJiAoaW1wYWN0X21vcmFsZSA9IGltcGFjdFs6aW1wYWN0XVs6bW9yYWxlXSkKICAgICAgdmFsdWUgPiAwLjUgPT0gaW1wYWN0X21vcmFsZSA+IDAKICAgIGVuZAogIGVuZAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGFjdHMgPSBpbXBhY3RmdWxfcG9pbnRzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGFjdGZ1bF9wb2ludHMgPSBpbSAK</text>
+        <text encoding="base64">ICAgIGltcGFjdHMgPSBpbXBhY3RmdWxfcG9pbnRzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGltcGFjdGZ1bF9wb2ludHMgPSBpbSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGM6dwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGM6dwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgI1hYWDogVXNlIHRoZSBzYW1lIHZhbHVlcyBhcyBncmFwaF9mcm9tCiAgIyBOZWVkIHRvIGZpeCB0aGUgaW5zaWdodHMgcGVyaW9kcyBmaXJzdC4KICBkZWYgaW1wYWN0X2Zyb20KICAgIEBfaW1wYWN0X2Zyb20gfHw9IHBlcmlvZF9mcm9tX3Jlc29sdXRpb24oY3VycmVudF9ncmFwaF9yZXNvbHV0aW9uKS5hZ28KICBlbmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBfaW1wYWN0ZnVsX3BvaW50cyB8fD0gYmVnaW4KICAgIGVuZAo=</text>
+        <text encoding="base64">CiAgI1hYWDogVXNlIHRoZSBzYW1lIHZhbHVlcyBhcyBncmFwaF9mcm9tCiAgIyBOZWVkIHRvIGZpeCB0aGUgaW5zaWdodHMgcGVyaW9kcyBmaXJzdC4KICBkZWYgaW1wYWN0X2Zyb20KICAgIEBfaW1wYWN0X2Zyb20gfHw9IHBlcmlvZF9mcm9tX3Jlc29sdXRpb24oY3VycmVudF9ncmFwaF9yZXNvbHV0aW9uKS5hZ28KICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHcmFwaFBvaW50XD4=</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHcmFwaFBvaW50XD4=</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace>impacts</last-replace>
       <last-substitute>topics</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,8 +1056,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncmFwaF9mcm9tXD4=</entry>
-        <entry>inter</entry>
         <entry encoding="base64">XDxncmFwaF9wZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxncmFwaF93aW5kb3dfc2l6ZVw+</entry>
         <entry encoding="base64">XDxyZXNvbHV0aW9uXD4=</entry>
@@ -1076,6 +1074,8 @@
         <entry encoding="base64">XDxpbXBhY3RzXD4=</entry>
         <entry encoding="base64">XDxpbXBhY3RfZGlzcGxheV90eXBlXD4=</entry>
         <entry encoding="base64">XDxHcmFwaFBvaW50XD4=</entry>
+        <entry>to_h</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
