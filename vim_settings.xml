@@ -10,11 +10,12 @@
         <mark key="." line="111" column="68" />
         <mark key="^" line="111" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" timestamp="1492063986267">
-        <mark key="'" line="27" column="6" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" timestamp="1492066724153">
+        <mark key="'" line="26" column="6" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application.js" timestamp="1488441035075">
         <mark key="'" line="28" column="22" />
@@ -958,11 +959,11 @@
       <jump line="3" column="9" filename="$USER_HOME$/enJapan/vibe/spec/models/impact_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgbWVzc2FnZXMucHJlc2VudD8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIG1lbWJlcnNfY291bnRfc2NvcmUgKiBtZXNzYWdlc19jb3VudF9zY29yZQ==</text>
       </register>
       <register name="-" type="4">
-        <text>be_a</text>
+        <text encoding="base64">ICAgIG1lbWJlcnNfY291bnRfc2NvcmUgKiBtZXNzYWdlc19jb3VudF9zY29yZQ==</text>
       </register>
       <register name="/" type="4">
         <text>emotion</text>
@@ -980,22 +981,22 @@
         <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgbWVzc2FnZXMucHJlc2VudD8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgaW1wb3J0YW5jZSAmJiBlbW90aW9ucwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgbWVzc2FnZXMucHJlc2VudD8K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgaW1wb3J0YW5jZSAmJiBlbW90aW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG1vcmFsZSA9PSAwLjAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgaW1wb3J0YW5jZSAmJiBlbW90aW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDp1bmtub3duCg==</text>
+        <text encoding="base64">ICAgIGlmIG1vcmFsZSA9PSAwLjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIDp1bmtub3duCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
