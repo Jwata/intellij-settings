@@ -10,11 +10,12 @@
         <mark key="." line="111" column="68" />
         <mark key="^" line="111" column="68" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" timestamp="1492146964413">
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" timestamp="1492148507011">
         <mark key="'" line="66" column="31" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="10" />
+        <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/application.js" timestamp="1488441035075">
         <mark key="'" line="28" column="22" />
@@ -44,11 +45,11 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1492147124513">
+      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1492148336362">
         <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="12" />
+        <mark key="]" line="18" column="30" />
         <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
+        <mark key="." line="18" column="10" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/install_phantomjs.sh" timestamp="1489368073119">
         <mark key="'" line="8" column="15" />
@@ -455,10 +456,11 @@
         <mark key="." line="66" column="5" />
         <mark key="^" line="66" column="5" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1492058409121">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="47" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/channel.rb" timestamp="1492148436964">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/application_controller.rb" timestamp="1491898053794">
         <mark key="'" line="62" column="44" />
@@ -735,6 +737,12 @@
         <mark key="." line="77" column="68" />
         <mark key="^" line="77" column="68" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_conversation_stats_spec.rb" timestamp="1492148333005">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/config/initializers/mailchimp_settings.rb" timestamp="1490870134627">
         <mark key="'" line="5" column="27" />
         <mark key="[" line="24" column="20" />
@@ -987,16 +995,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ConversationStats</text>
+        <text>stats_jsonb</text>
       </register>
       <register name="-" type="4">
-        <text>ConversationStats</text>
+        <text>stats_jsonb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZWFtX3N0YXRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>HasConversationStats</text>
+        <text>team_stats_jsonb</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpbmNsdWRlZCBkbwogIGVuZAoK</text>
@@ -1062,7 +1070,6 @@
         <entry encoding="base64">XDx0ZWFtX3N0YXRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL10vL2c=</entry>
         <entry>%s/latest_history/history/g</entry>
         <entry>%s/keyword/topic/g</entry>
         <entry>we</entry>
@@ -1081,6 +1088,7 @@
         <entry>q</entry>
         <entry>w:w</entry>
         <entry>Lw</entry>
+        <entry>it</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
