@@ -272,12 +272,12 @@
         <mark key="." line="18" column="82" />
         <mark key="^" line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1492388861657">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="53" column="15" />
-        <mark key="]" line="53" column="31" />
-        <mark key="^" line="53" column="31" />
-        <mark key="." line="53" column="31" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1492392608579">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1484550993000">
         <mark key="'" line="22" column="36" />
@@ -876,7 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="40" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="31" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="3" column="22" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/conversation_impact_spec.rb" />
       <jump line="364" column="2" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
@@ -976,19 +975,20 @@
       <jump line="67" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="54" column="21" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
       <jump line="49" column="6" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
+      <jump line="52" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJlcGFyZSA=</text>
+        <text>team</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJlcGFyZSA=</text>
+        <text>team</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXl3b3Jkc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjIHRlYW1faW1wb3J0YW5jZSwgdGVhbV9pbXBhY3QsIHRlYW1fc3RhdHMsIHRlYW1fc3RhdHM9Cg==</text>
+        <text encoding="base64">IyBjb252ZXJzYXRpb24uaW1wYWN0X29uKDp0ZWFtKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgbWVzc2FnZXNfY291bnRfcGVyX3VzZXIKICAgIG1lc3NhZ2VzLmNvdW50LnRvX2YgLyB1c2Vycy5jb3VudAogIGVuZAoK</text>
