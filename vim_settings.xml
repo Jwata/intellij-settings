@@ -38,6 +38,12 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/routes.rb" timestamp="1492488331481">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/install_phantomjs.sh" timestamp="1489368073119">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="9" column="57" />
@@ -734,13 +740,6 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" timestamp="1492487362084">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="24" />
-        <mark key="^" line="57" column="24" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/keywords_spec.rb" timestamp="1487839379033">
         <mark key="'" line="9" column="10" />
         <mark key="[" line="9" column="29" />
@@ -771,7 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" />
       <jump line="74" column="31" filename="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" />
       <jump line="72" column="15" filename="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" />
       <jump line="73" column="43" filename="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" />
@@ -871,55 +869,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="41" column="37" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
       <jump line="130" column="36" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/routes.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keyword_args[:emotions]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>keyword_args[:emotions]</text>
       </register>
       <register name="/" type="4">
-        <text>NOW</text>
+        <text>stag</text>
       </register>
       <register name="0" type="4">
         <text>:importance, :impact, :emotions, :users, :timestamp, :channel, :archive_link</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAga2V5d29yZF9hcmdzID0gYXJncy5jbG9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQGNWZAo=</text>
+        <text encoding="base64">ICAgICAga2V5d29yZF9hcmdzID0gYXJncy5jbG9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3VwZXIoKmtleXdvcmRfYXJncy52YWx1ZXNfYXQoKnNlbGYuY2xhc3MubWVtYmVycykpCg==</text>
+        <text encoding="base64">ICAgICAgQGNWZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJ1Y3QubmV3KCkK</text>
+        <text encoding="base64">ICAgICAgc3VwZXIoKmtleXdvcmRfYXJncy52YWx1ZXNfYXQoKnNlbGYuY2xhc3MubWVtYmVycykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3RydWN0Lm5ldyg6aW1wb3J0YW5jZSwgOmltcGFjdCwgOmVtb3Rpb25zLCA6dXNlcnMsIDp0aW1lc3RhbXAsIDpjaGFubmVsLCA6YXJjaGl2ZV9saW5rKQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJ1Y3QubmV3KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cnVjdC5uZXcoOmltcG9ydGFuY2UsIDppbXBhY3QsIDplbW90aW9ucywgOnVzZXJzLCA6dGltZXN0YW1wLCA6Y2hhbm5lbCwgOmFyY2hpdmVfbGluaykK</text>
+        <text encoding="base64">ICAgICAgU3RydWN0Lm5ldyg6aW1wb3J0YW5jZSwgOmltcGFjdCwgOmVtb3Rpb25zLCA6dXNlcnMsIDp0aW1lc3RhbXAsIDpjaGFubmVsLCA6YXJjaGl2ZV9saW5rKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgQ29udmVyc2F0aW9uU3RhdHMubmV3KEBjaGFubmVscykK</text>
+        <text encoding="base64">ICAgIFN0cnVjdC5uZXcoOmltcG9ydGFuY2UsIDppbXBhY3QsIDplbW90aW9ucywgOnVzZXJzLCA6dGltZXN0YW1wLCA6Y2hhbm5lbCwgOmFyY2hpdmVfbGluaykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbnZlcnNhdGlvblN0YXRzLm5ldyhAY2hhbm5lbHMpCg==</text>
+        <text encoding="base64">CiMgQ29udmVyc2F0aW9uU3RhdHMubmV3KEBjaGFubmVscykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbmNsdWRlZCBkbwogICAgc2VyaWFsaXplIDp0ZWFtX3N0YXRzX2pzb25iLCBWaWJlOjpTZXJpYWxpemVyczo6SnNvbldpdGhJbmRpZmZlcmVudEFjY2VzcwogIGVuZAoK</text>
+        <text encoding="base64">ICAgIENvbnZlcnNhdGlvblN0YXRzLm5ldyhAY2hhbm5lbHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NOW</last-search>
+      <last-search>stag</last-search>
       <last-offset />
-      <last-pattern>NOW</last-pattern>
+      <last-pattern>stag</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -927,7 +926,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZW1vX3RvcGljc1w+</entry>
         <entry encoding="base64">XDx0b3BpY3NcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsX3RvcGljc1w+</entry>
         <entry>new</entry>
@@ -947,6 +945,7 @@
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
         <entry encoding="base64">XDxtZXNzYWdlc19jb3VudF9wZXJfdXNlclw+</entry>
         <entry>NOW</entry>
+        <entry>stag</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
