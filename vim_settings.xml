@@ -253,6 +253,9 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="76" column="9" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" timestamp="1492482303876">
+        <mark key="'" line="41" column="37" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/config/initializers/rack_profiler.rb" timestamp="1491285194447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -459,6 +462,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" timestamp="1492481800779" />
       <file name="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" timestamp="1486369863352">
         <mark key="'" line="50" column="80" />
         <mark key="[" line="40" column="36" />
@@ -767,9 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="62" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/team_conversations.rb" />
-      <jump line="25" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/team_conversations.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/features/insights.feature" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" />
       <jump line="74" column="31" filename="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" />
       <jump line="72" column="15" filename="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" />
@@ -867,6 +868,9 @@
       <jump line="51" column="18" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
       <jump line="53" column="57" filename="$USER_HOME$/enJapan/vibe/app/interactors/topics_provider.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="130" column="36" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
+      <jump line="41" column="37" filename="$USER_HOME$/enJapan/vibe/app/assets/javascripts/home/dashboard_graph.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -876,7 +880,7 @@
         <text>num</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlc19jb3VudF9wZXJfdXNlclw+</text>
+        <text>NOW</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lc3NhZ2VzLmNvdW50LnRvX2YgLyB1c2Vycy5jb3VudAo=</text>
@@ -913,9 +917,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlc19jb3VudF9wZXJfdXNlclw+</last-search>
+      <last-search>NOW</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlc19jb3VudF9wZXJfdXNlclw+</last-pattern>
+      <last-pattern>NOW</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -923,7 +927,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
         <entry encoding="base64">XDxkZW1vX3RvcGljc1w+</entry>
         <entry encoding="base64">XDx0b3BpY3NcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsX3RvcGljc1w+</entry>
@@ -943,6 +946,7 @@
         <entry>stats</entry>
         <entry encoding="base64">XDxjaGFubmVsc1w+</entry>
         <entry encoding="base64">XDxtZXNzYWdlc19jb3VudF9wZXJfdXNlclw+</entry>
+        <entry>NOW</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
