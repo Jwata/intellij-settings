@@ -931,7 +931,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZW1vS2V5d29yZFw+</text>
+        <text>google</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA9cmVuZGVyICdhcHBsaWNhdGlvbi91c2VyX2hlYWRlcl93aWRnZXQnCg==</text>
@@ -968,9 +968,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZW1vS2V5d29yZFw+</last-search>
+      <last-search>google</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZW1vS2V5d29yZFw+</last-pattern>
+      <last-pattern>google</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -978,7 +978,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxLRVlTXD4=</entry>
         <entry encoding="base64">XDxVc2VyQmFubmVyTm90aWZpY2F0aW9uXD4=</entry>
         <entry>morale</entry>
         <entry>label</entry>
@@ -998,6 +997,7 @@
         <entry>importance</entry>
         <entry encoding="base64">XDxlbW90aW9uc1w+</entry>
         <entry encoding="base64">XDxEZW1vS2V5d29yZFw+</entry>
+        <entry>google</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
