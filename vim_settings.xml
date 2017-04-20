@@ -675,6 +675,12 @@
         <mark key="." line="77" column="68" />
         <mark key="^" line="77" column="68" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_corpus.rb" timestamp="1492651716720">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="13" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" timestamp="1492409278431">
         <mark key="'" line="17" column="14" />
         <mark key="[" line="94" column="0" />
@@ -932,12 +938,11 @@
       <jump line="40" column="4" filename="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>.col-md-10
-.col-md-10</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.row</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>bin</text>
