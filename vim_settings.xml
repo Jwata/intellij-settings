@@ -152,6 +152,13 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" timestamp="1492649257983">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
+        <mark key="^" line="42" column="17" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/omniauth_callbacks_spec.rb" timestamp="1492498367677">
         <mark key="'" line="37" column="36" />
         <mark key="[" line="11" column="4" />
@@ -827,8 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="15" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
-      <jump line="74" column="23" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="103" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="100" column="55" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" />
@@ -927,47 +932,50 @@
       <jump line="187" column="6" filename="$USER_HOME$/enJapan/vibe/config/locales/demo.en.yml.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/locales/demo.en.yml.erb" />
       <jump line="17" column="20" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_team.html.haml" />
+      <jump line="1" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" />
+      <jump line="40" column="4" filename="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENvbnZlcnNhdG9uLnRvcGljcyhjaGFubmVscywgZnJvbSwgdG8sIHNvcnQ6IDppbXBvcnRhbmNlKQo=</text>
+      <register name="&quot;" type="8">
+        <text>.col-md-10
+.col-md-10</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>.row</text>
       </register>
       <register name="/" type="4">
         <text>bin</text>
       </register>
       <register name="0" type="4">
-        <text>most_confident</text>
+        <text>.col-md-10</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbnZlcnNhdG9uLnRvcGljcyhjaGFubmVscywgZnJvbSwgdG8sIHNvcnQ6IDppbXBvcnRhbmNlKQo=</text>
+      <register name="1" type="8">
+        <text>.col-md-10
+.col-md-10</text>
       </register>
-      <register name="2" type="8">
-        <text>i</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAlaDMuY29sLW1kLTEwIFZpYmUgVGVhbXMK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="6" type="8">
-        <text>:
-:</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSB1c2VyIAo=</text>
+        <text encoding="base64">ICAlaDQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICV0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIC0gNi50aW1lcyBkbwogICAgICAldGgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
