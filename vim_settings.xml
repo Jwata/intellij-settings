@@ -282,7 +282,7 @@
         <text>View</text>
       </register>
       <register name="/" type="4">
-        <text>vibe_calculator</text>
+        <text>emotis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBiZWZvcmVfc2F2ZTogOnJlbmRlcgo=</text>
@@ -319,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vibe_calculator</last-search>
+      <last-search>emotis</last-search>
       <last-offset />
-      <last-pattern>vibe_calculator</last-pattern>
+      <last-pattern>emotis</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -329,7 +329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bin</entry>
         <entry encoding="base64">XDxFcnJvclw+</entry>
         <entry>missing</entry>
         <entry>scope</entry>
@@ -349,6 +348,7 @@
         <entry encoding="base64">XDxzdG9yZV9kb2N1bWVudFw+</entry>
         <entry encoding="base64">XDx1c2VyX3Byb2ZpbGVzXD4=</entry>
         <entry>vibe_calculator</entry>
+        <entry>emotis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
