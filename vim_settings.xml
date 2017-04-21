@@ -187,11 +187,10 @@
         <mark key="]" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1492661254032">
-        <mark key="'" line="51" column="10" />
-        <mark key="[" line="53" column="229" />
-        <mark key="]" line="53" column="229" />
-        <mark key="." line="53" column="229" />
-        <mark key="^" line="53" column="69" />
+        <mark key="[" line="55" column="229" />
+        <mark key="]" line="55" column="229" />
+        <mark key="." line="55" column="229" />
+        <mark key="^" line="55" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1492587970126">
         <mark key="[" line="0" column="0" />
@@ -313,7 +312,7 @@
         <text encoding="base64">ZXM6IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyX3Byb2ZpbGVzXD4=</text>
+        <text>vibe_calculator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwcGVuZF91c2VyX3Byb2ZpbGUoc2xhY2tfY2hhbm5lbC5zbGljZSgqY2hhbm5lbF9hdHRycyksIHVzZXJfcHJvZmlsZXMpCg==</text>
@@ -350,9 +349,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyX3Byb2ZpbGVzXD4=</last-search>
+      <last-search>vibe_calculator</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyX3Byb2ZpbGVzXD4=</last-pattern>
+      <last-pattern>vibe_calculator</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -360,7 +359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>impact</entry>
         <entry>bin</entry>
         <entry encoding="base64">XDxFcnJvclw+</entry>
         <entry>missing</entry>
@@ -380,6 +378,7 @@
         <entry encoding="base64">XDxjaGFubmVsX2F0dHJzXD4=</entry>
         <entry encoding="base64">XDxzdG9yZV9kb2N1bWVudFw+</entry>
         <entry encoding="base64">XDx1c2VyX3Byb2ZpbGVzXD4=</entry>
+        <entry>vibe_calculator</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
