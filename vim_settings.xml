@@ -41,12 +41,6 @@
       <file name="$USER_HOME$/enJapan/vibe/config/routes.rb" timestamp="1492490899076">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1493084060780">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="26" column="14" />
-        <mark key="." line="26" column="14" />
-        <mark key="^" line="26" column="14" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/install_phantomjs.sh" timestamp="1489368073119">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="9" column="57" />
@@ -372,10 +366,10 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/team_channel_suggestions.rb" timestamp="1492584707113">
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/team_channel_suggestions.rb" timestamp="1493085805454">
         <mark key="'" line="0" column="26" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="59" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="88" />
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
@@ -824,6 +818,12 @@
         <mark key="." line="104" column="147" />
         <mark key="^" line="104" column="147" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/team_channel_stats.rb" timestamp="1493085814767">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="10" column="11" filename="$USER_HOME$/enJapan/vibe/app/models/user_banner_notification.rb" />
@@ -928,44 +928,44 @@
       <jump line="69" column="5" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNsYWNrX2lkID09IFNldHRpbmdzLmFpcl9nbG9iYWxfdGVhbV9pZAogIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>slack_channels_list_activity</text>
       </register>
       <register name="-" type="4">
-        <text>icon_trending(@topic.latest_history[:impact][:type]</text>
+        <text>slack_channels_list_activity</text>
       </register>
       <register name="/" type="4">
         <text>setting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiZWZvcmVfc2F2ZTogOnJlbmRlcgo=</text>
+        <text encoding="base64">ICAgIHNlcmlhbGl6ZSA6c2xhY2tfY2hhbm5lbHNfbGlzdF9hY3Rpdml0eSwgVmliZTo6U2VyaWFsaXplcnM6Okpzb25XaXRoSW5kaWZmZXJlbnRBY2Nlc3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNsYWNrX2lkID09IFNldHRpbmdzLmFpcl9nbG9iYWxfdGVhbV9pZAogIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVGVhbSA8IEFjdGl2ZVJlY29yZDo6QmFzZQogIGJlbG9uZ3NfdG8gOnBsYW4K</text>
+        <text encoding="base64">ICAgIGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPSApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBleHRlbmQgQWN0aXZlU3VwcG9ydDo6Q29uY2Vybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgak8K</text>
+        <text encoding="base64">ICAgIHNsYWNrX2lkID09IFNldHRpbmdzLmFpcl9nbG9iYWxfdGVhbV9pZAogIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgcmVuZGVyCiAgZW5kCg==</text>
+        <text encoding="base64">Y2xhc3MgVGVhbSA8IEFjdGl2ZVJlY29yZDo6QmFzZQogIGJlbG9uZ3NfdG8gOnBsYW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgPSApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgcmVwb3J0ID0gdGVhbS5yZXBvcnRzLmNyZWF0ZQojIHJlcG9ydC5nZW5lcmF0ZQojIHJlcG9ydC5zYXZlCgoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJhaWwucm9vdC4K</text>
+        <text encoding="base64">CiAgak8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
