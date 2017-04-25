@@ -41,6 +41,12 @@
       <file name="$USER_HOME$/enJapan/vibe/config/routes.rb" timestamp="1492490899076">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1493084060780">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/install_phantomjs.sh" timestamp="1489368073119">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="9" column="57" />
@@ -48,8 +54,8 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1492499365862">
-        <mark key="'" line="25" column="4" />
+      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1493084046978">
+        <mark key="'" line="97" column="57" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -532,6 +538,9 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="44" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/Gemfile" timestamp="1493084488831">
+        <mark key="'" line="69" column="5" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/sessions_spec.rb" timestamp="1484013380303">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="16" />
@@ -817,9 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="13" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_banner_notification.rb" />
-      <jump line="6" column="14" filename="$USER_HOME$/enJapan/vibe/spec/requests/banner_notifications_request_spec.rb" />
       <jump line="10" column="11" filename="$USER_HOME$/enJapan/vibe/app/models/user_banner_notification.rb" />
       <jump line="3" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/user_banner_notification.rb" />
       <jump line="7" column="10" filename="$USER_HOME$/enJapan/vibe/spec/requests/banner_notifications_request_spec.rb" />
@@ -917,55 +923,58 @@
       <jump line="16" column="67" filename="$USER_HOME$/enJapan/vibe/db2kibana/import_slack_team_stats.rb" />
       <jump line="28" column="39" filename="$USER_HOME$/enJapan/vibe/db2kibana/import_slack_team_stats.rb" />
       <jump line="0" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
+      <jump line="97" column="57" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
+      <jump line="69" column="5" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPSApCg==</text>
+        <text encoding="base64">ICAgIHNsYWNrX2lkID09IFNldHRpbmdzLmFpcl9nbG9iYWxfdGVhbV9pZAogIGVuZAo=</text>
       </register>
       <register name="-" type="4">
         <text>icon_trending(@topic.latest_history[:impact][:type]</text>
       </register>
       <register name="/" type="4">
-        <text>emotis</text>
+        <text>setting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBiZWZvcmVfc2F2ZTogOnJlbmRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPSApCg==</text>
+        <text encoding="base64">ICAgIHNsYWNrX2lkID09IFNldHRpbmdzLmFpcl9nbG9iYWxfdGVhbV9pZAogIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y2xhc3MgVGVhbSA8IEFjdGl2ZVJlY29yZDo6QmFzZQogIGJlbG9uZ3NfdG8gOnBsYW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgak8K</text>
+        <text encoding="base64">ICAgICAgPSApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgcmVuZGVyCiAgZW5kCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">CiAgak8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgcmVwb3J0ID0gdGVhbS5yZXBvcnRzLmNyZWF0ZQojIHJlcG9ydC5nZW5lcmF0ZQojIHJlcG9ydC5zYXZlCgoK</text>
+        <text encoding="base64">ICBkZWYgcmVuZGVyCiAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJhaWwucm9vdC4K</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgczNfbGluawogICAgIAogIGVuZAoK</text>
+        <text encoding="base64">CiMgcmVwb3J0ID0gdGVhbS5yZXBvcnRzLmNyZWF0ZQojIHJlcG9ydC5nZW5lcmF0ZQojIHJlcG9ydC5zYXZlCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBkZWYgCg==</text>
+        <text encoding="base64">ICAgIFJhaWwucm9vdC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>emotis</last-search>
+      <last-search>setting</last-search>
       <last-offset />
-      <last-pattern>emotis</last-pattern>
+      <last-pattern>setting</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -973,10 +982,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFcnJvclw+</entry>
-        <entry>missing</entry>
-        <entry>scope</entry>
-        <entry>Missing</entry>
         <entry encoding="base64">XDx1c2Vyc19saXN0XD4=</entry>
         <entry encoding="base64">XDxtZXRob2RfbWlzc2luZ1w+</entry>
         <entry>bind</entry>
@@ -993,6 +998,10 @@
         <entry encoding="base64">XDx1c2VyX3Byb2ZpbGVzXD4=</entry>
         <entry>vibe_calculator</entry>
         <entry>emotis</entry>
+        <entry>teams</entry>
+        <entry encoding="base64">XDxzZXR0aW5nc2xvZ2ljXD4=</entry>
+        <entry>config</entry>
+        <entry>setting</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
