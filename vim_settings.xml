@@ -137,11 +137,12 @@
         <mark key="." line="9" column="92" />
         <mark key="^" line="9" column="92" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_stats_spec.rb" timestamp="1493174537690">
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/channel_stats_spec.rb" timestamp="1493174670827">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="79" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="59" column="59" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notifications.html.haml" timestamp="1491199784863">
         <mark key="'" line="12" column="12" />
@@ -691,6 +692,10 @@
         <mark key="." line="77" column="68" />
         <mark key="^" line="77" column="68" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_user_info.rb" timestamp="1493174640375">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_messages.rb" timestamp="1492409278431">
         <mark key="'" line="17" column="14" />
         <mark key="[" line="94" column="0" />
@@ -953,43 +958,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoY2hhbm5lbCkudG8gcmVjZWl2ZSg6bG9hZF9zbGFja19tZW1iZXJzKS5hbmRfcmV0dXJuKHNsYWNrX21lbWJlcnMpCg==</text>
+        <text encoding="base64">ICAgIGxldCg6c2xhY2tfdXNlcnMpIHsgRmFjdG9yR2lybC5jcmVhdGUoOnNsYWNrX3VzZXJfaW5mbykgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>slack_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXZlX3JlY2lldmVkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoY2hhbm5lbCkudG8gcmVjZWl2ZSg6bG9hZF9zbGFja19tZW1iZXJzKS5hbmRfcmV0dXJuKHNsYWNrX21lbWJlcnMpCg==</text>
+        <text encoding="base64">ICAgIGxldCg6c2xhY2tfdXNlcnMpIHsgRmFjdG9yR2lybC5jcmVhdGUoOnNsYWNrX3VzZXJfaW5mbykgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSBkbyBhbGxvdyhjaGFubmVvKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGxldCg6c2xhY2tfdXNlcnMpIHsgRmFjdG9yR2lybC5jcmVhdGUoOnNsYWNrX3VzZXJfaW5mbykgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgeyB9Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSBkbyBhbGxvdyhjaGFubmVvKQogICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBpdCBkbwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgeyB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBpdCBkbwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgeyBjaGFubmVsLnVwZGF0ZV9zdGF0cyB9Cgo=</text>
+        <text encoding="base64">ICAgICAgeyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgeyBjaGFubmVsLnVwZGF0ZV9zdGF0cyB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCg6c2xhY2tfbWVtYmVycykgeyBBcnJheS5uZXcoMikgeyBGYWtlcjo6U2xhY2sudXNlcl9pZCB9IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCg6c2xhY2tfbWVtYmVycykgeyBBcnJheS5uZXcoMikgeyBGYWtlcjo6U2xhY2sudXNlcl9pZCB9IH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
