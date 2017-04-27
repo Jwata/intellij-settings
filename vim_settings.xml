@@ -51,6 +51,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1492047820572">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
         <mark key="[" line="5" column="4" />
@@ -86,12 +91,17 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1493201119695">
+      <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1493260177942">
         <mark key="'" line="28" column="4" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="5" />
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" timestamp="1491545075734">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/admin/home.coffee" timestamp="1484536649029">
         <mark key="'" line="2" column="26" />
@@ -163,6 +173,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/banner_notifications_controller.rb" timestamp="1492418384561">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/force_caluculate_morales.rb" timestamp="1485145829237">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="0" column="6" />
@@ -176,6 +191,11 @@
         <mark key="]" line="26" column="37" />
         <mark key="." line="26" column="37" />
         <mark key="^" line="24" column="28" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/conversation_spec.rb" timestamp="1491898811501">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/suggest_channel.rb" timestamp="1485315150504">
         <mark key="'" line="32" column="21" />
@@ -206,11 +226,9 @@
         <mark key="^" line="18" column="82" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1493258232652">
-        <mark key="'" line="107" column="6" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="120" column="3" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1492419835899">
         <mark key="'" line="22" column="36" />
@@ -225,6 +243,11 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
         <mark key="^" line="76" column="9" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/initializers/rack_profiler.rb" timestamp="1491285194447">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1493200779219">
         <mark key="'" line="19" column="6" />
@@ -301,6 +324,11 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_team.html.haml" timestamp="1492502245189">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/lib/vibe/mailchimp.rb" timestamp="1490928854763">
         <mark key="'" line="37" column="13" />
         <mark key="[" line="3" column="0" />
@@ -343,19 +371,23 @@
         <mark key="." line="5" column="108" />
         <mark key="^" line="5" column="111" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/.pgsync-staging.yml" timestamp="1490940013093">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" timestamp="1493258579971">
         <mark key="'" line="137" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
-        <mark key="^" line="65" column="26" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_stats.rb" timestamp="1493254905361">
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_stats.rb" timestamp="1493259766828">
         <mark key="'" line="17" column="21" />
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="12" column="110" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" timestamp="1492409384747">
         <mark key="'" line="137" column="0" />
@@ -659,6 +691,11 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/models/keyword.rb" timestamp="1492498875683">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+      </file>
       <file name="/Dummy.txt" timestamp="1493258418879">
         <mark key="[" line="0" column="0" />
       </file>
@@ -690,6 +727,21 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/interactors/impactful_conversations.rb" timestamp="1492503288401">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/lib/watson/emotions_spec.rb" timestamp="1491808212268">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/styleguides/index.html.haml" timestamp="1492493577296">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/services/engine_spec.rb" timestamp="1484903183653">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="36" column="0" />
@@ -717,6 +769,11 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" timestamp="1492502218558">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/keywords_spec.rb" timestamp="1487839379033">
         <mark key="'" line="9" column="10" />
@@ -807,8 +864,6 @@
       <jump line="27" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
       <jump line="38" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" />
       <jump line="39" column="17" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" />
-      <jump line="8" column="37" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_stats.rb" />
-      <jump line="17" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_stats.rb" />
       <jump line="81" column="12" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="82" column="11" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="91" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
@@ -847,55 +902,57 @@
       <jump line="108" column="32" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="15" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="139" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
+      <jump line="8" column="36" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_stats.rb" />
+      <jump line="17" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/channel_stats.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6ZmlsdGVyX3VzZXJfbWVzc2FnZXMKCg==</text>
+      <register name="&quot;" type="4">
+        <text>wegith</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsg</text>
+        <text>wegith</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWx0ZXJfdXNlcl9tZXNzYWdlc1w+</text>
+        <text encoding="base64">XDxsb2FkX3NsYWNrX21lbWJlcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1dHMgbWVzc2FnZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6ZmlsdGVyX3VzZXJfbWVzc2FnZXMKCg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZmlsdGVyX3VzZXJfbWVzc2FnZXMKICAgIHNlbGYubWVzc2FnZXMgPSBtZXNzYWdlcy5zZWxlY3QoJjp1c2VyX21lc3NhZ2U/KQogIGVuZAoK</text>
+        <text encoding="base64">ICBiZWZvcmVfdmFsaWRhdGlvbiA6ZmlsdGVyX3VzZXJfbWVzc2FnZXMKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiBtZXNzYWdlcy5uaWw/IHx8IG1lc3NhZ2VzLmVtcHR5Pwo=</text>
+        <text encoding="base64">ICBkZWYgZmlsdGVyX3VzZXJfbWVzc2FnZXMKICAgIHNlbGYubWVzc2FnZXMgPSBtZXNzYWdlcy5zZWxlY3QoJjp1c2VyX21lc3NhZ2U/KQogIGVuZAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXSB1bmxlc3MgbWVzc2FnZXMucHJlc2VudD8K</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiBtZXNzYWdlcy5uaWw/IHx8IG1lc3NhZ2VzLmVtcHR5Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbXSB1bmxlc3MgbWVzc2FnZXMucHJlc2VudD8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgc2xhY2tfbWVzc2FnZXMKICAgIEBzbGFja19tZXNzYWdlcyB8fD0gYmVnaW4KICAgICAgY2hhbm5lbC5zbGFja19hcGlfY2xpZW50LmNoYW5uZWxzX2hpc3RvcnkoY2hhbm5lbDogY2hhbm5lbC5zbGFja19pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2xkZXN0OiBzdGFydGVkX2F0LnRvX2YsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhdGVzdDogZW5kZWRfYXQudG9faSArIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1c2l2ZTogMSkKICAgIGVuZAogIGVuZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgc2xhY2tfbWVzc2FnZXMKICAgIEBzbGFja19tZXNzYWdlcyB8fD0gYmVnaW4KICAgICAgY2hhbm5lbC5zbGFja19hcGlfY2xpZW50LmNoYW5uZWxzX2hpc3RvcnkoY2hhbm5lbDogY2hhbm5lbC5zbGFja19pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2xkZXN0OiBzdGFydGVkX2F0LnRvX2YsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhdGVzdDogZW5kZWRfYXQudG9faSArIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1c2l2ZTogMSkKICAgIGVuZAogIGVuZAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgc2xhY2tfbWVzc2FnZXMKICAgIEBzbGFja19tZXNzYWdlcyB8fD0gYmVnaW4KICAgICAgY2hhbm5lbC5zbGFja19hcGlfY2xpZW50LmNoYW5uZWxzX2hpc3RvcnkoY2hhbm5lbDogY2hhbm5lbC5zbGFja19pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2xkZXN0OiBzdGFydGVkX2F0LnRvX2YsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhdGVzdDogZW5kZWRfYXQudG9faSArIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1c2l2ZTogMSkKICAgIGVuZAogIGVuZAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbGlhc19tZXRob2QgOissIDptZXJnZQoK</text>
+        <text encoding="base64">ICBkZWYgc2xhY2tfbWVzc2FnZXMKICAgIEBzbGFja19tZXNzYWdlcyB8fD0gYmVnaW4KICAgICAgY2hhbm5lbC5zbGFja19hcGlfY2xpZW50LmNoYW5uZWxzX2hpc3RvcnkoY2hhbm5lbDogY2hhbm5lbC5zbGFja19pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2xkZXN0OiBzdGFydGVkX2F0LnRvX2YsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhdGVzdDogZW5kZWRfYXQudG9faSArIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1c2l2ZTogMSkKICAgIGVuZAogIGVuZAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWx0ZXJfdXNlcl9tZXNzYWdlc1w+</last-search>
+      <last-search encoding="base64">XDxsb2FkX3NsYWNrX21lbWJlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWx0ZXJfdXNlcl9tZXNzYWdlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX3NsYWNrX21lbWJlcnNcPg==</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -911,7 +968,6 @@
         <entry encoding="base64">XDxncmFwaF9wb2ludHNcPg==</entry>
         <entry>append</entry>
         <entry encoding="base64">XDx0b3RhbF9tZW1iZXJzX2NvdW50XD4=</entry>
-        <entry encoding="base64">XDxsb2FkX3NsYWNrX21lbWJlcnNcPg==</entry>
         <entry>messages</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1fbWVzc2FnZXNcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJfcHJpdmF0ZV9maWVsZHNcPg==</entry>
@@ -923,6 +979,7 @@
         <entry encoding="base64">XDxzbGFja19tZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxjb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJfdXNlcl9tZXNzYWdlc1w+</entry>
+        <entry encoding="base64">XDxsb2FkX3NsYWNrX21lbWJlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
