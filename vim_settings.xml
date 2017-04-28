@@ -45,11 +45,12 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/top_half/_emotions_bars.html.haml" timestamp="1493200343423">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/top_half/_emotions_bars.html.haml" timestamp="1493344147159">
         <mark key="'" line="1" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/morales.rb" timestamp="1492047820572">
         <mark key="[" line="38" column="0" />
@@ -287,6 +288,13 @@
         <mark key="]" line="23" column="28" />
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/helpers/application_helper.rb" timestamp="1493344188036">
+        <mark key="'" line="15" column="15" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/badge_controller.rb" timestamp="1491274497190">
         <mark key="'" line="14" column="19" />
@@ -732,7 +740,7 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493339979877">
+      <file name="/Dummy.txt" timestamp="1493344191879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -840,9 +848,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="15" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="10" column="5" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
-      <jump line="54" column="34" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="42" column="93" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="37" column="72" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
       <jump line="34" column="4" filename="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" />
@@ -940,19 +945,22 @@
       <jump line="5" column="6" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
       <jump line="30" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/helpers/application_helper.rb" />
+      <jump line="13" column="43" filename="$USER_HOME$/enJapan/vibe/app/helpers/application_helper.rb" />
+      <jump line="15" column="15" filename="$USER_HOME$/enJapan/vibe/app/helpers/application_helper.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>engagement</text>
       </register>
       <register name="-" type="4">
-        <text>, impacts: []</text>
+        <text>engagement</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZpbmVfbWV0aG9kXD4=</text>
+        <text>engagement</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dCAnd2hlbiBubyBpbXBhY3QgZXhpc3RzJyBkbwogICAgICAgIGxldCg6bW9yYWxlKSB7IEZhY3RvcnlHaXJsLmJ1aWxkKDptb3JhbGUsIGltcGFjdHM6IFtdKSB9CgogICAgICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gYmVfbmlsIH0KICAgICAgZW5kCg==</text>
+      <register name="0" type="4">
+        <text>include_activity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -986,9 +994,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZpbmVfbWV0aG9kXD4=</last-search>
+      <last-search>engagement</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZpbmVfbWV0aG9kXD4=</last-pattern>
+      <last-pattern>engagement</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -996,7 +1004,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERUZBVUxUX09WRVJMQVBfT0ZGU0VUXD4=</entry>
         <entry encoding="base64">XDxtZXJnZVw+</entry>
         <entry encoding="base64">XDxlbmRcPg==</entry>
         <entry encoding="base64">XDxzbGFja19tZXNzYWdlc1w+</entry>
@@ -1016,6 +1023,7 @@
         <entry encoding="base64">XDxzdWJqZWN0XD4=</entry>
         <entry encoding="base64">XDxkZXNjcmliZWRfY2xhc3NcPg==</entry>
         <entry encoding="base64">XDxkZWZpbmVfbWV0aG9kXD4=</entry>
+        <entry>engagement</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
