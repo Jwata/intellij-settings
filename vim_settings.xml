@@ -38,6 +38,11 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/.pgsync-localhost.yml" timestamp="1493617016877">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/install_phantomjs.sh" timestamp="1489368073119">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="9" column="57" />
@@ -900,8 +905,8 @@
       <jump line="24" column="37" filename="$USER_HOME$/enJapan/vibe/app/views/morale/_impact_popup.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIHRlcm1fdmVjdG9ycwo=</text>
       </register>
       <register name="-" type="4">
         <text>.title</text>
@@ -913,31 +918,31 @@
         <text encoding="base64">aW1wYWN0ZnVsX2NvbnZlcnNhdGlvbnMua2V5d29yZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnZlcnNhdGlvbi50b3BpYwo=</text>
+        <text encoding="base64">ICAtIHRlcm1fdmVjdG9ycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb252ZXJzYXRpb24udG9waWMK</text>
+        <text encoding="base64">ICAtIHRva2Vucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBUb3BpYy5uZXcodGl0bGUgY29udmVyc2F0aW9uLmtleXdvcmQudGl0bGUsICkK</text>
+        <text encoding="base64">CmNvbnZlcnNhdGlvbi50b3BpYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb252ZXJzYXRpb24udG9waWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBUb3BpYy5uZXcodGl0bGUgY29udmVyc2F0aW9uLmtleXdvcmQudGl0bGUsICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wYWN0ZnVsX2NvbnZlcnNhdGlvbnMua2V5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlCgogIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLCBpbXBhY3RdCg==</text>
+        <text encoding="base64">aW1wYWN0ZnVsX2NvbnZlcnNhdGlvbnMua2V5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlCgogIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
