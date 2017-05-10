@@ -61,14 +61,14 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/reports_controller.rb" timestamp="1494319825160">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/reports_controller.rb" timestamp="1494377814551">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1494320154548">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1494378335707">
+        <mark key="'" line="104" column="16" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -833,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="17" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="144" column="23" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="132" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
@@ -933,55 +932,56 @@
       <jump line="20" column="12" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="103" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
+      <jump line="104" column="16" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bidning</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRpZ24K</text>
       </register>
       <register name="-" type="4">
         <text>bidning</text>
       </register>
       <register name="/" type="4">
-        <text>reports</text>
+        <text>channels</text>
       </register>
       <register name="0" type="4">
         <text>FREE_ELEMENTS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIGJpbmRpZ24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnQudmFsdWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcmVtb3ZlIHRoaXMgZnVuY3Rpb24gaWYgaXQncyBub3QgbmVjZXNzYXJ5IGFueW1vcmUKICAgIHJldHVybiBhcnJheQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBiaW5kaW5nLnByeQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3RhcnQudmFsdWUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIHRlcm1fdmVjdG9ycwo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogcmVtb3ZlIHRoaXMgZnVuY3Rpb24gaWYgaXQncyBub3QgbmVjZXNzYXJ5IGFueW1vcmUKICAgIHJldHVybiBhcnJheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHRva2Vucwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnZlcnNhdGlvbi50b3BpYwo=</text>
+        <text encoding="base64">ICAtIHRlcm1fdmVjdG9ycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb252ZXJzYXRpb24udG9waWMK</text>
+        <text encoding="base64">ICAtIHRva2Vucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBUb3BpYy5uZXcodGl0bGUgY29udmVyc2F0aW9uLmtleXdvcmQudGl0bGUsICkK</text>
+        <text encoding="base64">CmNvbnZlcnNhdGlvbi50b3BpYwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reports</last-search>
+      <last-search>channels</last-search>
       <last-offset />
-      <last-pattern>reports</last-pattern>
+      <last-pattern>channels</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1007,8 +1007,8 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV9zM19rZXlcPg==</entry>
         <entry encoding="base64">XDx1cGxvYWRfdG9fczNcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
-        <entry>channels</entry>
         <entry>reports</entry>
+        <entry>channels</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
