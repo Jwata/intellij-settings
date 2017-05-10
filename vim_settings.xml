@@ -61,11 +61,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/reports_controller.rb" timestamp="1494377814551">
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/reports_controller.rb" timestamp="1494407160587">
         <mark key="[" line="7" column="50" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1494378335707">
         <mark key="'" line="104" column="16" />
@@ -332,12 +332,12 @@
         <mark key="." line="55" column="2" />
         <mark key="^" line="57" column="24" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/report.rb" timestamp="1494406152539">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/report.rb" timestamp="1494407284144">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_channels.rb" timestamp="1493184437915">
         <mark key="'" line="0" column="0" />
@@ -941,8 +941,8 @@
       <jump line="132" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s3_key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">J3JlbmRlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>s3_key</text>
@@ -954,31 +954,31 @@
         <text>FREE_ELEMENTS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpZ24K</text>
+        <text encoding="base64">J3JlbmRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpZ24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBiaW5kaW5nLnByeQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnQudmFsdWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogcmVtb3ZlIHRoaXMgZnVuY3Rpb24gaWYgaXQncyBub3QgbmVjZXNzYXJ5IGFueW1vcmUKICAgIHJldHVybiBhcnJheQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBiaW5kaW5nLnByeQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc3RhcnQudmFsdWUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogcmVtb3ZlIHRoaXMgZnVuY3Rpb24gaWYgaXQncyBub3QgbmVjZXNzYXJ5IGFueW1vcmUKICAgIHJldHVybiBhcnJheQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHRlcm1fdmVjdG9ycwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHRva2Vucwo=</text>
+        <text encoding="base64">ICAtIHRlcm1fdmVjdG9ycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnZlcnNhdGlvbi50b3BpYwo=</text>
+        <text encoding="base64">ICAtIHRva2Vucwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
