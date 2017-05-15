@@ -340,8 +340,8 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/report.rb" timestamp="1494816112011">
-        <mark key="'" line="99" column="7" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/report.rb" timestamp="1494821072190">
+        <mark key="'" line="106" column="4" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/factories/slack_channels.rb" timestamp="1489737543811">
         <mark key="'" line="0" column="0" />
@@ -824,8 +824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="10" filename="$USER_HOME$/enJapan/vibe/config/locales/demo.en.yml.erb" />
-      <jump line="95" column="0" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
       <jump line="99" column="20" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
       <jump line="98" column="20" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
       <jump line="47" column="13" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
@@ -924,6 +922,8 @@
       <jump line="6" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="7" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="99" column="7" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
+      <jump line="118" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
+      <jump line="106" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -933,7 +933,7 @@
         <text>calculate_median_messages_count_per_member</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzM19rZXlcPg==</text>
+        <text encoding="base64">XDxnZW5lcmF0ZV9zM19rZXlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>median_messages_count_per_member</text>
@@ -970,9 +970,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzM19rZXlcPg==</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZV9zM19rZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzM19rZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9zM19rZXlcPg==</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -980,7 +980,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBvcnRhbmNlXD4=</entry>
         <entry>nega</entry>
         <entry encoding="base64">XDxtb3JhbGVcPg==</entry>
         <entry encoding="base64">XDx2aWJlX2NhbGN1bGF0b3JcPg==</entry>
@@ -1000,6 +999,7 @@
         <entry>load</entry>
         <entry>s3_key</entry>
         <entry encoding="base64">XDxzM19rZXlcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9zM19rZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
