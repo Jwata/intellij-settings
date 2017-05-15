@@ -223,12 +223,12 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1494822676329">
-        <mark key="'" line="31" column="31" />
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="32" />
-        <mark key="." line="71" column="32" />
-        <mark key="^" line="71" column="32" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" timestamp="1494826875240">
+        <mark key="'" line="88" column="37" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="7" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="88" column="7" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/has_banner_notification_spec.rb" timestamp="1492419835899">
         <mark key="'" line="22" column="36" />
@@ -548,7 +548,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" timestamp="1494822735614" />
+      <file name="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" timestamp="1494827119502">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1489391140836">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="125" column="0" />
@@ -659,12 +663,12 @@
         <mark key="." line="88" column="60" />
         <mark key="^" line="88" column="60" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" timestamp="1494822893778">
-        <mark key="'" line="24" column="22" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="^" line="18" column="80" />
-        <mark key="." line="16" column="8" />
+      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" timestamp="1494826795676">
+        <mark key="'" line="16" column="85" />
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="16" column="85" />
+        <mark key="^" line="16" column="85" />
+        <mark key="." line="16" column="85" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/postgres_to_elasticsearch.rb" timestamp="1491472717746">
         <mark key="'" line="14" column="11" />
@@ -735,7 +739,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494822836142">
+      <file name="/Dummy.txt" timestamp="1494827119923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -824,16 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/enJapan/vibe/spec/interactors/vibe_calculator_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/interactors/vibe_calculator_spec.rb" />
-      <jump line="57" column="4" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
-      <jump line="58" column="2" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
-      <jump line="3" column="2" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
-      <jump line="22" column="18" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
-      <jump line="17" column="18" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
-      <jump line="19" column="41" filename="$USER_HOME$/enJapan/vibe/spec/models/morale_spec.rb" />
-      <jump line="3" column="6" filename="$USER_HOME$/enJapan/vibe/spec/factories/conversations.rb" />
       <jump line="9" column="56" filename="$USER_HOME$/enJapan/vibe/spec/factories/conversations.rb" />
       <jump line="9" column="29" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
       <jump line="10" column="74" filename="$USER_HOME$/enJapan/vibe/app/models/morale.rb" />
@@ -919,60 +913,70 @@
       <jump line="60" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="53" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="61" column="19" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="31" column="31" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="15" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
       <jump line="17" column="9" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
       <jump line="28" column="8" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
-      <jump line="24" column="22" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="19" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="15" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="24" column="8" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="20" column="22" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="16" column="85" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
+      <jump line="41" column="40" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="83" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="30" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="31" column="40" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="40" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="88" column="37" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
+      <jump line="34" column="10" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGV4dCA9IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGV4dCA9IA==</text>
+        <text>clean_mentions</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhbl90ZXh0XD4=</text>
+        <text>put_emojis_in_brackets</text>
       </register>
       <register name="0" type="4">
-        <text>median_messages_count_per_member</text>
+        <text>clean_emojis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5sZXNzIHNlbGZbOnRleHRdLnByZXNlbnQ/CiAgICAgICAgQGNsZWFuX3RleHQgfHw9IGJlZ2luCiAgICAgICAgICB0ZXh0IGlmIHRleHQucHJlc2VudD8K</text>
+        <text encoding="base64">ICAgICAgZGVmIHB1dF9lbW9qaXNfaW5fYnJhY2tldHMKICAgICAgICBzZWxmLmdzdWIoRU1PSklfUEFUVEVSTikgZG8gfG1hdGNofAogICAgICAgICAgZW1vamlfc3RyID0gbWF0Y2guZ3N1YignOicsICcnKQogICAgICAgICAgIigje2Vtb2ppX3N0cn0pIgogICAgICAgIGVuZC5zdHJpcAogICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRleHQgPSBTbGFjazo6TWVzc2FnZXM6OlRleHQubmV3KHNlbGZbOnRleHRdKS5jbGVhbl91cmxzLmNsZWFuX21lbnRpb25zLnVuZXNjYXBlCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGNsZWFuX3RleHQhCiAgICAgICAgc2VsZls6dGV4dF0gPSBjbGVhbl90ZXh0CiAgICAgIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgLmNvbXBhY3QuZGVsZXRlX2lmKCY6Ymxhbms/KS5qb2luKCJcbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZG8gfG18CiAgICAgICAgbS5jbGVhbl90ZXh0LmNsZWFuX2Vtb2ppcy51bmVzY2FwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIGNsZWFuX3RleHQhCiAgICAgICAgc2VsZls6dGV4dF0gPSBjbGVhbl90ZXh0CiAgICAgIGVuZAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5sZXNzIHNlbGZbOnRleHRdLnByZXNlbnQ/CiAgICAgICAgQGNsZWFuX3RleHQgfHw9IGJlZ2luCiAgICAgICAgICB0ZXh0IGlmIHRleHQucHJlc2VudD8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgdmliZV9jYWxjdWxhdG9yCiAgICBAdmliZV9jYWxjdWxhdG9yIHx8PSBWaWJlQ2FsY3VsYXRvci5uZXcodGVhbS50cmFja2VkX2NoYW5uZWxzLmFsbCkKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRleHQgPSBTbGFjazo6TWVzc2FnZXM6OlRleHQubmV3KHNlbGZbOnRleHRdKS5jbGVhbl91cmxzLmNsZWFuX21lbnRpb25zLnVuZXNjYXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGVhbl90ZXh0XD4=</last-search>
+      <last-search>put_emojis_in_brackets</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhbl90ZXh0XD4=</last-pattern>
+      <last-pattern>put_emojis_in_brackets</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -980,10 +984,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50X3BlcmlvZF9tb3JhbGVzXD4=</entry>
-        <entry>time</entry>
-        <entry encoding="base64">XDxhbGxfbW9yYWxlc1w+</entry>
-        <entry encoding="base64">XDxhdmVyYWdlX2J5X2Vtb3Rpb25zXD4=</entry>
         <entry>bin</entry>
         <entry>to_h</entry>
         <entry encoding="base64">XDxwZGZcPg==</entry>
@@ -1000,6 +1000,10 @@
         <entry encoding="base64">XDxjYWxjdWxhdGVfaW1wb3J0YW5jZVw+</entry>
         <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
         <entry encoding="base64">XDxjbGVhbl90ZXh0XD4=</entry>
+        <entry>user_message?</entry>
+        <entry encoding="base64">XDxmdWxsX3RleHRcPg==</entry>
+        <entry encoding="base64">XDxqb2luXD4=</entry>
+        <entry>put_emojis_in_brackets</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
