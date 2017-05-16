@@ -913,7 +913,7 @@
         <text>$RAKE_TASK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</text>
+        <text>smoke</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgUkFLRV9UQVNLPSJjb3ZlcmJhbmQ6Y2xlYXIiCg==</text>
@@ -950,9 +950,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</last-search>
+      <last-search>smoke</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</last-pattern>
+      <last-pattern>smoke</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -960,7 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Jg==</entry>
         <entry encoding="base64">XDxncmFwaFBvaW50c1w+</entry>
         <entry encoding="base64">XDxzbGFja19jaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVfY2hhbm5lbF9oYW5kbGVyXD4=</entry>
@@ -980,6 +979,7 @@
         <entry encoding="base64">XDxHT0RfRElSXD4=</entry>
         <entry encoding="base64">XDxFQl9DT05GSUdfQVBQX1BJRFNcPg==</entry>
         <entry encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</entry>
+        <entry>smoke</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
