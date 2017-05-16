@@ -94,6 +94,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/11-db_sync.config" timestamp="1494915981643" />
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/admin/home.coffee" timestamp="1484536649029">
         <mark key="'" line="2" column="26" />
         <mark key="[" line="8" column="0" />
@@ -114,9 +115,6 @@
         <mark key="]" line="91" column="63" />
         <mark key="." line="36" column="2" />
         <mark key="^" line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/topic.rb" timestamp="1494576712498">
-        <mark key="'" line="14" column="41" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/morale_request_spec.rb" timestamp="1490781493895">
         <mark key="'" line="44" column="15" />
@@ -184,9 +182,6 @@
       <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/coverband-1.5.1/lib/coverband/base.rb" timestamp="1494915114692">
         <mark key="'" line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/show.haml" timestamp="1494838073330">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/suggest_channel.rb" timestamp="1485315150504">
         <mark key="'" line="32" column="21" />
         <mark key="[" line="33" column="18" />
@@ -237,6 +232,13 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
         <mark key="^" line="76" column="9" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" timestamp="1494916283507">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="76" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/initializers/coverband_middleware.rb" timestamp="1494914429287" />
       <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1493286440234">
@@ -730,6 +732,7 @@
         <mark key="." line="23" column="5" />
         <mark key="^" line="23" column="5" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/.ebextensions/20-sidekiq.config" timestamp="1494916073582" />
       <file name="$USER_HOME$/enJapan/vibe/spec/services/engine_spec.rb" timestamp="1484903183653">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="36" column="0" />
@@ -801,20 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="22" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
-      <jump line="16" column="85" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/message.rb" />
-      <jump line="41" column="40" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="83" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="30" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="31" column="40" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="40" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="88" column="37" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
-      <jump line="34" column="10" filename="$USER_HOME$/enJapan/vibe/lib/slack/messages/text.rb" />
-      <jump line="86" column="5" filename="$USER_HOME$/enJapan/vibe/Gemfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_impact.rb" />
-      <jump line="11" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/conversation_slack_messages.rb" />
-      <jump line="266" column="80" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="398" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="101" column="28" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="369" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
@@ -901,55 +890,69 @@
       <jump line="88" column="0" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/coverband-1.5.1/lib/coverband/base.rb" />
       <jump line="24" column="6" filename="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/coverband-1.5.1/lib/coverband/base.rb" />
       <jump line="22" column="4" filename="$USER_HOME$/enJapan/vibe/app/jobs/base_job.rb" />
+      <jump line="26" column="11" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="23" column="6" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="24" column="6" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="30" column="91" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="39" column="48" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="41" column="20" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="28" column="10" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="16" column="6" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="19" column="6" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="32" column="21" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="18" column="6" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="21" column="9" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="29" column="42" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
+      <jump line="12" column="6" filename="$USER_HOME$/enJapan/vibe/.ebextensions/30-coverband.config" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgUkFLRV9UQVNLPSIiCiAgICAgIFJBS0VfVEFTSz0iY292ZXJiYW5kOmJhc2VsaW5lIgoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$RAKE_TASK</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAnY292ZXJiYW5kL3Rhc2tzJwo=</text>
+        <text encoding="base64">ICAgICAgUkFLRV9UQVNLPSJjb3ZlcmJhbmQ6Y2xlYXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgUkFLRV9UQVNLPSIiCiAgICAgIFJBS0VfVEFTSz0iY292ZXJiYW5kOmJhc2VsaW5lIgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGlmIHN1IC1zIC9iaW4vYmFzaCAtYyAiYnVuZGxlIGV4ZWMgJEVCX1NDUklQVF9ESVIvY2hlY2stZm9yLXJha2UtdGFzay1pbi1jdXJyZW50LnJiICRSQUtFX1RBU0siICRFQl9BUFBfVVNFUjsgdGhlbgogICAgICAgICAgIyBjcmVhdGUgZGlyZWN0b3J5IHdoZXJlIGdvZCBzZXJ2aWNlIGNhbiBwdXQgaGlzIHBpZGZpbGVzCiAgICAgICAgICBpZiBbICEgLWQgJEdPRF9ESVIgXTsgdGhlbgogICAgICAgICAgICBta2RpciAtcCAkR09EX0RJUgogICAgICAgICAgICBjaG1vZCA3NTUgJEdPRF9ESVIKICAgICAgICAgICAgY2hvd24gJEVCX0FQUF9VU0VSOiRFQl9BUFBfVVNFUiAkR09EX0RJUgogICAgICAgICAgZmkKCiAgICAgICAgICAjIHJ1biBzaWRla2lxIHJ1bm5lciB1c2luZyByYWtlCiAgICAgIGVsc2UKICAgICAgICAgIGVjaG8gIk5vICRSQUtFX1RBU0sgdGFzayBpbiBSYWtlZmlsZSwgc2tpcHBpbmcgc2lkZWtpcSByZXN0YXJ0LiIKICAgICAgZmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdXNlIE1pZGRsZXdhcmUK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgR09EX0RJUj0vdmFyL3J1bi9nb2QK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNsYWNrX2NoYW5uZWwgPSB0ZWFtLnNsYWNrX2NoYW5uZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMuZmluZCB7IHxjfCBjWydpZCddID09IHNsYWNrX2lkIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFNsYWNrQ2hhbm5lbAo=</text>
+        <text encoding="base64">ICAgICAgUkFLRV9UQVNLPSJjb3ZlcmJhbmQ6Y2xlYXIiCiAgICAgIFJBS0VfVEFTSz0iY292ZXJiYW5kOmJhc2VsaW5lIgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OmphdmFzY3JpcHQK</text>
+        <text encoding="base64">ICAgICAgICAgIHN1IC1zIC9iaW4vYmFzaCAtYyAiYnVuZGxlIGV4ZWMgcmFrZSAkUkFLRV9UQVNLIiAkRUJfQVBQX1VTRVIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -957,11 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emmb</entry>
-        <entry encoding="base64">XDxjaGFubmVsX3RvcGljc1w+</entry>
-        <entry>team</entry>
-        <entry>image</entry>
-        <entry>name</entry>
         <entry encoding="base64">Jg==</entry>
         <entry encoding="base64">XDxncmFwaFBvaW50c1w+</entry>
         <entry encoding="base64">XDxzbGFja19jaGFubmVsXD4=</entry>
@@ -977,6 +975,11 @@
         <entry encoding="base64">XDx1bnNldF90cmFjZXJcPg==</entry>
         <entry encoding="base64">XDxyZXBvcnRfY292ZXJhZ2VcPg==</entry>
         <entry>bind</entry>
+        <entry encoding="base64">XDxSQUtFX1RBU0tcPg==</entry>
+        <entry encoding="base64">XDxFQl9DT05GSUdfQVBQX0NVUlJFTlRcPg==</entry>
+        <entry encoding="base64">XDxHT0RfRElSXD4=</entry>
+        <entry encoding="base64">XDxFQl9DT05GSUdfQVBQX1BJRFNcPg==</entry>
+        <entry encoding="base64">XDxFQl9TQ1JJUFRfRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
