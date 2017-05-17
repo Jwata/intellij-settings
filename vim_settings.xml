@@ -221,6 +221,12 @@
       <file name="$USER_HOME$/enJapan/vibe/vendor/bundle/ruby/2.2.0/gems/coverband-1.5.1/lib/coverband/base.rb" timestamp="1494915114692">
         <mark key="'" line="24" column="6" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notification_switch.html.haml" timestamp="1495006744172">
+        <mark key="[" line="1" column="102" />
+        <mark key="]" line="1" column="103" />
+        <mark key="^" line="1" column="103" />
+        <mark key="." line="1" column="103" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/suggest_channel.rb" timestamp="1485315150504">
         <mark key="'" line="32" column="21" />
         <mark key="[" line="33" column="18" />
@@ -814,7 +820,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495004858639">
+      <file name="/Dummy.txt" timestamp="1495006675035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -1027,7 +1033,7 @@
         <text>, token_allows_write: true</text>
       </register>
       <register name="/" type="4">
-        <text>Error</text>
+        <text>allow</text>
       </register>
       <register name="0" type="4">
         <text>scopes</text>
@@ -1064,9 +1070,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Error</last-search>
+      <last-search>allow</last-search>
       <last-offset />
-      <last-pattern>Error</last-pattern>
+      <last-pattern>allow</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1074,7 +1080,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVkZW50aWFsc1w+</entry>
         <entry encoding="base64">XDx0b2tlbl9hbGxvd3Nfd3JpdGVcPg==</entry>
         <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX3Rva2VuX2V4cGlyZV9hdFw+</entry>
@@ -1094,6 +1099,7 @@
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX3Rva2VuX2dpdmVuX2J5X3NsYWNrX2lkXD4=</entry>
         <entry>scopes</entry>
         <entry>Error</entry>
+        <entry>allow</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
