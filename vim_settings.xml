@@ -586,6 +586,9 @@
         <mark key="^" line="68" column="1" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/client.rb" timestamp="1494993519392">
+        <mark key="'" line="50" column="33" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/mailchimp_signup_job.rb" timestamp="1490929691797">
         <mark key="'" line="8" column="61" />
         <mark key="[" line="8" column="61" />
@@ -837,9 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/insights/show.haml" />
-      <jump line="7" column="14" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_team.html.haml" />
-      <jump line="17" column="19" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_team.html.haml" />
       <jump line="23" column="34" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_team.html.haml" />
       <jump line="18" column="2" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
       <jump line="28" column="28" filename="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" />
@@ -937,6 +937,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/channels/select/channels_list_selection/_confirm_channel_selection.html.haml" />
       <jump line="15" column="3" filename="$USER_HOME$/enJapan/vibe/app/views/channels/select/channels_list_selection/_confirm_channel_selection.html.haml" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/shared/_confirmation.html.haml" />
+      <jump line="2" column="10" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/client.rb" />
+      <jump line="25" column="9" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/client.rb" />
+      <jump line="50" column="33" filename="$USER_HOME$/enJapan/vibe/lib/vibe/slack_wrapper/client.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -946,7 +949,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5jZWxfbGlua1w+</text>
+        <text encoding="base64">XDxzbGFja19ydWJ5X2NsaWVudFw+</text>
       </register>
       <register name="0" type="4">
         <text>check_coverage</text>
@@ -983,9 +986,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5jZWxfbGlua1w+</last-search>
+      <last-search encoding="base64">XDxzbGFja19ydWJ5X2NsaWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5jZWxfbGlua1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzbGFja19ydWJ5X2NsaWVudFw+</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -993,8 +996,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm90ZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxERUZBVUxUX1RBQlNcPg==</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNfZm9sZGVyXD4=</entry>
         <entry>public_folder</entry>
@@ -1013,6 +1014,8 @@
         <entry>production</entry>
         <entry>confirm</entry>
         <entry encoding="base64">XDxjYW5jZWxfbGlua1w+</entry>
+        <entry>ruby</entry>
+        <entry encoding="base64">XDxzbGFja19ydWJ5X2NsaWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
