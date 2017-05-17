@@ -44,8 +44,8 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1495002416317">
-        <mark key="'" line="19" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1495011524224">
+        <mark key="'" line="10" column="9" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="25" />
@@ -216,6 +216,12 @@
         <mark key="." line="26" column="37" />
         <mark key="^" line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/monthly_report_generator.rb" timestamp="1495011437481">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notification_switch.html.haml" timestamp="1495006744172">
         <mark key="[" line="1" column="102" />
         <mark key="]" line="1" column="103" />
@@ -302,7 +308,7 @@
         <mark key="." line="40" column="13" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1493286440234">
+      <file name="$USER_HOME$/enJapan/vibe/app/models/morale.rb" timestamp="1495011682308">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="38" />
@@ -905,11 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
-      <jump line="46" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
-      <jump line="47" column="37" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/has_token.rb" />
-      <jump line="32" column="9" filename="$USER_HOME$/enJapan/vibe/spec/jobs/base_job_spec.rb" />
-      <jump line="34" column="24" filename="$USER_HOME$/enJapan/vibe/spec/jobs/base_job_spec.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="67" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/base_job_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/jobs/base_job_spec.rb" />
@@ -1005,16 +1006,21 @@
       <jump line="84" column="8" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="129" column="0" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
       <jump line="82" column="10" filename="$USER_HOME$/enJapan/vibe/features/step_definitions/common.rb" />
+      <jump line="26" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="8" column="12" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="33" column="9" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="9" column="9" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="10" column="9" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>now</text>
       </register>
       <register name="-" type="4">
-        <text>update_all_token_scopes</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VyXD4=</text>
+        <text encoding="base64">XDxjcmVhdGVkX2JlZm9yZVw+</text>
       </register>
       <register name="0" type="4">
         <text>with_admin_token</text>
@@ -1051,9 +1057,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVkX2JlZm9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVkX2JlZm9yZVw+</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1061,10 +1067,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Invalid</entry>
-        <entry encoding="base64">XDx3aXRoX2FkbWluX3Rva2VuXD4=</entry>
-        <entry encoding="base64">XDxhdXRoX2hhc2hcPg==</entry>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry>plan</entry>
         <entry>authorization_token_expire_at</entry>
         <entry encoding="base64">XDxhdXRob3JpemF0aW9uX3Rva2VuXD4=</entry>
@@ -1081,6 +1083,10 @@
         <entry>token</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
+        <entry>report</entry>
+        <entry>reports</entry>
+        <entry encoding="base64">XDxzaW5jZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVkX2JlZm9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/keyword/topic/g</entry>
