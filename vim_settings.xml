@@ -953,17 +953,16 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1495173711297">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="57" column="30" />
-        <mark key="." line="57" column="30" />
-        <mark key="^" line="57" column="30" />
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" timestamp="1495179708359">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="140" column="11" />
+        <mark key="]" line="140" column="15" />
+        <mark key="." line="140" column="15" />
+        <mark key="^" line="140" column="15" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/lib/watson.rb" timestamp="1495171750913" />
     </filemarks>
     <jumps>
-      <jump line="68" column="16" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
       <jump line="14" column="12" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/application.css.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
@@ -1063,13 +1062,14 @@
       <jump line="50" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="184" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="181" column="66" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
+      <jump line="34" column="15" filename="$USER_HOME$/enJapan/vibe/app/controllers/morale_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRvX2EK</text>
+      <register name="&quot;" type="4">
+        <text>1.month.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1.month.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50X21vbnRoX2NvbnZlcnNhdGlvbnNcPg==</text>
