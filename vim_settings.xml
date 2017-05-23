@@ -114,6 +114,12 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/layouts/application.html.haml" timestamp="1495511375665">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/interactors/vibe_calculator.rb" timestamp="1493260177942">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="45" column="21" />
@@ -817,6 +823,11 @@
         <mark key="." line="16" column="93" />
         <mark key="^" line="16" column="93" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/morale/show.html.haml" timestamp="1495511271127">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/jobs/all_corpuses_update_job_spec.rb" timestamp="1483780093041">
         <mark key="'" line="10" column="45" />
         <mark key="[" line="3" column="0" />
@@ -842,6 +853,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_menu.html.haml" timestamp="1495511540666">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="4" column="106" />
+        <mark key="." line="4" column="106" />
+        <mark key="^" line="4" column="106" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/reports/index.html.haml" timestamp="1494405478591">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="31" />
@@ -864,7 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="13" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="14" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="15" column="4" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -964,13 +980,14 @@
       <jump line="4" column="72" filename="$USER_HOME$/enJapan/vibe/app/controllers/admin/teams_controller.rb" />
       <jump line="95" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="40" column="21" filename="$USER_HOME$/enJapan/vibe/app/views/admin/teams/index.html.haml" />
+      <jump line="26" column="15" filename="$USER_HOME$/enJapan/vibe/app/views/layouts/application.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+      <register name="&quot;" type="4">
+        <text>_id</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGFja191c2Vyc1w+</text>
@@ -979,31 +996,31 @@
         <text>authorization_token</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgI2Rhc2hib2FyZC1tZW51LWJhcgogICAgICAgIC5nci0tMQogICAgICAgICAgPSByZW5kZXIgJ2FwcGxpY2F0aW9uL21lbnUnCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gYmluZGluZy5wcnkK</text>
+        <text encoding="base64">I2Rhc2hib2FyZC1tZW51LWJhcgogIC5nci0tMQogICAgPSByZW5kZXIgJ2FwcGxpY2F0aW9uL21lbnUnCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJyAnIGlmIHBvaW50LmlzTm93Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgaSA9PSAxICYmIHBvaW50LmlzTm93Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsYWJlbFRleHQgPSAocG9pbnQpIC0+Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJyAnIGlmIHBvaW50LmlzTm93Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHggPSB4RnJvbURhdGUocG9pbnQpCiAgICByZXR1cm4gJy4uLicgaWYgeCA9PSAwCiAgICByZXR1cm4gJ05PVycgaWYgcG9pbnQuaXNOb3cKICAgICQuZm9ybWF0LmRhdGUocG9pbnQuZGF0ZSwgbGluZSkK</text>
+        <text encoding="base64">ICAgICAgaWYgaSA9PSAxICYmIHBvaW50LmlzTm93Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsYWJlbFRleHQgPSAocG9pbnQpIC0+Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCiAgICAgIGlmIHBvaW50LmlzTm93CiAgICAgICAgaWYgaSA+IDAgdGhlbiAnICcgZWxzZSAnTk9XJwogICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIHggPSB4RnJvbURhdGUocG9pbnQpCiAgICByZXR1cm4gJy4uLicgaWYgeCA9PSAwCiAgICByZXR1cm4gJ05PVycgaWYgcG9pbnQuaXNOb3cKICAgICQuZm9ybWF0LmRhdGUocG9pbnQuZGF0ZSwgbGluZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
