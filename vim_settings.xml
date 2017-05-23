@@ -67,8 +67,8 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1494378335707">
-        <mark key="'" line="104" column="16" />
+      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1495505649200">
+        <mark key="'" line="48" column="26" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -846,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="20" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="19" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="7" column="2" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
       <jump line="44" column="49" filename="$USER_HOME$/enJapan/vibe/app/models/conversation.rb" />
@@ -946,6 +945,7 @@
       <jump line="132" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="86" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/modules/_header.scss" />
       <jump line="2" column="1" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/modules/_header.scss" />
+      <jump line="48" column="26" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -955,7 +955,7 @@
         <text>s3_key</text>
       </register>
       <register name="/" type="4">
-        <text>channels</text>
+        <text>notification</text>
       </register>
       <register name="0" type="4">
         <text>FREE_ELEMENTS</text>
@@ -992,9 +992,9 @@
       </register>
     </registers>
     <search>
-      <last-search>channels</last-search>
+      <last-search>notification</last-search>
       <last-offset />
-      <last-pattern>channels</last-pattern>
+      <last-pattern>notification</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1002,7 +1002,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbW90aW9uYWxJbXBhY3RcPg==</entry>
         <entry>Popup</entry>
         <entry>topic</entry>
         <entry encoding="base64">XDxtZWRpYW5cPg==</entry>
@@ -1022,6 +1021,7 @@
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry>reports</entry>
         <entry>channels</entry>
+        <entry>notification</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
