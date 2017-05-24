@@ -434,12 +434,11 @@
         <mark key="." line="38" column="36" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/spec/models/corpus_spec.rb" timestamp="1495528938052">
+      <file name="$USER_HOME$/enJapan/vibe/spec/models/corpus_spec.rb" timestamp="1495600307542">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/interactors/topics_provider_spec.rb" timestamp="1492409384747">
         <mark key="'" line="137" column="0" />
@@ -529,12 +528,12 @@
       <file name="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" timestamp="1495520759492">
         <mark key="'" line="207" column="4" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" timestamp="1495527867816">
-        <mark key="'" line="60" column="6" />
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="20" column="48" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" timestamp="1495600277394">
+        <mark key="'" line="33" column="69" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/database.yml" timestamp="1490939953336">
         <mark key="'" line="62" column="30" />
@@ -867,9 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
-      <jump line="63" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
-      <jump line="65" column="64" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
       <jump line="53" column="31" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
       <jump line="28" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
       <jump line="34" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
@@ -953,69 +949,72 @@
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/locales/emotions.en.yml" />
       <jump line="23" column="0" filename="$USER_HOME$/enJapan/vibe/config/locales/morale.en.yml" />
       <jump line="20" column="36" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
-      <jump line="27" column="5" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
-      <jump line="32" column="18" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
-      <jump line="33" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="35" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="39" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
-      <jump line="15" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
-      <jump line="16" column="5" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
-      <jump line="34" column="65" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="59" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
       <jump line="158" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="12" column="12" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="141" column="22" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/corpus_spec.rb" />
       <jump line="98" column="16" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
+      <jump line="22" column="28" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="34" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="38" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="15" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="16" column="5" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="27" column="5" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="18" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="32" column="18" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
+      <jump line="33" column="69" filename="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Number</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBGaXhudW0K</text>
       </register>
       <register name="-" type="4">
-        <text>Number</text>
+        <text>document_frequency</text>
       </register>
       <register name="/" type="4">
-        <text>users</text>
+        <text encoding="base64">XDxkb2NfZnJlcV90aHJlc2hvbGRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmV1dHJhbDogIkdvb2QiCiAgICAgIGdvb2Q6ICJGYW50YXN0aWMiCiAgICAgIGJhZDogIkxvdyIK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoZGYpLnRvIGJlX2EgRml4bnVtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3RhdGlzdGljLnRlcm0pLnRvIGJlX2EoU3RyaW5nKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMpLnRvIHJlc3BvbmRfdG8oOmRmKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMuZGYpLnRvIGJlX2EoRml4bnVtKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMuZGYpLnRvIGJlID49IDAKICAgICAgICBleHBlY3Qoc3RhdGlzdGljKS50byByZXNwb25kX3RvKDp0dGYpCiAgICAgICAgZXhwZWN0KHN0YXRpc3RpYy50dGYpLnRvIGJlX2EoRml4bnVtKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMudHRmKS50byBiZSA+PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBGaXhudW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpc3RpY3MudGVybXNbd29yZF0K</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3RhdGlzdGljLnRlcm0pLnRvIGJlX2EoU3RyaW5nKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMpLnRvIHJlc3BvbmRfdG8oOmRmKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMuZGYpLnRvIGJlX2EoRml4bnVtKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMuZGYpLnRvIGJlID49IDAKICAgICAgICBleHBlY3Qoc3RhdGlzdGljKS50byByZXNwb25kX3RvKDp0dGYpCiAgICAgICAgZXhwZWN0KHN0YXRpc3RpYy50dGYpLnRvIGJlX2EoRml4bnVtKQogICAgICAgIGV4cGVjdChzdGF0aXN0aWMudHRmKS50byBiZSA+PSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b19oCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpc3RpY3MudGVybXNbd29yZF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b19oCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">LSBiaW5kaW5nLnByeQo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGdvb2Q6ICdmYW50YXN0aWMgdmliZSEnCiAgICBuZXV0cmFsOiAnZ29vZCB2aWJlIScKICAgIGJhZDogJ2xvdyB2aWJlIScK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>users</last-search>
+      <last-search encoding="base64">XDxkb2NfZnJlcV90aHJlc2hvbGRcPg==</last-search>
       <last-offset />
-      <last-pattern>users</last-pattern>
+      <last-pattern encoding="base64">XDxkb2NfZnJlcV90aHJlc2hvbGRcPg==</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1023,10 +1022,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbGVtZW50c1w+</entry>
-        <entry>schemas</entry>
-        <entry>plan</entry>
-        <entry>plans</entry>
         <entry>most_con</entry>
         <entry encoding="base64">XDxlbW90aW9uXD4=</entry>
         <entry encoding="base64">XDxjb21wbGV0ZV9tZW1iZXJfaW5mb3JtYXRpb25cPg==</entry>
@@ -1036,13 +1031,17 @@
         <entry>bad</entry>
         <entry>good</entry>
         <entry encoding="base64">XDx0ZXJtX3N0YXRcPg==</entry>
-        <entry encoding="base64">XDxzdGF0aXN0aWNzXD4=</entry>
-        <entry encoding="base64">XDxkb2NfZnJlcV90aHJlc2hvbGRcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry>report</entry>
         <entry>ttf</entry>
         <entry>report.overall_team_morale</entry>
         <entry>users</entry>
+        <entry>df</entry>
+        <entry encoding="base64">XDx0ZXJtc1w+</entry>
+        <entry encoding="base64">XDxzdGF0aXN0aWNzXD4=</entry>
+        <entry encoding="base64">XDxkb2N1bWVudF9mcmVxdWVuY2llc1w+</entry>
+        <entry encoding="base64">XDxkb2N1bWVudF9mcmVxdWVuY3lcPg==</entry>
+        <entry encoding="base64">XDxkb2NfZnJlcV90aHJlc2hvbGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
