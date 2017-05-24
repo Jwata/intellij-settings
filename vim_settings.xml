@@ -64,8 +64,8 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1495517024000">
-        <mark key="'" line="127" column="16" />
+      <file name="$USER_HOME$/enJapan/vibe/db/schema.rb" timestamp="1495598113549">
+        <mark key="'" line="98" column="16" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/calculate_morales_job.rb" timestamp="1485147286733">
         <mark key="'" line="0" column="34" />
@@ -135,7 +135,6 @@
         <mark key="." line="36" column="2" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22/basic_object.rb" timestamp="1495526903988" />
       <file name="$USER_HOME$/enJapan/vibe/app/models/topic.rb" timestamp="1495518074605">
         <mark key="'" line="74" column="33" />
         <mark key="[" line="48" column="46" />
@@ -156,7 +155,6 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/reports/elements/_next_page.html.haml" timestamp="1495515358995" />
       <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/banner_notifications.rb" timestamp="1485510418110">
         <mark key="'" line="41" column="20" />
         <mark key="[" line="9" column="87" />
@@ -566,7 +564,6 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/reports/sections/_overall_morale.html.haml" timestamp="1495520294844" />
       <file name="$USER_HOME$/enJapan/vibe/spec/models/channel_spec.rb" timestamp="1489391140836">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="125" column="0" />
@@ -616,7 +613,6 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="66" column="6" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/refresh_team_members_details_job.rb" timestamp="1495514798122" />
       <file name="$USER_HOME$/enJapan/vibe/app/models/watson_emotions.rb" timestamp="1489546844426">
         <mark key="'" line="25" column="13" />
         <mark key="[" line="32" column="22" />
@@ -733,7 +729,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="61" column="3" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/channel_corpus_update_job.rb" timestamp="1495526495146" />
       <file name="$USER_HOME$/enJapan/vibe/config/initializers/mailchimp_settings.rb" timestamp="1490870134627">
         <mark key="'" line="5" column="27" />
         <mark key="[" line="24" column="20" />
@@ -872,7 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
       <jump line="61" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
       <jump line="63" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
       <jump line="65" column="64" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" />
@@ -972,6 +966,7 @@
       <jump line="12" column="12" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="141" column="22" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/corpus_spec.rb" />
+      <jump line="98" column="16" filename="$USER_HOME$/enJapan/vibe/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -981,7 +976,7 @@
         <text>Number</text>
       </register>
       <register name="/" type="4">
-        <text>report.overall_team_morale</text>
+        <text>users</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbmV1dHJhbDogIkdvb2QiCiAgICAgIGdvb2Q6ICJGYW50YXN0aWMiCiAgICAgIGJhZDogIkxvdyIK</text>
@@ -1018,9 +1013,9 @@
       </register>
     </registers>
     <search>
-      <last-search>report.overall_team_morale</last-search>
+      <last-search>users</last-search>
       <last-offset />
-      <last-pattern>report.overall_team_morale</last-pattern>
+      <last-pattern>users</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1028,7 +1023,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reports</entry>
         <entry encoding="base64">XDxlbGVtZW50c1w+</entry>
         <entry>schemas</entry>
         <entry>plan</entry>
@@ -1048,6 +1042,7 @@
         <entry>report</entry>
         <entry>ttf</entry>
         <entry>report.overall_team_morale</entry>
+        <entry>users</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
