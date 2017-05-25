@@ -516,10 +516,13 @@
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/admin/styleguide_controller.rb" timestamp="1492493496447">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" timestamp="1495520759492">
+      <file name="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" timestamp="1495678716290">
         <mark key="'" line="207" column="4" />
+        <mark key="[" line="41" column="14" />
+        <mark key="]" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/corpus.rb" timestamp="1495605030288" />
       <file name="$USER_HOME$/enJapan/vibe/config/database.yml" timestamp="1490939953336">
         <mark key="'" line="62" column="30" />
         <mark key="[" line="28" column="12" />
@@ -747,7 +750,7 @@
         <mark key="]" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495613963484">
+      <file name="/Dummy.txt" timestamp="1495678629148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -943,11 +946,11 @@
       <jump line="318" column="4" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Insights</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Insights</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXl3b3Jkc1w+</text>
