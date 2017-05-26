@@ -243,10 +243,11 @@
         <mark key="." line="26" column="37" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/index.scss" timestamp="1495772127923">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/home/index.scss" timestamp="1495780004482">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/channel_checks.rb" timestamp="1495697094427">
         <mark key="'" line="14" column="6" />
@@ -384,6 +385,7 @@
         <mark key="." line="33" column="49" />
         <mark key="^" line="33" column="49" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/components/menu.scss" timestamp="1495779968521" />
       <file name="$USER_HOME$/enJapan/vibe/features/step_definitions/insights.rb" timestamp="1490599452701">
         <mark key="'" line="53" column="112" />
         <mark key="[" line="55" column="2" />
@@ -837,7 +839,7 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495777836555">
+      <file name="/Dummy.txt" timestamp="1495779930622">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -1043,7 +1045,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAxMDA7Cg==</text>
+        <text encoding="base64">ICB6LWluZGV4Cg==</text>
       </register>
       <register name="-" type="4">
         <text>FactoryGirl.create(:channel, team: user.team, tracked: true)</text>
@@ -1055,31 +1057,31 @@
         <text encoding="base64">ICAgIGRlZiBjaGFubmVsc19ub3RfZm91bmQoX2UpCiAgICAgICMgRG8gbm90aGluZwogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAxMDA7Cg==</text>
+        <text encoding="base64">ICB6LWluZGV4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
+        <text encoding="base64">ICB6LWluZGV4OiAxMDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCg6dXNlcikgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLnJlZGlyZWN0X3VybCkudG8gZW5kX3dpdGgoJy9jaGFubmVscycpCg==</text>
+        <text encoding="base64">ICAgIGxldCg6dXNlcikgeyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCg6dXNlcikgeyBGYWN0b3J5R2lybC5jcmVhdGUoOnVzZXIpIH0KICAgIGJlZm9yZSg6ZWFjaCkgeyBsb2dpbl9hcyh1c2VyLCBzY29wZTogOnVzZXIpIH0K</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLnJlZGlyZWN0X3VybCkudG8gZW5kX3dpdGgoJy9jaGFubmVscycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSg6ZWFjaCkgeyBsb2dpbl9hcyh1c2VyLCBzY29wZTogOnVzZXIpIH0K</text>
+        <text encoding="base64">ICAgIGxldCg6dXNlcikgeyBGYWN0b3J5R2lybC5jcmVhdGUoOnVzZXIpIH0KICAgIGJlZm9yZSg6ZWFjaCkgeyBsb2dpbl9hcyh1c2VyLCBzY29wZTogOnVzZXIpIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgIldoZW4gYSB1c2VyIGRvZXNuJ3QgaGF2ZSBhbnkgY2hhbm5lbCIgZG8KICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGJlZm9yZSg6ZWFjaCkgeyBsb2dpbl9hcyh1c2VyLCBzY29wZTogOnVzZXIpIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDp1c2VyKSB7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6dXNlcikgfQogICAgICBiZWZvcmUoOmVhY2gpIHsgbG9naW5fYXModXNlciwgc2NvcGU6IDp1c2VyKSB9CiAgICAgIGl0ICdyZWRpcmVjdHMgdG8gY2hhbm5lbCBzZWxlY3Rpb24nIGRvCiAgICAgICAgZ2V0ICcvJwogICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gaGF2ZV9odHRwX3N0YXR1cyg6cmVkaXJlY3QpCiAgICAgICAgZXhwZWN0KHJlc3BvbnNlLnJlZGlyZWN0X3VybCkudG8gZW5kX3dpdGgoJy9jaGFubmVscycpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgIldoZW4gYSB1c2VyIGRvZXNuJ3QgaGF2ZSBhbnkgY2hhbm5lbCIgZG8KICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1118,7 +1120,6 @@
         <entry encoding="base64">XDxyZXNvbHV0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry>%s/current_graph/current_/g</entry>
         <entry>%s/current_graph/current/g</entry>
         <entry>%s/current_resolution/current_period/g</entry>
@@ -1137,6 +1138,7 @@
         <entry>k:w</entry>
         <entry>Lw</entry>
         <entry>q</entry>
+        <entry>vsp ./</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
