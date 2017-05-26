@@ -626,8 +626,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="44" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" timestamp="1495774561303">
-        <mark key="'" line="26" column="63" />
+      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" timestamp="1495782907549">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="44" column="125" />
+        <mark key="]" line="44" column="143" />
+        <mark key="^" line="44" column="122" />
+        <mark key="." line="44" column="125" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/sessions_spec.rb" timestamp="1484013380303">
         <mark key="'" line="0" column="0" />
@@ -839,7 +843,7 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495779930622">
+      <file name="/Dummy.txt" timestamp="1495782855279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -904,11 +908,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" timestamp="1495699386665">
+      <file name="$USER_HOME$/enJapan/vibe/app/controllers/insights_controller.rb" timestamp="1495782955866">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/admin/keywords_spec.rb" timestamp="1487839379033">
         <mark key="'" line="9" column="10" />
@@ -942,10 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="212" column="70" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="67" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="105" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="97" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="70" column="17" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="69" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
@@ -1042,19 +1043,23 @@
       <jump line="22" column="29" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
       <jump line="15" column="122" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
       <jump line="26" column="63" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="46" column="13" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="49" column="13" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="43" column="12" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="45" column="20" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB6LWluZGV4Cg==</text>
+      <register name="&quot;" type="4">
+        <text>params[:period]</text>
       </register>
       <register name="-" type="4">
-        <text>FactoryGirl.create(:channel, team: user.team, tracked: true)</text>
+        <text>params[:period]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvbHV0aW9uXD4=</text>
+        <text>insight--sidebar--settings--element</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBjaGFubmVsc19ub3RfZm91bmQoX2UpCiAgICAgICMgRG8gbm90aGluZwogICAgZW5kCg==</text>
+      <register name="0" type="4">
+        <text>current_resolution</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB6LWluZGV4Cg==</text>
@@ -1088,9 +1093,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNvbHV0aW9uXD4=</last-search>
+      <last-search>insight--sidebar--settings--element</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvbHV0aW9uXD4=</last-pattern>
+      <last-pattern>insight--sidebar--settings--element</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1098,7 +1103,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnNpZ2h0c1w+</entry>
         <entry>source</entry>
         <entry encoding="base64">XDxjdXJyZW50X2NoYW5uZWxcPg==</entry>
         <entry encoding="base64">XDxub3RfZm91bmRfZXJyb3JcPg==</entry>
@@ -1118,6 +1122,7 @@
         <entry encoding="base64">ZWNobyA=</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxyZXNvbHV0aW9uXD4=</entry>
+        <entry>insight--sidebar--settings--element</entry>
       </history-search>
       <history-cmd>
         <entry>%s/current_graph/current_/g</entry>
