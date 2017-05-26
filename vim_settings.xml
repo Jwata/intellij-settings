@@ -624,6 +624,9 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="44" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" timestamp="1495774561303">
+        <mark key="'" line="26" column="63" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/sessions_spec.rb" timestamp="1484013380303">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="16" />
@@ -937,9 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="84" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
-      <jump line="154" column="23" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="260" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="49" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="212" column="70" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="67" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
@@ -1037,6 +1037,9 @@
       <jump line="44" column="13" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
       <jump line="47" column="2" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
       <jump line="46" column="2" filename="$USER_HOME$/enJapan/vibe/.travis.yml" />
+      <jump line="22" column="29" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="15" column="122" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="26" column="63" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1046,7 +1049,7 @@
         <text>FactoryGirl.create(:channel, team: user.team, tracked: true)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ZWNobyA=</text>
+        <text encoding="base64">XDxyZXNvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBjaGFubmVsc19ub3RfZm91bmQoX2UpCiAgICAgICMgRG8gbm90aGluZwogICAgZW5kCg==</text>
@@ -1083,9 +1086,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ZWNobyA=</last-search>
+      <last-search encoding="base64">XDxyZXNvbHV0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ZWNobyA=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNvbHV0aW9uXD4=</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1093,8 +1096,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insights</entry>
-        <entry>wait</entry>
         <entry encoding="base64">XDxpbnNpZ2h0c1w+</entry>
         <entry>source</entry>
         <entry encoding="base64">XDxjdXJyZW50X2NoYW5uZWxcPg==</entry>
@@ -1113,6 +1114,8 @@
         <entry>current_channels</entry>
         <entry>find</entry>
         <entry encoding="base64">ZWNobyA=</entry>
+        <entry>sort</entry>
+        <entry encoding="base64">XDxyZXNvbHV0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
