@@ -253,6 +253,7 @@
         <mark key="." line="50" column="22" />
         <mark key="^" line="50" column="22" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/application/_notification_switch.html.haml" timestamp="1496028076919" />
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/concerns/channel_checks.rb" timestamp="1495697094427">
         <mark key="'" line="14" column="6" />
         <mark key="[" line="8" column="0" />
@@ -437,7 +438,8 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/users/settings/index.html.haml" timestamp="1495698337274">
+      <file name="$USER_HOME$/enJapan/vibe/app/views/users/settings/index.html.haml" timestamp="1496028089870">
+        <mark key="'" line="6" column="91" />
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="16" />
@@ -857,7 +859,7 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496022982667">
+      <file name="/Dummy.txt" timestamp="1496028077792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -961,8 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="77" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="57" column="45" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="78" column="38" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="83" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -1061,6 +1061,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
       <jump line="120" column="6" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
       <jump line="65" column="53" filename="$USER_HOME$/enJapan/vibe/config/initializers/rollbar.rb" />
+      <jump line="7" column="17" filename="$USER_HOME$/enJapan/vibe/app/views/users/settings/index.html.haml" />
+      <jump line="6" column="91" filename="$USER_HOME$/enJapan/vibe/app/views/users/settings/index.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1070,7 +1072,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>slack</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
@@ -1107,9 +1109,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>slack</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>slack</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1117,8 +1119,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFubmVsX3BhcmFtXD4=</entry>
-        <entry encoding="base64">XDx0cmFja2VkX2NoYW5uZWxzXD4=</entry>
         <entry>current</entry>
         <entry encoding="base64">XDxjdXJyZW50X2NoYW5uZWxzXD4=</entry>
         <entry>channels_not_found</entry>
@@ -1137,6 +1137,8 @@
         <entry encoding="base64">XDxoYW5kbGVfcmVzdGNsaWVudF9leGNlcHRpb25cPg==</entry>
         <entry encoding="base64">XDxJR05PUkVEX0VSUk9SU1w+</entry>
         <entry>bind</entry>
+        <entry>allow</entry>
+        <entry>slack</entry>
       </history-search>
       <history-cmd>
         <entry>%s/current_graph/current_/g</entry>
