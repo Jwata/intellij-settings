@@ -65,6 +65,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/initializers/rollbar.rb" timestamp="1496024438536">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/controllers/reports_controller.rb" timestamp="1495764762518">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="18" column="9" />
@@ -445,6 +450,12 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/application.yml" timestamp="1496022952783">
+        <mark key="'" line="94" column="2" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="50" column="25" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/.ebextensions/cwl-cf-metrics.config" timestamp="1485136671868">
         <mark key="'" line="82" column="35" />
         <mark key="[" line="87" column="34" />
@@ -506,12 +517,12 @@
         <mark key="^" line="34" column="37" />
         <mark key="." line="34" column="37" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" timestamp="1492497849225">
-        <mark key="'" line="93" column="13" />
-        <mark key="[" line="66" column="6" />
-        <mark key="]" line="66" column="5" />
-        <mark key="." line="66" column="5" />
-        <mark key="^" line="66" column="5" />
+      <file name="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" timestamp="1496024389724">
+        <mark key="'" line="118" column="6" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="123" column="24" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/requests/banner_notifications_request_spec.rb" timestamp="1492418817209">
         <mark key="'" line="7" column="10" />
@@ -553,6 +564,11 @@
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
         <mark key="^" line="18" column="89" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/channel_analysis_job.rb" timestamp="1496023412933">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/eb.yml" timestamp="1495684792249">
         <mark key="'" line="13" column="35" />
@@ -841,7 +857,7 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495782855279">
+      <file name="/Dummy.txt" timestamp="1496022982667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/admin/stats/index.html.haml" timestamp="1483768800280">
@@ -945,17 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="70" column="17" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="69" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="66" column="9" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="60" column="23" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="3" column="87" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="135" column="7" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="134" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="133" column="10" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="126" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
-      <jump line="112" column="15" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="89" column="13" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="77" column="8" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
       <jump line="57" column="45" filename="$USER_HOME$/enJapan/vibe/app/models/concerns/keywords_and_scores.rb" />
@@ -1045,55 +1050,66 @@
       <jump line="49" column="13" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
       <jump line="43" column="12" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
       <jump line="45" column="20" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="59" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="47" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="91" column="2" filename="$USER_HOME$/enJapan/vibe/config/application.yml" />
+      <jump line="88" column="10" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
+      <jump line="122" column="13" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
+      <jump line="12" column="37" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
+      <jump line="154" column="0" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
+      <jump line="120" column="6" filename="$USER_HOME$/enJapan/vibe/lib/watson/api.rb" />
+      <jump line="65" column="53" filename="$USER_HOME$/enJapan/vibe/config/initializers/rollbar.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>params[:period]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25maWcuZXhjZXB0aW9uX2xldmVsX2ZpbHRlcnMubWVyZ2UhKCdSZXN0Q2xpZW50OjpVbnByb2Nlc3NhYmxlRW50aXR5JyA9PiAnaWdub3JlJykK</text>
       </register>
       <register name="-" type="4">
-        <text>params[:period]</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>insight--sidebar--settings--element</text>
+        <text>bind</text>
       </register>
-      <register name="0" type="4">
-        <text>current_resolution</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB6LWluZGV4Cg==</text>
+        <text encoding="base64">ICBjb25maWcuZXhjZXB0aW9uX2xldmVsX2ZpbHRlcnMubWVyZ2UhKCdSZXN0Q2xpZW50OjpVbnByb2Nlc3NhYmxlRW50aXR5JyA9PiAnaWdub3JlJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB6LWluZGV4OiAxMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNjdWUgUmVzdENsaWVudDo6VW5wcm9jZXNzYWJsZUVudGl0eSA9PiBlCiAgICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgaWYgU2V0dGluZ3MuU0lERUtJUV9FTkFCTEVECiAgICAgICAgTW9udGhseVJlcG9ydEdlbmVyYXRvcjo6U2FtcGxlUmVwb3J0Sm9iLnBlcmZvcm1fbGF0ZXIoY2hhbm5lbC50ZWFtKQogICAgICBlbHNlCiAgICAgICAgVGhyZWFkLm5ldyB7CiAgICAgICAgICBNb250aGx5UmVwb3J0R2VuZXJhdG9yOjpTYW1wbGVSZXBvcnRKb2IucGVyZm9ybV9ub3coY2hhbm5lbC50ZWFtKQogICAgICAgIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCg6dXNlcikgeyB9Cg==</text>
+        <text encoding="base64">ICBkdW1teV93YXRzb25fYXBpOiB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLnJlZGlyZWN0X3VybCkudG8gZW5kX3dpdGgoJy9jaGFubmVscycpCg==</text>
+        <text encoding="base64">ICB6LWluZGV4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCg6dXNlcikgeyBGYWN0b3J5R2lybC5jcmVhdGUoOnVzZXIpIH0KICAgIGJlZm9yZSg6ZWFjaCkgeyBsb2dpbl9hcyh1c2VyLCBzY29wZTogOnVzZXIpIH0K</text>
+        <text encoding="base64">ICB6LWluZGV4OiAxMDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSg6ZWFjaCkgeyBsb2dpbl9hcyh1c2VyLCBzY29wZTogOnVzZXIpIH0K</text>
+        <text encoding="base64">ICAgICAgCiAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgIldoZW4gYSB1c2VyIGRvZXNuJ3QgaGF2ZSBhbnkgY2hhbm5lbCIgZG8KICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>insight--sidebar--settings--element</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern>insight--sidebar--settings--element</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1101,10 +1117,6 @@
     </search>
     <history>
       <history-search>
-        <entry>source</entry>
-        <entry encoding="base64">XDxjdXJyZW50X2NoYW5uZWxcPg==</entry>
-        <entry encoding="base64">XDxub3RfZm91bmRfZXJyb3JcPg==</entry>
-        <entry encoding="base64">XDxzYXZlX2xhc3Rfc2VsZWN0ZWRfY2hhbm5lbFw+</entry>
         <entry encoding="base64">XDxjaGFubmVsX3BhcmFtXD4=</entry>
         <entry encoding="base64">XDx0cmFja2VkX2NoYW5uZWxzXD4=</entry>
         <entry>current</entry>
@@ -1121,6 +1133,10 @@
         <entry>sort</entry>
         <entry encoding="base64">XDxyZXNvbHV0aW9uXD4=</entry>
         <entry>insight--sidebar--settings--element</entry>
+        <entry encoding="base64">XDxkdW1teV93YXRzb25fYXBpXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVfcmVzdGNsaWVudF9leGNlcHRpb25cPg==</entry>
+        <entry encoding="base64">XDxJR05PUkVEX0VSUk9SU1w+</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>%s/current_graph/current_/g</entry>
