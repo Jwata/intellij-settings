@@ -233,6 +233,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/styleguides/buttons.html.haml" timestamp="1496131367268">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="97" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/services/watson_dummy_spec.rb" timestamp="1483777368964">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="1" column="0" />
@@ -307,6 +312,12 @@
         <mark key="]" line="33" column="18" />
         <mark key="." line="33" column="18" />
         <mark key="^" line="32" column="45" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_read_on_slack.html.haml" timestamp="1496131728731">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/morale/index/_graph_emotions_selector.html.haml" timestamp="1489545676954">
         <mark key="'" line="9" column="52" />
@@ -672,7 +683,7 @@
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="47" />
         <mark key="." line="23" column="47" />
-        <mark key="^" line="24" column="53" />
+        <mark key="^" line="23" column="53" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/config/database.yml" timestamp="1496045641943">
         <mark key="'" line="62" column="30" />
@@ -815,10 +826,10 @@
         <mark key="^" line="8" column="69" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/insights/_quote.html.haml" timestamp="1496129051610">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="56" />
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/features/morales.feature" timestamp="1495684185644">
         <mark key="[" line="49" column="28" />
@@ -1076,7 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="8" filename="$USER_HOME$/enJapan/vibe/lib/watson/emotions.rb" />
       <jump line="77" column="17" filename="$USER_HOME$/enJapan/vibe/lib/watson/emotions.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/models/concerns/keywords_and_scores_spec.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/enJapan/vibe/app/models/keyword.rb" />
@@ -1176,46 +1186,47 @@
       <jump line="23" column="45" filename="$USER_HOME$/enJapan/vibe/config/locales/insights.en.yml" />
       <jump line="62" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/report.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/spec/helpers/keywords_helper_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/views/styleguides/buttons.html.haml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAuZmlyc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>.emotion</text>
       </register>
       <register name="0" type="4">
-        <text>most_confident</text>
+        <text>ga_event('topics', 'Read on Slack', @topic.latest_history.impact.label)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAuZmlyc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICAgIHRhcmdldDogOl9ibGFuaywgcmVsOiAnbm9vcGVuZXIgbm9yZWZlcnJlcicsIGRhdGE6IGdhX2V2ZW50KCd0b3BpY3MnLCAnUmVhZCBvbiBTbGFjaycsIEB0b3BpYy5sYXRlc3RfaGlzdG9yeS5pbXBhY3QubGFiZWwpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW1vdGlvbiwgc2NvcmUgPSBtb3N0X2NvbmZpZGVudAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCBDT05GSURFTlRfVEhSRVNIT0xECg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRhcmdldDogOl9ibGFuaywgcmVsOiAnbm9vcGVuZXIgbm9yZWZlcnJlcicsIGRhdGE6IGdhX2V2ZW50KCd0b3BpY3MnLCAnUmVhZCBvbiBTbGFjaycsIEB0b3BpYy5sYXRlc3RfaGlzdG9yeS5pbXBhY3QubGFiZWwpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBlbW90aW9uID0KCg==</text>
+        <text encoding="base64">ICAgICAgLCBjbGFzczogJ2J0biBidG4tc3VjY2VzcyBidG4tbGcnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGF0ZXN0X2hpc3RvcnkuZW1vdGlvbnMubW9zdF9jb25maWRlbnQK</text>
+        <text encoding="base64">ICAgICAgICA9bGlua190byh0KCdpbnNpZ2h0cy5yZWFkX29uX3NsYWNrLnJlYWQnKSwgQHRvcGljLmxhdGVzdF9oaXN0b3J5LmFyY2hpdmVfbGluaywgY2xhc3M6ICdidG4gYnRuLXN1Y2Nlc3MgYnRuLWxnJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBoYXNfY29uZmlkZW50ID0gdG9waWMubGF0ZXN0X2hpc3RvcnkuZW1vdGlvbnMuc2VuZCgiI3ttYXhfZW1vdGlvbn0/IikK</text>
+        <text encoding="base64">ICAgICAgLSBlbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
