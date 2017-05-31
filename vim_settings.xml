@@ -259,12 +259,12 @@
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/layout/_typography.scss" timestamp="1496121356606">
         <mark key="'" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/config/locales/insights.en.yml" timestamp="1496129344160">
+      <file name="$USER_HOME$/enJapan/vibe/config/locales/insights.en.yml" timestamp="1496193437004">
         <mark key="'" line="23" column="45" />
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="53" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/app/views/payments/_plan.html.haml" timestamp="1496132848082">
         <mark key="'" line="15" column="155" />
@@ -508,11 +508,11 @@
       <jump line="11" column="1" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/_variables.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICVwLnR5cG8tLXNpemUtLXRvb2x0aXAudHJpYWwK</text>
+      <register name="&quot;" type="4">
+        <text>had</text>
       </register>
       <register name="-" type="4">
-        <text>format_quote</text>
+        <text>had</text>
       </register>
       <register name="/" type="4">
         <text>radical-red</text>
