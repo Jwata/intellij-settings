@@ -51,12 +51,12 @@
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1496209057151">
-        <mark key="'" line="86" column="26" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="18" />
+      <file name="$USER_HOME$/enJapan/vibe/app/models/team.rb" timestamp="1496215317457">
+        <mark key="'" line="86" column="7" />
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/install_phantomjs.sh" timestamp="1489368073119">
         <mark key="'" line="8" column="15" />
@@ -1284,17 +1284,17 @@
       <jump line="94" column="9" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="84" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="87" column="43" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
-      <jump line="86" column="26" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="116" column="37" filename="$USER_HOME$/enJapan/vibe/app/controllers/payments_controller.rb" />
       <jump line="114" column="28" filename="$USER_HOME$/enJapan/vibe/app/controllers/payments_controller.rb" />
       <jump line="2" column="36" filename="$USER_HOME$/enJapan/vibe/features/insights.feature" />
+      <jump line="86" column="7" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>standard</text>
+        <text>belongs_to</text>
       </register>
       <register name="-" type="4">
-        <text>standard</text>
+        <text>belongs_to</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGFuXD4=</text>
