@@ -128,11 +128,6 @@
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/atoms/morale/_morale-icon.scss" timestamp="1496110105032">
         <mark key="'" line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/styleguides/typography.html.haml" timestamp="1496135437517">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="43" column="26" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/jobs/force_caluculate_morales.rb" timestamp="1485145829237">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="0" column="6" />
@@ -184,7 +179,7 @@
       <file name="$USER_HOME$/enJapan/vibe/config/locales/emotions.en.yml" timestamp="1495520866043">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" timestamp="1491212762919">
+      <file name="$USER_HOME$/enJapan/vibe/app/jobs/morale_swing_detection_job.rb" timestamp="1496207032720">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="18" column="72" />
         <mark key="]" line="18" column="82" />
@@ -520,11 +515,6 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/insights/_sidebar.scss" timestamp="1496107610014">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="112" column="25" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/.travis.yml" timestamp="1496030169950">
         <mark key="'" line="52" column="45" />
         <mark key="[" line="46" column="12" />
@@ -532,7 +522,7 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496202666968">
+      <file name="/Dummy.txt" timestamp="1496206436257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/services/engine_spec.rb" timestamp="1484903183653">
@@ -699,16 +689,6 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/styleguides/buttons.html.haml" timestamp="1496131367268">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="97" />
-      </file>
-      <file name="$USER_HOME$/enJapan/vibe/app/views/application/user_header_widget/_user_menu_button.html.haml" timestamp="1496194810290">
-        <mark key="'" line="4" column="22" />
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="6" column="78" />
-      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/atoms/emotions/_emotions.scss" timestamp="1496120149785">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -730,6 +710,9 @@
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/lib/notification/slack/mood_swing.rb" timestamp="1496206927951">
+        <mark key="'" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/suggest_channel.rb" timestamp="1485315150504">
         <mark key="'" line="32" column="21" />
@@ -1161,7 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="2" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_keyword_list.html.haml" />
       <jump line="125" column="18" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/keyword.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/keyword.scss" />
       <jump line="120" column="11" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/keyword.scss" />
@@ -1261,6 +1243,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/initializers/20_devise.rb" />
       <jump line="97" column="25" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="104" column="30" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="24" column="39" filename="$USER_HOME$/enJapan/vibe/lib/notification/slack/mood_swing.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1270,7 +1253,7 @@
         <text>slack_users</text>
       </register>
       <register name="/" type="4">
-        <text>paid</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQHNsYWNrX3VzZXJzIHx8PSBzbGFja19hcGlfY2xpZW50LnVzZXJzX2xpc3QucmVqZWN0IHsgfHh8IHhbJ2lzX2JvdCddIHx8IHhbJ2RlbGV0ZWQnXSB8fCB4WydpZCddID09IFNMQUNLQk9UX0lEIH0KICAgIHJlc2N1ZSBTbGFja0ludGVyZmFjZTo6SW52YWxpZFRva2VuRXJyb3IKICAgICAgW10KICAgIHJlc2N1ZSBWaWJlOjpTbGFja1dyYXBwZXI6OkVycm9yID0+IGVycm9yCiAgICAgIExvZ2dlclV0aWxpdHkud2FybihlcnJvci5tZXNzYWdlKQogICAgICBbXQo=</text>
@@ -1307,9 +1290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>paid</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>paid</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1317,7 +1300,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmlhbF9lbmRfZGF0ZVw+</entry>
         <entry>space</entry>
         <entry>yellow</entry>
         <entry>ff3366</entry>
@@ -1337,6 +1319,7 @@
         <entry encoding="base64">XDxpbnNpZ2h0c19uYXZfbGlua1w+</entry>
         <entry>pre</entry>
         <entry>paid</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>%s/current_resolution/current_period/g</entry>
