@@ -371,6 +371,9 @@
         <mark key="^" line="124" column="31" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/spec/lib/rate_limited_rest_client_spec.rb" timestamp="1496218680909">
+        <mark key="'" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/shared/onboarding.coffee" timestamp="1490844138322">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="62" column="0" />
@@ -416,6 +419,7 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="66" column="6" />
       </file>
+      <file name="$USER_HOME$/enJapan/vibe/lib/rate_limited_rest_client.rb" timestamp="1496218676785" />
       <file name="$USER_HOME$/enJapan/vibe/app/assets/javascripts/initialize.js" timestamp="1491895893676">
         <mark key="'" line="8" column="69" />
         <mark key="[" line="8" column="0" />
@@ -522,7 +526,7 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496217986141">
+      <file name="/Dummy.txt" timestamp="1496218681923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/services/engine_spec.rb" timestamp="1484903183653">
@@ -599,6 +603,12 @@
         <mark key="]" line="9" column="58" />
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
+      </file>
+      <file name="$USER_HOME$/enJapan/vibe/config/initializers/rollbar.rb" timestamp="1496218704559">
+        <mark key="'" line="69" column="17" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/enJapan/vibe/spec/models/concerns/morale_calculations_spec.rb" timestamp="1485247737923">
         <mark key="'" line="118" column="4" />
@@ -1142,9 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/enJapan/vibe/app/views/insights/_quote.html.haml" />
-      <jump line="35" column="35" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/_variables.scss" />
-      <jump line="69" column="64" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/_variables.scss" />
       <jump line="71" column="64" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/_variables.scss" />
       <jump line="148" column="0" filename="$USER_HOME$/enJapan/vibe/app/assets/stylesheets/_variables.scss" />
       <jump line="154" column="2" filename="$USER_HOME$/enJapan/vibe/config/locales/webapp.en.yml" />
@@ -1242,55 +1249,58 @@
       <jump line="98" column="21" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="22" column="6" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
       <jump line="23" column="16" filename="$USER_HOME$/enJapan/vibe/app/models/team.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/enJapan/vibe/config/initializers/rollbar.rb" />
+      <jump line="2" column="15" filename="$USER_HOME$/enJapan/vibe/spec/lib/rate_limited_rest_client_spec.rb" />
+      <jump line="69" column="17" filename="$USER_HOME$/enJapan/vibe/config/initializers/rollbar.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMTJweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>belongs_to</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>ignore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwYWRkaW5nOiAxMHB4IDIwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMTJweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkKICAgICAgcGxhbiA9PSBzZWxmLmNsYXNzLnNlbmQocGxhbikK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHggMTJweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5kZWZhdWx0X3BsYW4KICAgIFBsYW4uZnJlZQogIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkKICAgICAgcGxhbiA9PSBzZWxmLmNsYXNzLnNlbmQocGxhbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5lbnRlcnByaXNlCiAgICBQbGFuLmZpbmRfYnkobmFtZTogJ2VudGVycHJpc2UnKQogIGVuZAoK</text>
+        <text encoding="base64">ICBkZWYgc2VsZi5kZWZhdWx0X3BsYW4KICAgIFBsYW4uZnJlZQogIGVuZAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5wcmVtaXVtCiAgZW5kCgo=</text>
+        <text encoding="base64">ICBkZWYgc2VsZi5lbnRlcnByaXNlCiAgICBQbGFuLmZpbmRfYnkobmFtZTogJ2VudGVycHJpc2UnKQogIGVuZAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICBkZWYgc2VsZi5wcmVtaXVtCiAgZW5kCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBsYW4uZmluZF9ieShuYW1lOiAncHJlbWl1bScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBsYW4uZmluZF9ieShuYW1lOiAncHJlbWl1bScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>ignore</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>ignore</last-pattern>
       <last-replace>label</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -1298,8 +1308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>quote</entry>
-        <entry>quot</entry>
         <entry>navs</entry>
         <entry>nav</entry>
         <entry encoding="base64">XDxpbnNpZ2h0c19uYXZfbGlua1w+</entry>
@@ -1318,6 +1326,8 @@
         <entry>padding</entry>
         <entry>icon</entry>
         <entry>admin</entry>
+        <entry encoding="base64">XDxSYXRlTGltaXRlZFJlc3RDbGllbnRcPg==</entry>
+        <entry>ignore</entry>
       </history-search>
       <history-cmd>
         <entry>%s/current_resolution/current_period/g</entry>
